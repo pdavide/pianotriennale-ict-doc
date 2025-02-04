@@ -1,11 +1,15 @@
-Formazione, gestione e conservazione dei documenti informatici 
-===============================================================
+Formazione, gestione e conservazione dei documenti informatici
+==============================================================
 
 Scenario
 --------
 
+Il tema della dematerializzazione degli archivi cartacei risulta cruciale
+affinché le amministrazioni possano conseguire i propri obiettivi di
+digitalizzazione.
+
 Le nuove Linee guida sulla formazione, gestione e conservazione dei
-documenti informatici dell'Agenzia per l'Italia Digitale, adottate ai
+documenti informatici dell'Agenzia per l'Italia digitale, adottate ai
 sensi dell'art. 71 del CAD e in vigore dal 1° gennaio 2022,
 rappresentano un importante contributo nel rafforzamento e
 nell'armonizzazione del quadro normativo di riferimento in tema di
@@ -48,10 +52,10 @@ nei processi documentali, nonché ad ottemperare alle seguenti misure:
 
 -  pubblicazione dei provvedimenti formali di nomina e dei manuali in
    una parte chiaramente identificabile dell'area "Amministrazione
-   trasparente", prevista dall'art. 9 del d.lgs. 33/2013;
+   trasparente", prevista dall'art. 9 del D.Lgs. 33/2013;
 
 -  rispetto delle misure minime di sicurezza ICT, emanate da AGID con
-   circolare del 18 aprile 2017, n. 2/2017;
+   Circolare del 18 aprile 2017, n. 2/2017;
 
 -  rispetto delle in materia di protezione dei dati personali, ai sensi
    dell'art. 32 del Regolamento UE 679/2016 (GDPR);
@@ -67,18 +71,22 @@ elemento fondamentale nella prestazione di servizi di alta qualità ai
 cittadini e alle imprese, assicurando trasparenza, accessibilità e
 protezione di dati e documenti.
 
-Nell'ambito delle sue funzioni di vigilanza, verifica, controllo e
-monitoraggio, e conformemente a quanto stabilito dall'articolo 18-bis
-del Codice dell'Amministrazione Digitale - CAD, l'Agenzia per l'Italia
-Digitale ha pianificato di avviare un'attività di monitoraggio
+Nell'ambito delle sue funzioni di vigilanza, verifica, controllo e monitoraggio,
+e conformemente a quanto stabilito dall'articolo 18-bis del CAD, l'Agenzia per
+l'Italia digitale ha pianificato di avviare un'attività di monitoraggio
 riguardante l'adempimento degli obblighi specificati dalle Linee guida.
 
 A questo scopo, entro il 2024 verrà sviluppato un modello basato su
 indicatori chiari e dettagliati, supportato da un accurato percorso
 metodologico. Questo permetterà di procedere con un monitoraggio
 efficace e sistematico, da realizzarsi entro il 2025 per le disposizioni
-sulla Gestione documentale, e entro il 2026 per quelle relative alla
+sulla Gestione documentale, ed entro il 2026 per quelle relative alla
 Conservazione digitale.
+
+Per il futuro a breve termine, al fine di consentire alle amministrazioni di
+realizzare le attività di dematerializzazione degli archivi cartacei sarà
+necessario definire ulteriori adeguati strumenti di procurement che possano
+supportare il conseguimento degli obiettivi di digitalizzazione.
 
 Contesto normativo
 ------------------
@@ -123,10 +131,10 @@ Riferimenti normativi italiani:
 
 -  `Vademecum per l'implementazione delle Linee guida sulla formazione,
    gestione e conservazione dei documenti informatici, AGID
-   (2022) <https://www.agid.gov.it/sites/default/files/repository_files/vademecum_per_limplementazione_delle_linee_guida_sulla_formazione_gestione_e_conservazione_dei_documenti_informatici.pdf>`__.
+   (2022) <https://www.agid.gov.it/sites/default/files/repository_files/vademecum_per_limplementazione_delle_linee_guida_sulla_formazione_gestione_e_conservazione_dei_documenti_informatici.pdf>`__
 
 -  `Modelli di interoperabilità tra sistemi di conservazione, AGID
-   (2022). <https://www.agid.gov.it/sites/default/files/repository_files/interoperabilita_aip_0.pdf>`__
+   (2022) <https://www.agid.gov.it/sites/default/files/repository_files/interoperabilita_aip_0.pdf>`__
 
 -  `La conservazione delle basi di dati, AGID
    (2023) <https://www.agid.gov.it/sites/default/files/repository_files/La%20conservazione%20delle%20basi%20di%20dati.pdf>`__
@@ -142,23 +150,23 @@ Riferimenti normativi europei:
    persone fisiche con riguardo al trattamento dei dati
    personali. <https://www.garanteprivacy.it/documents/10160/0/Regolamento+UE+2016+679.+Arricchito+con+riferimenti+ai+Considerando+Aggiornato+alle+rettifiche+pubblicate+sulla+Gazzetta+Ufficiale++dell%27Unione+europea+127+del+23+maggio+2018>`__
 
-Obiettivo 3.3 - Consolidare l'applicazione delle Linee guida per la formazione, gestione e conservazione documentale 
----------------------------------------------------------------------------------------------------------------------
+Obiettivo 3.3 - Consolidare l'applicazione delle Linee guida per la formazione, gestione e conservazione documentale
+--------------------------------------------------------------------------------------------------------------------
 
-*RA3.3.1 - Monitorare l'attuazione delle linee guida*
+*RA3.3.1 - Monitorare l'attuazione delle Linee guida*
 
 -  **Target 2024** - Costruzione *baseline* per il monitoraggio
-   dell'attuazione delle Linee Guida
+   dell'attuazione delle Linee guida
 
--  **Target 2025** - Il 100% delle amministrazioni devono avere adottato
-   e pubblicato il manuale di gestione documentale, la nomina del
-   responsabile della gestione documentale per ciascuna AOO e qualora
-   siano presenti più AOO la nomina del Coordinatore della gestione
-   documentale in "Amministrazione trasparente"
+-  **Target 2025** - Il 100% delle amministrazioni devono avere adottato il
+   Manuale di gestione documentale, nominato il Responsabile della gestione
+   documentale per ciascuna Area Organizzativa Omogenea (AOO) e, qualora siano
+   presenti più AOO, nominato anche il Coordinatore della gestione documentale,
+   pubblicando gli atti in "Amministrazione trasparente"
 
--  **Target 2026** - Il 100% delle amministrazioni devono avere adottato
-   e pubblicato il manuale di conservazione e la nomina del Responsabile
-   della conservazione in "Amministrazione trasparente"
+-  **Target 2026** - Il 100% delle amministrazioni devono avere adottato il
+   Manuale di conservazione e nominato il Responsabile della conservazione,
+   pubblicando gli atti in "Amministrazione trasparente"
 
 Linee di azione istituzionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -166,7 +174,7 @@ Linee di azione istituzionali
 RA3.3.1
 ^^^^^^^
 
--  **Giugno 2024** - Pubblicazione di un modello per il monitoraggio -
+-  **Dicembre 2024 \*** - Pubblicazione di un modello per il monitoraggio -
    (AGID) - CAP3.29
 
 -  **Dicembre 2025** - Completamento attività di monitoraggio relativo
@@ -181,17 +189,17 @@ Linee di azione per le PA
 RA3.3.1
 ^^^^^^^
 
-Dal primo gennaio 2022 sono entrate in vigore le linee guida sulla
+Dal primo gennaio 2022 sono entrate in vigore le Linee guida sulla
 formazione, gestione e conservazione dei documenti informatici. Oltre al
 rispetto della normativa previgente le amministrazioni sono tenute a
-rispettare quanto previsto dalle suddette linee guida.
+rispettare quanto previsto dalle suddette Linee guida.
 
 -  **Giugno 2025** - Le PA devono verificare che in "Amministrazione
-   trasparente" sia pubblicato il manuale di gestione documentale, la
-   nomina del responsabile della gestione documentale per ciascuna AOO e
-   qualora siano presenti più AOO la nomina del coordinatore della
-   gestione documentale - CAP3.PA.17
+   trasparente" sia pubblicato il Manuale di gestione documentale, la nomina del
+   Responsabile della gestione documentale per ciascuna AOO e, qualora siano
+   presenti più AOO, la nomina del Coordinatore della gestione documentale -
+   CAP3.PA.17
 
 -  **Giugno 2026** - Le PA devono verificare che in "Amministrazione
-   trasparente" sia pubblicato il manuale di conservazione e la nomina
-   del responsabile della conservazione - CAP3.PA.18
+   trasparente" sia pubblicato il Manuale di conservazione e la nomina del
+   Responsabile della conservazione - CAP3.PA.18

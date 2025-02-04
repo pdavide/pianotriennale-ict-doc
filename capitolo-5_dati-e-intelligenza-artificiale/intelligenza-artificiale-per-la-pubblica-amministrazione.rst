@@ -45,16 +45,24 @@ sull'Intelligenza Artificiale" COM (2021) 205 del 21 aprile 2021 in cui
 la Commissione europea propone specificamente di "rendere il settore
 pubblico un pioniere nell'uso dell'IA".
 
-La revisione del Piano sull'intelligenza artificiale è stata
-accompagnata dalla "Proposta di Regolamento del Parlamento Europeo e del
-Consiglio che stabilisce regole armonizzate sull'intelligenza
-artificiale" (*AI Act*) COM (2021) 206 del 21 aprile 2021. La proposta
-di regolamento mira ad affrontare i rischi legati all'utilizzo dell'IA,
-classificandoli in quattro diversi livelli: rischio inaccettabile
-(divieto), rischio elevato, rischio limitato e rischio minimo. Inoltre,
-il regolamento intende porre le basi per costruire un ecosistema di
-eccellenza nell'IA e rafforzare la capacità dell'Unione Europea di
-competere a livello globale.
+Il Regolamento (UE) 2024/1689 del Parlamento Europeo e del Consiglio del 13
+giugno 2024 (AI Act) stabilisce regole armonizzate sull'intelligenza
+artificiale. L'AI Act affronta i rischi legati all'utilizzo dell'IA,
+classificandoli in quattro diversi livelli: rischio inaccettabile (divieto),
+rischio elevato, rischio limitato e rischio minimo. L'AI Act introduce obblighi
+di trasparenza per i grandi modelli generalisti di IA. Il regolamento intende
+porre le basi per costruire un ecosistema di eccellenza nell'IA e rafforzare la
+capacità dell'Unione Europea di competere a livello globale con soluzioni di
+intelligenza artificiale affidabile.
+
+La "Comunicazione sulla promozione delle *start-up* e dell'innovazione nell'IA
+affidabile", COM (2024) del 24 gennaio 2024, ha lanciato l'iniziativa "GenAI4EU"
+che ha l'obiettivo di promuovere lo sviluppo di grandi ecosistemi di innovazione
+aperta, favorendo la collaborazione tra *startup* di IA e utilizzatori di IA
+nell'industria e nel settore pubblico. L'Unione Europea promuove la cooperazione
+tra *startup*, operatori dell'industria delle tecnologie dell'informazione e
+pubbliche amministrazioni per lo sviluppo di applicazioni di intelligenza
+artificiale generativa affidabile.
 
 L'AI Act ha introdotto una importante sfida in materia di normazione
 tecnica. La Commissione Europea ha adottato il 25 maggio 2023 la
@@ -72,41 +80,101 @@ prevede importanti misure di finanziamento sia per la ricerca in ambito
 di intelligenza artificiale sia per lo sviluppo di piattaforme di IA per
 i servizi della Pubblica Amministrazione.
 
-Il DTD di concerto con ACN e AGID promuoverà l'obiettivo di innalzare i
+In applicazione dell'AI Act, il DTD di concerto con ACN e AGID promuoverà l'obiettivo di innalzare i
 livelli di *cybersecurity* dell'Intelligenza Artificiale per assicurare
 che sia progettata, sviluppata e impiegata in maniera sicura, anche in
 coerenza con le linee guida internazionali sulla sicurezza
 dell'Intelligenza Artificiale. La *cybersecurity* è un requisito
-essenziale dell'IA e serve per garantire resilienza, *privacy*,
+essenziale dell'IA al fine di garantire resilienza, *privacy*,
 correttezza ed affidabilità, ovvero un cyberspazio più sicuro.
+
+La "Strategia italiana per l'intelligenza artificiale 2024-2026" stabilisce gli
+obiettivi di promozione e sviluppo dell'IA, suddividendoli in quattro macroaree:
+Ricerca, Pubblica Amministrazione, Industria, Formazione. La strategia include,
+inoltre, azioni abilitanti specifiche in termini di infrastrutture e
+coordinamento. L'obiettivo complessivo è creare un quadro di azioni sinergiche
+che consenta di condividere buone pratiche e di favorire uno scambio efficace di
+conoscenze e competenze tra il mondo accademico, le imprese e la Pubblica
+Amministrazione.
+
+Il Piano triennale declina in linee di azione operative gli obiettivi per la
+Pubblica Amministrazione definiti nella "Strategia italiana per l'intelligenza
+artificiale 2024-2026".
 
 La Pubblica Amministrazione italiana conta esperienze rilevanti nello
 sviluppo e utilizzo di soluzioni di intelligenza artificiale. A titolo
 esemplificativo si citano le esperienze di:
 
--  **Agenzia delle entrate,** utilizzo di algoritmi di *machine
+-  **Agenzia delle entrate e INAIL**, utilizzo di algoritmi di *machine
    learning* per analizzare schemi e comportamenti sospetti, aiutando
    nella prevenzione e rilevazione di frodi;
 
--  **INPS,** adozione di *chatbot* per semplificare e personalizzare
+-  **INPS**, adozione di *chatbot* per semplificare e personalizzare
    l'interazione con l'utente, migliorando l'accessibilità e l'usabilità
    dei servizi;
 
--  **ISTAT,** utilizzo di *foundation models* per generare ontologie a
-   partire dalla descrizione in linguaggio naturale del contesto
-   semantico al fine di migliorare la qualità della modellazione dei
-   dati.
+-  **ISTAT**, sperimentazione sull'uso di algoritmi di AI generativa per
+   produrre ontologie partendo da una descrizione in linguaggio naturale del
+   contesto semantico che si vuole modellare. Collaborazioni con partner
+   pubblici e privati per progetti di ricerca finalizzati allo sviluppo di LLM
+   italiani.
 
-In questo contesto, l'affermarsi dei *foundation models* costituisce un
-importante fattore di accelerazione per lo sviluppo e l'adozione di
-soluzioni di intelligenza artificiale. Per *foundation models* si
-intendono sistemi di grandi dimensioni in grado di svolgere un'ampia
-gamma di compiti specifici, come la generazione di video, testi,
-immagini, la conversazione in linguaggio naturale, l'elaborazione o la
-generazione di codice informatico. L'*AI Act* definisce inoltre come
-*foundation models* "ad alto impatto" i modelli addestrati con una
-grande quantità di dati e con complessità, capacità e prestazioni
-elevate.
+L'affermarsi dei grandi modelli generalisti di IA costituisce un importante
+fattore di accelerazione per lo sviluppo e l'adozione di soluzioni di
+intelligenza artificiale. Per grandi modelli generalisti di IA si intendono
+sistemi di grandi dimensioni in grado di svolgere un'ampia gamma di compiti
+specifici, come la generazione di video, testi, immagini, la conversazione in
+linguaggio naturale, l'elaborazione o la generazione di codice informatico. L'AI
+Act definisce come grandi modelli generalisti di IA ad elevato impatto i modelli
+addestrati con una grande quantità di dati e con complessità, capacità e
+prestazioni elevate.
+
+Le amministrazioni pubbliche che intendono adottare soluzioni basate su
+intelligenza artificiale valutano le opportunità offerte dalle tecnologie di
+*edge computing* in termini di efficienza, reattività e gestione dei dati in
+contesti locali con particolare attenzione all'utilizzo di sensoristica,
+computazione decentrata e di sistemi realizzati con modelli IA anche di piccole
+dimensioni e/o con reti di agenti intelligenti.
+
+*Ambienti di sperimentazione e sviluppo*
+
+Per sostenere il raggiungimento degli obiettivi definiti dalla "Strategia
+italiana per l'intelligenza artificiale 2024-2026" e del Piano triennale, AGID
+intende istituire, gestire e promuove "Ambienti di Sperimentazione e Sviluppo di
+Intelligenza Artificiale".
+
+Le finalità degli "Ambienti" sono:
+
+-  accelerare l'apprendimento e lo sviluppo delle competenze delle pubbliche
+   amministrazioni nella gestione, acquisizione e sviluppo di soluzioni basate
+   sulle tecnologie di IA;
+
+-  aumentare la consapevolezza dei soggetti coinvolti nella catena del valore
+   delle soluzioni di IA (Abilitatori, Sperimentatori/Sviluppatori,
+   Utilizzatori), circa le modalità tecnico/amministrative più efficaci per la
+   conduzione di progetti di IA;
+
+-  promuovere lo sviluppo di *proof of concept* (POC) e di soluzioni basate su
+   IA che rispondano alle esigenze e ai casi d'uso di interesse delle pubbliche
+   amministrazioni.
+
+I soggetti destinatari degli "Ambienti" sono:
+
+-  abilitatori: soggetti che forniscono tecnologie di IA abilitanti che fungono
+   da elementi costitutivi (*building blocks*) per lo sviluppo di soluzioni
+   avanzate. Queste tecnologie includono: strumenti di *Machine Learning*,
+   *Large Language Models* (LLM), *Small Language Models* (SLM).
+
+-  sperimentatori/sviluppatori: soggetti in grado di sviluppare *proof of
+   concept* o soluzioni basate sulle tecnologie di IA abilitanti per soddisfare
+   i casi d'uso di interesse delle pubbliche amministrazioni.
+
+-  utilizzatori: pubbliche amministrazioni interessate all'adozione di soluzioni
+   basate su tecnologie di intelligenza artificiale.
+
+Il riuso dei risultati degli "Ambienti Sperimentazione e Sviluppo di
+Intelligenza Artificiale", inclusi *proof of concept* e soluzioni, sarà promosso
+anche attraverso soggetti aggregatori (*Hub*) nazionali e regionali.
 
 *Principi generali per l'utilizzo dell'intelligenza artificiale nella
 Pubblica Amministrazione*
@@ -188,7 +256,7 @@ considerazione lo scenario in veloce evoluzione.
     riferimento alla proprietà dei dati e alla conformità con la
     normativa vigente in materia di protezione dei dati e *privacy*.
 
-Dati per l'intelligenza artificiale
+*Dati per l'intelligenza artificiale*
 
 La disponibilità di dati di alta qualità e il rispetto dei valori e dei
 diritti europei, quali la protezione dei dati personali, la tutela dei
@@ -218,39 +286,47 @@ Commissione Europea ha avviato una specifica attività presso il CEN e il
 CENELEC per definire norme tecniche europee per rispondere a tali
 esigenze.
 
-Nel contesto nazionale, tenuto conto di una architettura istituzionale
-che organizza i territori in regioni e comuni, che devono avere livelli
-di servizio omogenei, diventa cruciale progettare e implementare
-soluzioni nazionali basate sull'IA. Queste soluzioni devono essere in
-grado, da un lato, di superare eventuali disparità che caratterizzano le
-diverse amministrazioni territoriali e, dall'altro, di assicurare un
-pieno coordinamento tra territori differenti riguardo a servizi chiave
-per la società.
+Nel contesto nazionale, considerando un'architettura istituzionale che organizza
+i territori in regioni e comuni, con l'obiettivo di garantire livelli di
+servizio uniformi, diventa cruciale progettare e implementare soluzioni
+nazionali basate sull'IA. Queste soluzioni devono essere in grado, da un lato,
+di superare eventuali disparità cognitive che caratterizzano le diverse
+amministrazioni territoriali e, dall'altro, di assicurare un pieno coordinamento
+tra territori differenti riguardo a servizi chiave per la società.
 
-Riguardo l'affermarsi dei *foundation models* nel settore pubblico, una
-sfida fondamentale consiste nella creazione di dataset di elevata
-qualità, rappresentativi della realtà della Pubblica Amministrazione,
-con particolare riguardo al corpus normativo nazionale e comunitario, ai
-procedimenti amministrativi e alla struttura organizzativa della
-Pubblica Amministrazione italiana stessa.
+Riguardo l'affermarsi dei *grandi modelli generalisti di IA* nel settore
+pubblico, una sfida fondamentale consiste nella creazione di dataset di elevata
+qualità, rappresentativi della realtà della Pubblica Amministrazione, con
+particolare riguardo al corpus normativo nazionale e comunitario, ai
+procedimenti amministrativi e alla struttura organizzativa della Pubblica
+Amministrazione italiana stessa.
 
 Contesto normativo e strategico
 -------------------------------
 
 Riferimenti normativi europei:
 
--  Comunicazione della Commissione al Parlamento Europeo e al Consiglio,
+-  `Comunicazione della Commissione al Parlamento Europeo e al Consiglio,
    "Piano Coordinato sull'Intelligenza Artificiale", COM (2021) 205 del
-   21 aprile 2021
+   21 aprile 2021 <https://data.consilium.europa.eu/doc/document/ST-8334-2021-INIT/it/pdf>`__
 
--  "Proposta di Regolamento del Parlamento Europeo e del Consiglio che
-   stabilisce regole armonizzate sull'intelligenza artificiale" (*AI
-   Act*), COM (2021) 206, del 21 aprile 2021
+-  `Decisione della Commissione "*on a standardisation request to the European
+   Committee for Standardisation and the European Committee for Electrotechnical
+   Standardisation in support of Union policy on artificial intelligence*" C
+   (2023) 3215 del 22 maggio 2023
+   <https://ec.europa.eu/transparency/documents-register/detail?ref=C(2023)3215&lang=en>`__
 
--  Decisione della Commissione "*on a standardisation request to the
-   European Committee for Standardisation and the European Committee for
-   Electrotechnical Standardisation in support of Union policy on
-   artificial intelligence*" C (2023) 3215 del 22 maggio 2023
+-  `Comunicazione della Commissione al Parlamento Europeo e al Consiglio "Sulla
+   promozione delle start-up e dell'innovazione nell'IA affidabile", COM (2024)
+   28 del 24 gennaio 2024
+   <https://ec.europa.eu/newsroom/dae/redirection/document/101621>`__
+
+-  `Regolamento del Parlamento europeo e del Consiglio "che stabilisce regole
+   armonizzate sull'intelligenza artificiale", (UE) 2024/1689 del 13 giugno 2024
+   <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=OJ%3AL_202401689>`__
+
+-  `Strategia italiana per l'intelligenza artificiale 2024-2026
+   <https://assets.innovazione.gov.it/1721376223-01-strategia-italiana-per-l-intelligenza-artificiale-2024-2026.pdf>`__
 
 Obiettivo 5.4 - Aumento della consapevolezza della Pubblica Amministrazione nell'adozione delle tecnologie di intelligenza artificiale
 --------------------------------------------------------------------------------------------------------------------------------------

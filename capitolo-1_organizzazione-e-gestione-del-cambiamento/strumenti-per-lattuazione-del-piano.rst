@@ -1,5 +1,5 @@
-Strumenti per l'attuazione del Piano 
-=====================================
+Strumenti per l'attuazione del Piano
+====================================
 
 OB1.1
 -----

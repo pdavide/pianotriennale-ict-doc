@@ -1,5 +1,3 @@
-.. _strumenti-per-lattuazione-del-piano-4:
-
 Strumenti per l'attuazione del Piano
 ====================================
 

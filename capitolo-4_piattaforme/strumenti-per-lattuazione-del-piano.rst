@@ -1,7 +1,5 @@
-.. _strumenti-per-lattuazione-del-piano-3:
-
-Strumenti per l'attuazione del Piano 
-=====================================
+Strumenti per l'attuazione del Piano
+====================================
 
 OB4.1
 -----
@@ -72,11 +70,11 @@ nazionale:
 
 -  l'`Indice nazionale dei domicili digitali delle imprese e dei
    professionisti (INI-PEC) <https://www.inipec.gov.it/>`__ - art. 6-bis
-   - Titolare: Ministero dello Sviluppo Economico;
+   - Titolare: Ministero delle Imprese e del *Made in Italy*;
 
 -  il `Catalogo dei dati delle Pubbliche
    amministrazioni <https://www.dati.gov.it/>`__ - Titolare: AGID;
 
--  il `Sistema informativo nazionale federato delle infrastrutture
-   (SINFI) <https://sinfi.it/>`__ - Titolare: Ministero dello Sviluppo
-   Economico.
+-  il `Sistema informativo nazionale federato delle infrastrutture (SINFI)
+   <https://sinfi.it/>`__ - Titolare: Ministero delle Imprese e del *Made in
+   Italy*;

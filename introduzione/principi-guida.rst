@@ -40,16 +40,18 @@ riferimenti normativi:
 |                       | di un nuovo progetto  | Art. 73 CAD           |
 |                       | e di sviluppo di      |                       |
 |                       | nuovi servizi,        |                       |
-|                       | adottano il paradigma |                       |
-|                       | cloud e utilizzano    |                       |
+|                       | adottano              |                       |
+|                       | prioritariamente il   |                       |
+|                       | paradigma cloud e     |                       |
+|                       | utilizzano            |                       |
 |                       | esclusivamente        |                       |
 |                       | infrastrutture        |                       |
 |                       | digitali adeguate e   |                       |
 |                       | servizi *cloud*       |                       |
 |                       | qualificati secondo i |                       |
 |                       | criteri fissati da    |                       |
-|                       | ACN e nel quadro del  |                       |
-|                       | SPC                   |                       |
+|                       | ACN anche nel quadro  |                       |
+|                       | del SPC               |                       |
 +-----------------------+-----------------------+-----------------------+
 | 3. interoperabile *by | i servizi pubblici    | Art.43 c.2 dPR        |
 | design* e *by         | devono essere         | 445/2000              |
@@ -59,7 +61,7 @@ riferimenti normativi:
 |                       | attraverso processi   |                       |
 |                       | digitali collettivi,  | Art.50 c2, art.50-ter |
 |                       | esponendo opportuni   | e art.64-bis c.1-bis  |
-|                       | *e-Service*, a        | CAD                   |
+|                       | *e-service*, a        | CAD                   |
 |                       | prescindere dai       |                       |
 |                       | canali di erogazione  |                       |
 |                       | del servizio che sono |                       |
@@ -67,7 +69,7 @@ riferimenti normativi:
 |                       | logicamente e         |                       |
 |                       | cronologicamente dopo |                       |
 |                       | la progettazione      |                       |
-|                       | dell'interfaccia API; |                       |
+|                       | dell'interfaccia API  |                       |
 +-----------------------+-----------------------+-----------------------+
 | 4. accesso esclusivo  | le pubbliche          | Art.64 CAD            |
 | mediante identità     | amministrazioni       |                       |

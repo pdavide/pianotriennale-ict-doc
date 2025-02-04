@@ -18,10 +18,10 @@ locali.
 Per garantire la possibilità a tutti gli Enti di poter cogliere questa
 enorme opportunità, anche a coloro che si trovano in condizioni di
 carenze di *know-how* e risorse, il presente Piano propone e promuove
-un'evoluzione del modello di interoperabilità passando dalla sola
+un'evoluzione del Modello di interoperabilità passando dalla sola
 condivisione dei dati a quella della condivisione dei servizi.
 
-I vantaggi dell'utilizzo di un'architettura basata su micro-servizi
+I vantaggi dell'utilizzo di un'architettura basata su microservizi
 sono:
 
 -  Flessibilità e scalabilità
@@ -40,29 +40,30 @@ la formazione continua, il coinvolgimento attivo degli *stakeholder*, il
 monitoraggio dell'impatto del cambiamento e naturalmente anche una
 comunicazione efficace.
 
-Per gli enti locali che potrebbero non avere un *know-how* interno
-sufficiente, l'architettura a microservizi offre l'opportunità di
-sfruttare le soluzioni e i servizi già sviluppati da altri enti. Questo
-approccio non solo consente di colmare il *gap* informativo interno, ma
-fornisce anche un vantaggio significativo in termini di risparmio di
+Per gli enti che potrebbero non avere un *know-how* interno sufficiente,
+l'architettura a microservizi offre l'opportunità di sfruttare le soluzioni e i
+servizi già sviluppati da altri enti innovando profondamente il concetto di
+riuso. Questo approccio non solo consente di colmare il *gap* strutturale
+interno, ma fornisce anche un vantaggio significativo in termini di risparmio di
 tempo e ottimizzazione delle risorse.
 
-L'architettura a microservizi, attraverso la condivisione di processi e
-lo sviluppo *once only* riduce la duplicazione degli sforzi e dei costi.
-La condivisione di *e-service* vede nella Piattaforma Digitale Nazionale
-Dati Interoperabilità (PDND) il *layer* focale per la condivisione di
-dati e processi.
+L'architettura a microservizi, attraverso la condivisione di processi e lo
+sviluppo *once only* riduce la duplicazione degli sforzi e dei costi. La
+condivisione di *e-service* vede nella Piattaforma Digitale Nazionale Dati
+Interoperabilità (`PDND Interoperabilità <https://www.interop.pagopa.it/>`__) il
+*layer* focale per la condivisione di dati e processi.
 
-La sostenibilità e la crescita collaborativa nell'ambito
-dell'architettura a microservizi non si limita al singolo ente locale.
-In molte situazioni, possono entrare in gioco altre istituzioni a
-supporto, come Regioni, Unioni o Enti capofila (*HUB* tecnologici), che
-possono agire svolgendo un ruolo fondamentale nello sviluppo fornendo
-soluzioni tecnologiche e/o amministrative, per facilitare l'integrazione
-e l'implementazione del processo di innovazione. Questo approccio
-consente agli enti più piccoli di beneficiare delle risorse condivise e
-delle soluzioni già implementate, accelerando così il processo di
-digitalizzazione.
+La sostenibilità e la crescita collaborativa nell'ambito dell'architettura a
+microservizi non si limita al singolo ente locale. In molte situazioni, possono
+entrare in gioco altre istituzioni a supporto, come Regioni, Unioni o Enti
+capofila (*HUB* nazionali e/o regionali), che possono agire svolgendo un ruolo
+fondamentale nello sviluppo fornendo soluzioni tecnologiche e/o amministrative,
+per facilitare l'integrazione e l'implementazione del processo di innovazione.
+Questo approccio consente agli enti più piccoli di beneficiare delle risorse
+condivise e delle soluzioni già implementate, accelerando così il processo di
+digitalizzazione. Come già accennato nel capitolo 2, il Codice dei contratti
+pubblici, offre in tal senso nuove opportunità, come ad esempio la
+strutturazione di "appalti congiunti" ex art.62 comma 14 del D.Lgs. 36/2023.
 
 Il coinvolgimento attivo delle istituzioni aggregate come facilitatori
 tecnologici è essenziale per garantire una transizione armoniosa verso

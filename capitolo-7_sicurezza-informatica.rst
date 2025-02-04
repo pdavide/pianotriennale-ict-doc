@@ -1,5 +1,5 @@
-Capitolo 7 - Sicurezza informatica 
-===================================
+Capitolo 7 - Sicurezza informatica
+==================================
 
 .. toctree::
   :maxdepth: 2

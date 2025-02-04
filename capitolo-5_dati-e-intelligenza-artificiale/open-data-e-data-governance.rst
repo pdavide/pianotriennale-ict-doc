@@ -1,8 +1,8 @@
 Open data e data governance
 ===========================
 
-Scenario 
----------
+Scenario
+--------
 
 La valorizzazione del patrimonio informativo pubblico è un obiettivo
 strategico per la Pubblica Amministrazione per affrontare efficacemente
@@ -11,7 +11,7 @@ supportare gli obiettivi definiti dalla Strategia europea in materia di
 dati, garantire la creazione di servizi digitali a valore aggiunto per
 cittadini, imprese e, in generale, per tutti i portatori di interesse e
 fornire ai vertici decisionali strumenti *data-driven* da utilizzare nei
-processi organizzativi e/o produttivi. La ingente quantità di dati
+processi organizzativi e/o produttivi. L'ingente quantità di dati
 prodotti dalla Pubblica Amministrazione, se caratterizzati da un'alta
 qualità, potrà costituire, inoltre, la base per una grande varietà di
 applicazioni come, per esempio, quelle riferite all'intelligenza
@@ -76,6 +76,42 @@ sviluppo di applicazioni innovative, inoltre, dovrà essere garantito un
 adeguato livello di qualità dei dati con la disponibilità di un sistema
 di misurazione e di *assessment* basato sui pertinenti standard ISO.
 
+Tali standard ISO, relativi sia alle caratteristiche della qualità che alla loro
+misurazione, sono indicati come riferimento utile nelle Linee Guida Open Data,
+che forniscono raccomandazioni ed esempi su come garantire un livello minimo
+della stessa qualità. Le medesime Linee Guida richiamano, per i dati della
+ricerca in particolare ma con raccomandazione di applicarli per tutte le
+tipologie di dati, i requisiti di reperibilità, accessibilità, interoperabilità
+e riutilizzabilità che rappresentano i 4 principi del framework FAIR (Findable -
+Accessible - Interoperable - Reusable). Al fine di supportare le PA a
+implementare le indicazioni delle Linee Guida e, quindi, in generale, garantire
+il livello di qualità richiesto, anche alla luce dell'utilizzo dei dati nei
+sistemi di IA (trattati in seguito), è necessario fornire opportuni strumenti
+per la misura delle caratteristiche di qualità così come definite negli Standard
+indicati. In questo ambito, ci sono esperienze di sviluppo e di sperimentazione
+in corso, come il tool euFAIR dell'Università del Salento, che possono
+costituire il punto di partenza per l'implementazione di un sistema nazionale di
+misura della qualità dei dati.
+
+In tale contesto, Istat provvede alla predisposizione delle nomenclature e
+metodologie di base per la classificazione e la rilevazione dei fenomeni di
+carattere demografico, economico e sociale (art. 15, lett. e), d. lgs. n.
+322/1989), nonché alla definizione dei metodi e dei formati da utilizzare da
+parte delle pubbliche amministrazioni per lo scambio e l'utilizzo in via
+telematica dell'informazione statistica e finanziaria (art. 2, d.P.R. n.
+166/2010). In virtù di questo suo ruolo Istat può fornire supporto per
+assicurare una *governance* della semantica relativamente alle nomenclature e
+alle metodologie classificatorie, diffondendo una cultura del dato che
+sensibilizzi la PA all'utilizzo del Catalogo Nazionale Dati (NDC).
+
+Al fine di sviluppare servizi digitali che ottimizzino l'impatto su cittadini,
+PA e imprese è inoltre opportuno adottare un approccio use *case driven* per
+aiutare le PA ad individuare una scala di priorità per la documentazione e la
+condivisione dei dati e degli asset semantici sulle piattaforme nazionali
+(portali nazionali dei dati - dati.gov.it e geodati.gov.it, PDND e NDC), fermo
+restando quanto indicato nelle Linee guida *Open Data*, in termini di criteri di
+priorità per il riutilizzo, relativamente ai dati aperti.
+
 L'uso di una semantica comune nello scambio dei dati è garanzia di
 "coerenza semantica" dei dati stessi. Inoltre, l'adozione di una
 semantica unica riferita ai dati di dettaglio, come rappresentati nel
@@ -100,7 +136,7 @@ responsabile.
 Ove applicabile, per l'attuazione delle linee di azione definite di
 seguito, le PA di piccole dimensioni, come i comuni al di sotto di 5.000
 abitanti, possono sfruttare meccanismi di sussidiarietà (ad esempio
-attraverso le Regioni e Province Autonome, i Comuni capoluogo di
+attraverso le Regioni e Province autonome, i Comuni capoluogo di
 provincia, le Unioni dei Comuni, le Città metropolitane e le Province,
 anche tramite i relativi uffici associati tra quelli esistenti).
 
@@ -115,7 +151,7 @@ in relazione ad aspetti organizzativi che possano abilitare un processo
 di apertura ed interoperabilità dei dati efficiente ed efficace. Anche
 l'interoperabilità, garantita dalla adozione di una semantica unica,
 come descritto nelle Linee guida sull'interoperabilità tecnica delle
-Pubbliche Amministrazioni, deve essere tenuta in conto nella
+pubbliche amministrazioni, deve essere tenuta in conto nella
 *governance* dei dati.
 
 Il processo di formazione e pubblicazione dei dati può seguire lo schema
@@ -156,17 +192,30 @@ il responsabile per la prevenzione della corruzione e la trasparenza, il
 responsabile della protezione dei dati, il responsabile per la
 sicurezza.
 
-L'attività di apertura e di pubblicazione dei dati, infine, può
-tracciata nel Piano triennale ICT di ciascuna amministrazione anche
-sulla base di una eventuale scala di priorità basata, per esempio, su un
-approccio di tipo *demand-driven* che tenga conto dell'impatto economico
-e sociale nonché del livello di interesse e delle necessità degli
+L'attività di apertura e di pubblicazione dei dati, infine, può essere tracciata
+oltre che nel Piano triennale ICT anche come obiettivo del PIAO di ciascuna
+amministrazione, sulla base di una eventuale scala di priorità basata, per
+esempio, su un approccio di tipo *demand-driven* che tenga conto dell'impatto
+economico e sociale nonché del livello di interesse e delle necessità degli
 utilizzatori.
 
-Analogamente, anche per le attività di messa a disposizione di *asset*
-semantici per garantire l'interoperabilità dei dati, si potrà prevedere
-un percorso di definizione di modalità di pubblicazione di ontologie,
-vocabolari controllati e schemi dati.
+Analogamente per i processi di *data governance* e per le attività di messa a
+disposizione di *asset* semantici per garantire l'interoperabilità dei dati, si
+potrà prevedere un percorso di definizione di modalità di pubblicazione di
+ontologie, vocabolari controllati e schemi dati, anche attraverso gli HUB
+nazionali e regionali (ad es. per la messa a disposizione da parte degli enti di
+cataloghi o di altre soluzioni condivise, per la delega di processi di servizio
+relativi ai dati, ecc.).
+
+Sono necessari, infine, momenti di confronto su esperienze, buone pratiche,
+nuove soluzioni tecnologiche, procedure organizzative, servizi innovativi
+intorno al tema degli *open data*. Uno di questi momenti potrebbe essere una
+Conferenza nazionale a cadenza annuale in cui coinvolgere PA, imprese pubbliche
+e private, accademia, utenti, comunità, sviluppatori per fare sintesi sul
+livello di maturità dei dati in Italia. Inoltre, per migliorare l'esperienza
+dell'utente nella ricerca e nell'utilizzo di dati disponibili su Catalogo
+Nazionale dei Dati Aperti è in previsione la realizzazione - entro fine 2025 -
+di un assistente virtuale (*chatbot*) che sfrutti l'Intelligenza Artificiale.
 
 Contesto normativo e strategico
 -------------------------------
@@ -176,11 +225,10 @@ Riferimenti normativi italiani:
 -  `Decreto legislativo 30 giugno 2003, n. 196 "Codice in materia di protezione
    dei dati personali"
    <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=>`__
-   
 
 -  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
    digitale" (in breve
-   CAD) artt. 50, 50-ter., 51, 52, 59, 60 
+   CAD) artt. 50, 50-ter., 51, 52, 59, 60
    <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__
 
 -  `Decreto legislativo 24 gennaio 2006, n. 36 "Attuazione della
@@ -379,17 +427,11 @@ RA5.1.1
 -  **Dicembre 2025** - Conclusione di 4 cicli di formazione e sulle
    politiche *open data* per il biennio 24-25 - (AGID) - CAP5.02
 
-RA5.1.2
-^^^^^^^
+-  **Dicembre 2025** - Realizzazione versione beta dell'assistente virtuale
+   (*chatbot*) sul Catalogo Nazionale dei Dati Aperti - (AGID) - CAP5.21
 
--  **Maggio 2024** - Aggiornamento della guida operativa sui dati di
-   elevato valore in vista dell'applicazione del Regolamento di
-   esecuzione (UE) 2023/138, previa valutazione di opportunità e
-   necessità - (AGID, Amministrazioni titolari dei dati di elevato
-   valore) - CAP5.03
-
-Linee di azione per le PA 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Linee di azione per le PA
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RA5.1.1
 ^^^^^^^
@@ -470,8 +512,8 @@ RA5.2.3 - Aumento del numero di amministrazioni non ancora presenti nel catalogo
 -  **Target 2026** - Tutte le PA hanno pubblicato il numero minimo di
    *dataset* riportato nelle linee d'azione per l'anno 2026
 
-RA5.2.4 - Aumento del numero di dataset documentati sul portale dati.gov.it che rispettano la caratteristica di qualità "attualità" (o tempestività di aggiornamento) di cui allo Standard ISO/IEC 25012 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RA5.2.4 - Aumento del numero di dataset documentati sul portale dati.gov.it che rispettano la caratteristica di qualità "attualità" (o tempestività di aggiornamento) di cui allo Standard ISO/IEC 25012
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  **Target 2024** - Definizione baseline
 
@@ -487,7 +529,7 @@ Linee di azione istituzionali
 RA5.2.1
 ^^^^^^^
 
--  **Giugno 2024** - Aggiornamento dei profili metadati per adeguamento
+-  **Dicembre 2024 \*** - Aggiornamento dei profili metadati per adeguamento
    alle indicazioni del Regolamento di esecuzione (UE) sui dati di
    elevato valore, alle Linee guida sui dati aperti e alle indicazioni
    derivanti da iniziative europee di allineamento - (AGID) - CAP5.04
@@ -502,7 +544,7 @@ RA5.2.1
 RA5.2.2
 ^^^^^^^
 
--  **Ottobre 2024** - Predisposizione di un documento che raccolga in
+-  **Dicembre 2024 \*** - Predisposizione di un documento che raccolga in
    modo coerente le cornici normative, il posizionamento delle
    piattaforme locali, nazionali e sovranazionali e i punti di contatto
    che riguardano i dati - (AGID, Dipartimento per la Trasformazione
@@ -516,7 +558,7 @@ RA5.2.2
 -  **Dicembre 2025** - Completamento del V ciclo di formazione e
    sensibilizzazione alle PA titolari di dati aperti e/o di dati
    territoriali per le attività relative alla implementazione delle
-   Linee Guida sui dati aperti e il riutilizzo dell'informazione del
+   Linee guida sui dati aperti e il riutilizzo dell'informazione del
    settore pubblico e del Regolamento di esecuzione (UE) sui dati di
    elevato valore - (AGID) - CAP5.08
 
@@ -537,8 +579,8 @@ RA5.2.2
    reportistica del Regolamento di esecuzione (UE) e pubblicazione
    report - (AGID) - CAP5.11
 
-Linee di azione per le PA 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Linee di azione per le PA
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RA5.2.1
 ^^^^^^^
@@ -554,12 +596,12 @@ RA5.2.3
 
 -  **Dicembre 2024** - Ogni Comune con popolazione tra 10.000 e 100.000
    abitanti, ogni Unione di Comuni o altri tipi di consorzi e
-   associazioni, ogni Comunità Montana o isolana pubblica (non ancora
+   associazioni, ogni Comunità montana o isolana pubblica (non ancora
    presenti nel catalogo dati.gov.it) pubblicano e documentano nel
    catalogo almeno 3 *dataset* - CAP5.PA.06
 
 -  **Dicembre 2024** *-* Ogni Comune con popolazione tra 100.001 e
-   250.000 abitanti, ogni Provincia e Città Metropolitana (non ancora
+   250.000 abitanti, ogni Provincia e Città metropolitana (non ancora
    presenti nel catalogo dati.gov.it) pubblicano e documentano nel
    catalogo almeno 5 *dataset* - CAP5.PA.07
 
@@ -579,12 +621,12 @@ RA5.2.3
 
 -  **Dicembre 2025** - Ogni Comune con popolazione tra 10.000 e 100.000
    abitanti, ogni Unione di Comuni o altri tipi di consorzi e
-   associazioni, ogni Comunità Montana o isolana pubblica (non ancora
+   associazioni, ogni Comunità montana o isolana pubblica (non ancora
    presenti nel 2024 nel catalogo dati.gov.it) pubblicano e documentano
    nel catalogo almeno 5 *dataset* - CAP5.PA.11
 
 -  **Dicembre 2025** *-* Ogni Comune con popolazione tra 100.001 e
-   250.000 abitanti, ogni Provincia e Città Metropolitana (non ancora
+   250.000 abitanti, ogni Provincia e Città metropolitana (non ancora
    presenti nel 2024 nel catalogo dati.gov.it) pubblicano e documentano
    nel catalogo almeno 10 *dataset* - CAP5.PA.12
 
@@ -604,12 +646,12 @@ RA5.2.3
 
 -  **Dicembre 2026** - Ogni Comune con popolazione tra 10.000 e 100.000
    abitanti, ogni Unione di Comuni o altri tipi di consorzi e
-   associazioni, ogni Comunità Montana o isolana pubblica (non ancora
+   associazioni, ogni Comunità montana o isolana pubblica (non ancora
    presenti nel 2024 nel catalogo dati.gov.it) pubblicano e documentano
    nel catalogo almeno 10 *dataset* - CAP5.PA.16
 
 -  **Dicembre 2026** *-* Ogni Comune con popolazione tra 100.001 e
-   250.000 abitanti, ogni Provincia e Città Metropolitana (non ancora
+   250.000 abitanti, ogni Provincia e Città metropolitana (non ancora
    presenti nel 2024 nel catalogo dati.gov.it) pubblicano e documentano
    nel catalogo almeno 15 *dataset* - CAP5.PA.17
 
@@ -649,19 +691,19 @@ RA5.3.1
 -  **Dicembre 2024** - Ciclo di formazione e sensibilizzazione alle PA
    titolari di dati aperti e/o di dati territoriali dedicato alle
    licenze e condizioni d'uso applicabili ai dati, sulla base delle
-   relative indicazioni presenti nelle Linee Guida e nel Regolamento di
+   relative indicazioni presenti nelle Linee guida e nel Regolamento di
    esecuzione (UE) sui dati di elevato valore - (AGID) - CAP5.12
 
--  **Dicembre 2025** - Produzione di linee guida e guide operative sulla
+-  **Dicembre 2025** - Produzione di Linee guida e guide operative sulla
    governance dei dati - (AGID, ISTAT) - CAP5.13
 
-Linee di azione per le PA 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Linee di azione per le PA
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RA5.3.1
 ^^^^^^^
 
--  **Da gennaio 2024** - Le PA attuano le linee guida contenenti regole
+-  **Da gennaio 2024** - Le PA attuano le Linee guida contenenti regole
    tecniche per l'implementazione del Decreto Legislativo n. 36/2006
    relativamente ai requisiti e alle raccomandazioni su licenze e
    condizioni d'uso - CAP5.PA.20

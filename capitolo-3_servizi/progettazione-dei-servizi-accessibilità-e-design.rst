@@ -18,12 +18,11 @@ da un'attenta analisi dei molteplici *layer,* tecnologici e
 organizzativi interni, che strutturano l'intero processo della
 prestazione erogata, celandone la complessità sottostante.
 
-Ciò implica anche la necessità di un'adeguata semplificazione dei
-procedimenti e un approccio sistematico alla gestione dei processi
-interni, sotto il coordinamento del Responsabile per la transizione al
-digitale, dotato di un ufficio opportunamente strutturato e con il
-fondamentale coinvolgimento delle altre strutture responsabili
-dell'organizzazione e del controllo strategico.
+Ciò implica anche la necessità di un'adeguata semplificazione dei procedimenti e
+un approccio sistematico alla gestione dei processi interni, sotto il
+coordinamento del Responsabile per la transizione digitale, dotato di un ufficio
+opportunamente strutturato e con il fondamentale coinvolgimento delle altre
+strutture responsabili dell'organizzazione e del controllo strategico.
 
 È cruciale, inoltre, il rispetto degli obblighi del CAD in materia di
 progettazione, accessibilità, *privacy*, gestione dei dati e riuso, al
@@ -58,18 +57,15 @@ protezione dei dati.
 
 Per il monitoraggio dei propri servizi, le PA possono utilizzare `Web
 Analytics Italia <https://webanalytics.italia.it/>`__, una piattaforma
-
 nazionale open source che offre rilevazioni statistiche su indicatori
-utili al miglioramento continuo
+utili al miglioramento continuo dell'esperienza utente.
 
-dell'esperienza utente.
-
-Per la realizzazione dei propri servizi digitali, le PA possono
-utilizzare il `Design System del
-Paese <https://designers.italia.it/design-system/>`__, che consente la
-realizzazione di interfacce coerenti e accessibili *by default*,
-concentrando i budget di progettazione e sviluppo sulle parti e i
-processi caratterizzanti dello specifico servizio digitale.
+Per la realizzazione dei propri servizi digitali, le PA possono utilizzare le
+risorse teoriche e gli strumenti operativi messi a disposizione da `Designers
+Italia <https://designers.italia.it/>`__,  tra i quali riveste particolare
+importanza il *design system* .italia, che consente di concentrare i *budget* di
+progettazione e sviluppo sulle parti e sui processi caratterizzanti dello
+specifico servizio digitale.
 
 Contesto normativo e strategico
 -------------------------------
@@ -132,10 +128,10 @@ Riferimenti normativi italiani:
 
 -  Piano Nazionale di Ripresa e Resilienza:
 
-   -  Investimento 1.3: "`Dati e
+   -  M1C1 - Investimento 1.3: "`Dati e
       interoperabilità <https://italiadomani.gov.it/it/Interventi/investimenti/dati-e-interoperabilita.html>`__"
 
-   -  Investimento 1.4: "`Servizi digitali e cittadinanza
+   -  M1C1 - Investimento 1.4: "`Servizi digitali e cittadinanza
       digitale <https://italiadomani.gov.it/it/Interventi/investimenti/servizi-digitali-e-cittadinanza-digitale.html>`__"
 
 Riferimenti normativi europei:
@@ -165,7 +161,7 @@ Riferimenti normativi europei:
 Obiettivo 3.2 - Migliorare la capacità di generare ed erogare servizi digitali
 ------------------------------------------------------------------------------
 
-RA3.2.1 - Diffusione del modello di riuso di software tra le amministrazioni in attuazione delle Linee Guida AGID sull'acquisizione e il riuso del software per la Pubblica Amministrazione
+RA3.2.1 - Diffusione del modello di riuso di software tra le amministrazioni in attuazione delle Linee guida AGID sull'acquisizione e il riuso del software per la Pubblica Amministrazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  **Target 2024** - Almeno 100 amministrazioni che rilasciano
@@ -180,8 +176,8 @@ RA3.2.1 - Diffusione del modello di riuso di software tra le amministrazioni in 
    *software* *open source* in Developers Italia e almeno 3.000 soggetti
    che riusano *software* *open source* presente in Developers Italia
 
-RA3.2.2 - Incremento dell'accessibilità dei servizi digitali 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RA3.2.2 - Incremento dell'accessibilità dei servizi digitali
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  **Target 2024** - Il 100 % delle PA pubblica e aggiorna la
    dichiarazione di accessibilità dei propri siti istituzionali
@@ -193,8 +189,8 @@ RA3.2.2 - Incremento dell'accessibilità dei servizi digitali
 -  **Target 2026** - Il 100 % delle PA aggiorna la dichiarazione di
    accessibilità dei propri siti istituzionali registrati su IndicePA
 
-RA3.2.3 - Incremento e diffusione dei modelli standard di siti e servizi digitali, disponibili in Designers Italia
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RA3.2.3 - Incremento e diffusione dei modelli standard di siti e servizi digitali, disponibili in `Designers Italia <https://designers.italia.it/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  **Target 2024** - 6.520 PA adottano i modelli standard di siti e
    servizi digitali disponibili
@@ -208,8 +204,8 @@ RA3.2.3 - Incremento e diffusione dei modelli standard di siti e servizi digital
 Linee di azione istituzionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-RA3.2.1 
-^^^^^^^^
+RA3.2.1
+^^^^^^^
 
 -  **Dicembre 2024** - Il DTD condivide a livello europeo soluzioni già
    sviluppate nel catalogo di Developers Italia (*standard publiccode.
@@ -232,15 +228,8 @@ RA3.2.1
    Italia per consentire agli enti un'agevole pubblicazione dei propri
    documenti - (Dipartimento per la Trasformazione Digitale) - CAP3.15
 
-RA3.2.2 
-^^^^^^^^
-
--  **Giugno 2024** - Avvio dell'erogazione del supporto finanziario e
-   specialistico alle 55 PAL che hanno sottoscritto l'accordo PNRR con
-   AGID - (AGID) - CAP3.16
-
--  **Giugno 2024** - Monitoraggio automatico dell'accessibilità di
-   23.000 siti web della PA - (AGID) - CAP3.17
+RA3.2.2
+^^^^^^^
 
 -  **Dicembre 2024** - Aggiornamento dell'elenco degli errori di
    accessibilità più frequenti, individuati mediante monitoraggio esteso
@@ -258,20 +247,8 @@ RA3.2.2
 -  **Giugno 2025** - Sviluppo di un sistema *open source* per la
    verifica automatica di accessibilità dei siti - (AGID) - CAP3.21
 
-RA3.2.3 
-^^^^^^^^
-
--  **Marzo 2024** - Messa a disposizione di un modello standard di sito
-   per le Aziende Sanitarie Locali - (Dipartimento per la Trasformazione
-   Digitale) - CAP3.22
-
--  **Giugno 2024** - Messa a disposizione delle PA di un modello
-   standard di sito per i Musei Civici - (Dipartimento per la
-   Trasformazione Digitale) - CAP3.23
-
--  **Marzo 2024** - Messa a disposizione delle PA della versione Beta
-   della documentazione del *design system* del Paese - (Dipartimento
-   per la Trasformazione Digitale) - CAP3.24
+RA3.2.3
+^^^^^^^
 
 -  **Dicembre 2024** - Messa a disposizione delle PA della versione di
    esercizio della documentazione del *Design system* del Paese -
@@ -295,44 +272,42 @@ RA3.2.3
    miglioramento evolutivo - (Dipartimento per la Trasformazione
    Digitale) - CAP3.28
 
-Linee di azione per le PA 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Linee di azione per le PA
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RA3.2.2
 ^^^^^^^
 
--  **Marzo 2024** - Le PA pubblicano gli obiettivi di accessibilità sul
-   proprio sito web - CAP3.PA.09
-
--  **Settembre 2024** - Le Regioni, le Province Autonome, le città
-   metropolitane e i capoluoghi delle Città metropolitane effettuano un
-   test automatico di accessibilità sul proprio sito istituzionale
-   indicato su https://indicepa.gov.it/ipa-portale/, utilizzando la
-   piattaforma Mauve++ - CAP3.PA.10
-
--  **Settembre 2024** - Le PA pubblicano, entro il 23 settembre,
-   esclusivamente tramite l'applicazione form.AGID.gov.it, la
-   dichiarazione di accessibilità per ciascuno dei propri siti web e APP
-   mobili - CAP3.PA.11
-
 -  **Dicembre 2024** - Tutte le Regioni, le Province autonome, le Città
    metropolitane, i Comuni capoluogo delle Città metropolitane attivano
    *Web Analytics Italia* per la rilevazione delle statistiche di
-   utilizzo del proprio sito web istituzionale presente su IndicePA -
+   utilizzo del proprio sito *web* istituzionale presente su IndicePA -
    CAP3.PA.12
 
 -  **Marzo 2025** - Le PA pubblicano gli obiettivi di accessibilità sul
-   proprio sito web - CAP3.PA.13
+   proprio sito *web* - CAP3.PA.13
 
 -  **Settembre 2025** - Le PA pubblicano, entro il 23 settembre,
-   esclusivamente tramite l'applicazione form.AGID.gov.it, la
-   dichiarazione di accessibilità per ciascuno dei propri siti web e APP
+   esclusivamente tramite l'applicazione form.agid.gov.it, la
+   dichiarazione di accessibilità per ciascuno dei propri siti *web* e App
    mobili - CAP3.PA.14
 
+- **Settembre 2025** - Le Regioni, le Province autonome, le Città metropolitane
+  e i capoluoghi delle Città metropolitane effettuano un test automatico di
+  accessibilità sul proprio sito istituzionale indicato su
+  https://indicepa.gov.it/ipa-portale/, utilizzando la piattaforma MAUVE++ -
+  CAP3.PA.23
+
 -  **Marzo 2026** - Le PA pubblicano gli obiettivi di accessibilità sul
-   proprio sito web - CAP3.PA.15
+   proprio sito *web* - CAP3.PA.15
 
 -  **Settembre 2026** - Le PA pubblicano, entro il 23 settembre,
-   esclusivamente tramite l'applicazione form.AGID.gov.it, la
-   dichiarazione di accessibilità per ciascuno dei propri siti web e APP
+   esclusivamente tramite l'applicazione form.agid.gov.it, la
+   dichiarazione di accessibilità per ciascuno dei propri siti *web* e App
    mobili - CAP3.PA.16
+
+-  **Settembre 2026** - Le Regioni, le Province Autonome, le città metropolitane
+   e i capoluoghi delle Città metropolitane effettuano un test automatico di
+   accessibilità sul proprio sito istituzionale indicato su
+   https://indicepa.gov.it/ipa-portale/, utilizzando la piattaforma MAUVE++ -
+   CAP3.PA.24

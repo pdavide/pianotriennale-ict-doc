@@ -1,7 +1,36 @@
+Premessa
+========
+
+Il presente documento rappresenta l'aggiornamento 2025 del Piano triennale per
+l'informatica nella Pubblica Amministrazione 2024-2026, di competenza
+dell'Agenzia per l'Italia digitale che - così come previsto dall'art. 14 bis del
+CAD - è approvato dal Presidente del Consiglio dei ministri o dal Ministro
+delegato.
+
+L'aggiornamento risponde altresì alle esigenze delle pubbliche amministrazioni,
+prime destinatarie del Piano, di rendere coerenti e quanto più possibile
+aderenti e allineati gli adempimenti e le tempistiche di pianificazione delle
+attività delle stesse PA, in modo da agevolarne la realizzazione.
+
+Come già evidenziato nell'edizione 2024-2026, l'aggiornamento 2025 è necessario
+per fornire elementi nuovi e allineare scenari e normativa in costante
+cambiamento, così come per rendere disponibili dati e informazioni aggiornate
+relativamente ai cambiamenti di contesto e, di conseguenza, per adeguare le
+corrispondenti linee di azione.
+
+Pertanto, nel documento sono mantenuti gli stessi obiettivi e sostanzialmente
+gli stessi target da raggiungere. Solo alcuni di essi sono stati rimodulati per
+adeguarli ad interventi riguardanti la normativa o nuove regole nel frattempo
+intervenute.
+
+Il Piano, in questa logica, è un documento in progress e gli aggiornamenti
+annuali previsti nel triennio di riferimento (2024-26) ne sono uno strumento
+operativo per un costante supporto e indirizzo strategico verso l'utente finale.
+
 Introduzione
 ============
 
-Il Piano Triennale per l'informatica nella Pubblica Amministrazione (di
+Il Piano triennale per l'informatica nella Pubblica Amministrazione (di
 seguito Piano triennale) è uno strumento fondamentale per promuovere la
 trasformazione digitale del Paese attraverso quella della Pubblica
 Amministrazione italiana.
@@ -42,8 +71,8 @@ gestionale*" ex art.15 CAD) ed esterno (facendo sistema con gli altri
 enti pubblici e anche con le imprese, i professionisti, le
 università/centri di ricerca, il terzo settore, ecc.).
 
-Il Piano triennale 2024-26 presenta alcuni cambiamenti nella sua
-struttura, rispetto alle edizioni precedenti; inoltre, alcuni contenuti
+Il Piano triennale 2024-2026 presenta alcuni cambiamenti nella sua
+struttura, rispetto alle edizioni precedenti; inoltre, alcuni contenuti sono
 stati approfonditi per sostenere in modo efficace le pubbliche
 amministrazioni nel processo di implementazione e gestione dei servizi
 digitali. L'introduzione delle tecnologie non porta a cambiamenti se non
@@ -59,7 +88,7 @@ quattro dimensioni: competenze digitali, servizi pubblici digitali,
 digitalizzazione delle imprese e infrastrutture digitali sicure e
 sostenibili.
 
-La strategia alla base del Piano triennale 2024-26 nasce quindi dalla
+La strategia alla base del Piano triennale 2024-2026 nasce quindi dalla
 necessità di ripensare alla programmazione della digitalizzazione delle
 pubbliche amministrazioni basata su nuove leve strategiche, tenendo
 conto di tutti gli attori coinvolti nella trasformazione digitale del

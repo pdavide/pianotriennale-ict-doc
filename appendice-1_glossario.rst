@@ -1,11 +1,17 @@
-Appendice - Glossario
-=====================
+Appendice 1 - Glossario e acronimi
+==================================
 
 **AGID**
    Agenzia per l'Italia Digitale è l'agenzia tecnica della Presidenza del
    Consiglio col compito di garantire la realizzazione degli obiettivi
    dell'Agenda digitale e contribuire alla diffusione dell'utilizzo delle
    tecnologie dell'informazione e della comunicazione.
+
+**ANAC**
+   Autorità nazionale anticorruzione.
+
+**AOO**
+   Area Organizzativa Omogenea.
 
 **API**
    API (Application Programming Interface) è un insieme di definizioni e
@@ -14,6 +20,9 @@ Appendice - Glossario
 **API-first**
    Principio per cui i servizi pubblici devono essere progettati in modo da
    funzionare in modalità integrata e attraverso processi digitali collettivi.
+
+**BDNCP**
+   Banca dati nazionale dei contratti pubblici, istituita presso ANAC.
 
 **CAD**
    Codice Amministrazione Digitale è un testo unico che riunisce e organizza le
@@ -32,6 +41,11 @@ Appendice - Glossario
    Strategia che promuove l'utilizzo dei servizi cloud come prima scelta per la
    gestione dei dati e dei processi aziendali.
 
+**Consip SpA**
+   Centrale di acquisto nazionale che offre strumenti e soluzioni di
+   e-procurement per la digitalizzazione degli acquisti di amministrazioni e
+   imprese.
+
 **Decennio Digitale**
    Insieme di regole e principi guida dettati dalla Commissione Europea per
    guidare i Paesi Membri nel raggiungimento degli obiettivi fissati per il
@@ -44,6 +58,9 @@ Appendice - Glossario
 **Digital identity only**
    Principio per cui le pubbliche amministrazioni devono erogare i propri
    servizi pubblici in digitale e devono essere fruibili su dispositivi mobili.
+
+**DDT**
+   Documento di trasporto (digitale).
 
 **Gold plating**
    Fenomeno in cui un progetto viene implementato con caratteristiche o dettagli
@@ -114,11 +131,22 @@ Appendice - Glossario
    modo sicuro e garantire la protezione dei dati personali.
 
 **RTD**
-   Responsabile per la Trasformazione Digitale è il dirigente all'interno della
+   Responsabile per la Transizione al Digitale è il dirigente all'interno della
    Pubblica Amministrazione che garantisce operativamente la trasformazione
    digitale dell'amministrazione, coordinando lo sviluppo dei servizi pubblici
    digitali e l'adozione di nuovi modelli di relazione con i cittadini,
    trasparenti e aperti.
+
+**RUP**
+   Responsabile Unico di Progetto a seguito del D.Lgs. 36/2023, già Responsabile
+   Unico di Procedimento.
+
+**SDI**
+   Sistema di interscambio, è un sistema informatico in grado di: ricevere le
+   fatture sotto forma di file con le caratteristiche della FatturaPA;
+   effettuare controlli sui file ricevuti; inoltrare le fatture verso le
+   amministrazioni pubbliche destinatarie, o verso cessionari/committenti
+   privati (B2B e B2C).
 
 **SIPA**
    Sistema Informativo delle Pubbliche Amministrazioni (SIPA) insieme coordinato

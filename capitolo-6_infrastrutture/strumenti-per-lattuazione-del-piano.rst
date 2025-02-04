@@ -1,7 +1,5 @@
-.. _strumenti-per-lattuazione-del-piano-5:
-
-Strumenti per l'attuazione del Piano 
-=====================================
+Strumenti per l'attuazione del Piano
+====================================
 
 -  Il `Manuale di abilitazione al
    Cloud <https://agidgov-my.sharepoint.com/personal/barrese_agid_gov_it/Documents/Documenti/Documenti%202024/Piano%20triennale%202024-26/PT%2024-26%20bozza%20unica%20V16_2024-01-18%20rev.docx>`__

@@ -7,16 +7,15 @@ seguenti norme:
 Decreto legislativo 7 marzo 2005, n. 82 (Codice dell'Amministrazione
 Digitale - CAD)
 
-I.   Le pubbliche amministrazioni nell'organizzare autonomamente la
-     propria attività utilizzano le tecnologie dell'informazione e della
-     comunicazione per la realizzazione degli obiettivi di efficienza,
-     efficacia, economicità, imparzialità, trasparenza, semplificazione
-     e partecipazione nel rispetto dei principi di uguaglianza e di non
-     discriminazione, nonché per l'effettivo riconoscimento dei diritti
-     dei cittadini e delle imprese di cui al presente Codice in
-     conformità agli obiettivi indicati nel Piano triennale per
-     l'informatica nella Pubblica Amministrazione di cui all'articolo
-     14-bis, comma 2, lett. b) (..)
+I.   Le pubbliche amministrazioni, nell'organizzare autonomamente la propria
+     attività, utilizzano le tecnologie dell'informazione e della comunicazione
+     per la realizzazione degli obiettivi di efficienza, efficacia, economicità,
+     imparzialità, trasparenza, semplificazione e partecipazione nel rispetto
+     dei principi di uguaglianza e di non discriminazione, nonché per
+     l'effettivo riconoscimento dei diritti dei cittadini e delle imprese di cui
+     al presente Codice in conformità agli obiettivi indicati nel Piano
+     triennale per l'informatica nella Pubblica Amministrazione di cui
+     all'articolo 14-bis, comma 2, lett. b) (..)
 
 II.  Le pubbliche amministrazioni utilizzano, nei rapporti interni, in
      quelli con altre amministrazioni e con i privati, le tecnologie
@@ -74,7 +73,7 @@ Art. 1.
 
 -  Comma 513. L'Agenzia per l'Italia digitale (AGID) predispone il Piano
    triennale per l'informatica nella Pubblica Amministrazione che è
-   approvato dal Presidente del Consiglio dei Ministri o dal Ministro
+   approvato dal Presidente del Consiglio dei ministri o dal Ministro
    delegato. Il Piano contiene, per ciascuna amministrazione o categoria
    di amministrazioni, l'elenco dei beni e servizi informatici e di
    connettività e dei relativi costi, suddivisi in spese da sostenere
@@ -82,12 +81,12 @@ Art. 1.
    altresì i beni e servizi la cui acquisizione riveste particolare
    rilevanza strategica.
 
--  Comma 514. Ai fini di cui al comma 512, Consip SpA o il soggetto
+-  Comma 514. Ai fini di cui al comma 512, Consip S.p.A. o il soggetto
    aggregatore interessato, sentita l'AGID per l'acquisizione dei beni e
    servizi strategici indicati nel Piano triennale per l'informatica
    nella Pubblica Amministrazione di cui al comma 513, programma gli
    acquisti di beni e servizi informatici e di connettività, in coerenza
-   con la domanda aggregata di cui al predetto Piano. (..) Consip SpA e
+   con la domanda aggregata di cui al predetto Piano. (..) Consip S.p.A. e
    gli altri soggetti aggregatori promuovono l'aggregazione della
    domanda funzionale all'utilizzo degli strumenti messi a disposizione
    delle pubbliche amministrazioni su base nazionale, regionale o comune

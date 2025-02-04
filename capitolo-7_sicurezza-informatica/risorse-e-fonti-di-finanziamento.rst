@@ -1,7 +1,5 @@
-.. _risorse-e-fonti-di-finanziamento-6:
-
-Risorse e fonti di finanziamento 
-=================================
+Risorse e fonti di finanziamento
+================================
 
 -  PNRR Missione 1 Componente 1 - Investimento 1.5
    "*Cybersecurity*";

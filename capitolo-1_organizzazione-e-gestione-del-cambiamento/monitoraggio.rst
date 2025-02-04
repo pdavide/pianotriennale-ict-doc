@@ -1,5 +1,5 @@
-Monitoraggio 
-=============
+Monitoraggio
+============
 
 Scenario
 --------
@@ -34,11 +34,11 @@ progressi compiuti verso ciascuno degli obiettivi per il 2030.
 
 Per individuare la proposta di nuovi indicatori e nuove metodologie di
 valorizzazione maggiormente attinenti con le caratteristiche della
-digitalizzazione italiana, è in fase di costituzione un gruppo di lavoro
-AGID-ISTAT-DTD. Il gruppo di lavoro avrà anche l'obiettivo di delineare
-sistema di valutazione dei servizi digitali pubblici che sia coerente
-con il quadro di riferimento europeo e con i principi
-dell'*eGovernment benchmark.*
+digitalizzazione italiana, è stato costituito - come indicato nel Piano 24-26,
+Linea di azione CAP1.21, vedi Appendice 2 - un gruppo di lavoro AGID-ISTAT-DTD.
+Il gruppo di lavoro avrà anche l'obiettivo di delineare sistema di valutazione
+dei servizi digitali pubblici che sia coerente con il quadro di riferimento
+europeo e con i principi dell'*eGovernment benchmark.*
 
 Nell'edizione 2022-2024 del Piano triennale è stato inoltre avviato il
 percorso di allineamento dei risultati attesi con i target degli
@@ -55,10 +55,10 @@ europee
 
 **Osservatorio sulla Digitalizzazione nel Territorio Italiano**
 
-A fronte degli ingenti investimenti previsti dal Piano nazionale di
-ripresa e resilienza (PNRR) per la digitalizzazione della Pubblica
-Amministrazione, il Dipartimento per la trasformazione digitale della
-Presidenza del Consiglio dei Ministri ha avviato la costituzione di un
+A fronte degli ingenti investimenti previsti dal Piano Nazionale di
+Ripresa e Resilienza (PNRR) per la digitalizzazione della Pubblica
+Amministrazione, il Dipartimento per la Trasformazione Digitale della
+Presidenza del Consiglio dei ministri ha avviato la costituzione di un
 Osservatorio sulla trasformazione digitale nel territorio italiano: una
 raccolta sistematica di dati sulle risorse previste per la
 digitalizzazione della PA, sui progetti finanziati e sulle
@@ -76,25 +76,25 @@ pone quindi come strumento di analisi istituzionale che ha il potenziale
 di diventare un *asset* strategico per il monitoraggio del Piano
 triennale per l'informatica nella Pubblica Amministrazione.
 
-Le attività dell'Osservatorio prevedono un importante lavoro sul
-territorio, attraverso attività di informazione e coinvolgimento degli
-enti. In aggiunta gli accordi firmati tra il Dipartimento e le
-principali rappresentanze istituzionali territoriali prevedono, tra le
-diverse linee di attività, anche la raccolta sistematica di dati al fine
-di migliorare le politiche e meglio pianificare futuri interventi. Si
-tratta di raccolte da sistematizzare nel tempo di carattere quantitativo
-e qualitativo. Al netto di quelli in corso di definizione, si citano i
-primi accordi firmati, nello specifico con la Conferenza delle Regioni e
-delle Province Autonome, con l'Associazione Nazionale Comuni Italiani
-(ANCI) e con l'Unione Province Italiane (UPI). Per gli scopi
+Le attività dell'Osservatorio prevedono un importante lavoro sul territorio,
+attraverso attività di informazione e coinvolgimento degli enti. In aggiunta gli
+accordi firmati tra il Dipartimento e le principali rappresentanze istituzionali
+territoriali prevedono, tra le diverse linee di attività, anche la raccolta
+sistematica di dati al fine di migliorare le politiche e meglio pianificare
+futuri interventi. Si tratta di raccolte da sistematizzare nel tempo di
+carattere quantitativo e qualitativo. Al netto di quelli in corso di
+definizione, si citano i primi accordi firmati, nello specifico con la
+Conferenza delle Regioni e delle Province Autonome, con l'Associazione Nazionale
+Comuni Italiani (ANCI), con l'Unione delle Province d'Italia (UPI) e con Unione
+Nazionale Comuni, Comunità ed Enti Montani (UNCEM). Per gli scopi
 dell'Osservatorio, ai fini del monitoraggio del Piano triennale e per le
-caratteristiche stesse del PNRR, particolare attenzione è stata posta
-sui Comuni. È previsto infatti l'utilizzo di informazioni primarie
-fornite direttamente dai Comuni e dalle città metropolitane attraverso
-lo svolgimento di cicli di raccolta dati.
+caratteristiche stesse del PNRR, particolare attenzione è stata posta sui
+Comuni. È previsto infatti l'utilizzo di informazioni primarie fornite
+direttamente dai Comuni e dalle Città metropolitane attraverso lo svolgimento di
+cicli di raccolta dati.
 
-Contesto normativo e strategico 
---------------------------------
+Contesto normativo e strategico
+-------------------------------
 
 Riferimenti normativi italiani:
 
@@ -128,15 +128,15 @@ Riferimenti normativi europei:
    decennio digitale
    2030 <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32022D2481>`__
 
--  `Decisione di esecuzione (ue) della Commissione Europea del 30 giugno
+-  `Decisione di esecuzione (UE) della Commissione Europea del 30 giugno
    2023 che definisce gli indicatori chiave di prestazione per misurare
    i progressi compiuti verso il conseguimento degli obiettivi digitali
    di cui all'articolo 4, paragrafo 1, della decisione (UE) 2022/2481
    del Parlamento europeo e del
    Consiglio <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=uriserv%3AOJ.L_.2023.168.01.0048.01.ITA>`__
 
-Obiettivo 1.3 - Monitorare e analizzare lo stato di digitalizzazione del paese 
--------------------------------------------------------------------------------
+Obiettivo 1.3 - Monitorare e analizzare lo stato di digitalizzazione del paese
+------------------------------------------------------------------------------
 
 RA1.3.1 - Definizione di un indice di digitalizzazione della PA italiana
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -190,21 +190,11 @@ Linee di azione Istituzionali
 RA1.3.1
 ^^^^^^^
 
--  **Marzo 2024** - Definizione dei valori *target* delle tabelle di
-   marcia nazionali strategiche per il Decennio Digitale - (Dipartimento
-   per la Trasformazione Digitale) - CAP1.20
-
--  **Marzo 2024** - Costituzione del Gruppo di lavoro tra AGID, ISTAT e
-   DTD per la proposta di nuove metodologie di valorizzazione degli
-   indicatori del Digital Decade maggiormente attinenti con le
-   caratteristiche della digitalizzazione italiana - (AGID, ISTAT,
-   Dipartimento per la Trasformazione Digitale) - CAP1.21
-
--  **Giugno 2024** - Definizione di *KPI (Key Performance Indicator)*
+-  **Dicembre 2024 \*** - Definizione di *KPI (Key Performance Indicator)*
    che facciano parte dell'indice di digitalizzazione e definizione del
    campione - (AGID) - CAP1.22
 
--  **Dicembre 2024** - Raccolta dati dal campione per alimentazione
+-  **Giugno 2025 \*** - Raccolta dati dal campione per alimentazione
    indice di digitalizzazione del campione e presentazione dei risultati
    - (AGID) - CAP1.23
 
@@ -224,11 +214,6 @@ RA1.3.1
 
 RA1.3.2 e RA1.3.3
 ^^^^^^^^^^^^^^^^^
-
--  **Giugno 2024** - Avvio della prima fase di raccolta e verifica dei
-   dati da integrare nell'Osservatorio, garantendo l'accuratezza e la
-   completezza delle informazioni - (Dipartimento per la Trasformazione
-   Digitale) - CAP1.28
 
 -  **Dicembre 2024** - Pubblicazione del primo report sullo stato della
    digitalizzazione, comunicando i risultati e le tendenze emerse dalla
@@ -256,10 +241,6 @@ RA1.3.1
 
 RA1.3.2 e RA1.3.3
 ^^^^^^^^^^^^^^^^^
-
--  **Settembre 2024** - Gli Enti locali partecipano alla prima fase
-   della raccolta dati, garantendo l'accuratezza e la completezza delle
-   informazioni - CAP1.PA.11
 
 -  **Settembre 2025** - Gli Enti locali partecipano alla seconda fase
    della raccolta dati, garantendo l'accuratezza e la completezza delle

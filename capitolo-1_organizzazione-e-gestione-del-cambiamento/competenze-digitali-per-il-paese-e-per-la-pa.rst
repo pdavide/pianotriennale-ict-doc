@@ -1,8 +1,8 @@
 Competenze digitali per il Paese e per la PA
 ============================================
 
-Scenario 
----------
+Scenario
+--------
 
 Tra i fattori abilitanti dei processi di trasformazione digitale un
 ruolo imprescindibile è esercitato dalle competenze digitali, ovvero il
@@ -10,14 +10,14 @@ complesso di conoscenze, attitudini e abilità funzionali a orientarsi,
 interagire e operare nell'ambiente digitale, sia per la vita che per il
 lavoro. La strategia UE ragiona infatti su due dimensioni:
 
--  La sfera personale, nella quale si inquadrano una serie di
+-  la sfera personale, nella quale si inquadrano una serie di
    attività comuni nel quotidiano - comprese le interazioni con i
    servizi pubblici - che richiedono il possesso di competenze digitali
    di base; il Decennio Digitale Europeo ha fissato per il 2030
    l'obiettivo dell'80% della popolazione in possesso di queste
    competenze;
 
--  La sfera professionale, in cui, oltre alle medesime competenze
+-  la sfera professionale, in cui, oltre alle medesime competenze
    digitali di base (per esempio, per l'accesso a servizi pubblici per
    le imprese) sono richieste, in particolare per alcuni settori, sempre
    più competenze specialistiche nel campo ICT; in questo caso,
@@ -27,9 +27,9 @@ lavoro. La strategia UE ragiona infatti su due dimensioni:
 Il tema delle competenze digitali acquista un particolare rilievo nel
 contesto della vita pubblica, che vede confrontarsi gli utenti di
 servizi pubblici digitali e la Pubblica Amministrazione, erogatrice dei
-medesimi servizi. LA PA, in particolare, necessita di competenze
+medesimi servizi. La PA, in particolare, necessita di competenze
 digitali per i propri dipendenti (a tutti i livelli, dirigenziali e non
-dirigenziali), e di competenze digitali specifiche del settore
+dirigenziali) e di competenze digitali specifiche del settore
 professionale e di intervento (come, ad esempio, nella Sanità e nella
 Giustizia), ma soprattutto esprime un fabbisogno crescente di competenze
 ICT specialistiche.
@@ -53,7 +53,7 @@ cittadini a rischio di esclusione digitale tramite:
    di 2 milioni di cittadini al 2026 (sub-investimento 1.7.2);
 
 -  la creazione di una rete di giovani volontari per lo sviluppo e il
-   miglioramento delle competenze digitali, su 3 cicli annuali per
+   miglioramento delle competenze digitali su 3 cicli annuali per
    realizzare 700.000 interventi di facilitazione e/o educazione
    digitale sul territorio a fine 2025 nell'ambito del "Servizio Civile
    Digitale (sub-investimento 1.7.1).
@@ -65,32 +65,34 @@ e delle competenze di *e-leadership* di coloro che ricoprono ruoli di
 responsabilità di unità organizzative e di progetti, con il
 coordinamento del Dipartimento della Funzione Pubblica.
 
-Il fabbisogno di competenze digitali nella Pubblica Amministrazione
-riguarda tutta la popolazione dei pubblici dipendenti: tanto dei
-dirigenti, chiamati a esercitare la propria funzione pubblica in un
-contesto essenzialmente trasformato dalla tecnologia, che del personale
-di livello non dirigenziale, Esempi di iniziative in risposta a tale
+Il fabbisogno di competenze digitali nella Pubblica Amministrazione riguarda
+tutta la popolazione dei pubblici dipendenti: sia dei dirigenti, chiamati a
+esercitare la propria funzione pubblica in un contesto essenzialmente
+trasformato dalla tecnologia, sia personale di livello non dirigenziale, che
+dovrà assicurare un'adozione consapevole e diffusa delle regole e degli
+strumenti tecnologici a disposizione. Esempi di iniziative in risposta a tale
 fabbisogno sono:
 
--  l'iniziativa "Syllabus per la formazione digitale", che mira a
-   consentire a tutti i dipendenti delle amministrazioni aderenti
-   l'accesso, attraverso la piattaforma *online* del Dipartimento della
-   Funzione Pubblica `Syllabus <http://www.syllabus.gov.it/>`__, a
-   percorsi formativi sulle competenze digitali erogati in e-learning e
-   personalizzati a partire da una rilevazione *online*, strutturata ed
-   omogenea dei fabbisogni individuali di formazione. L'iniziativa
-   rimarca la responsabilità collettiva di tutte le PA al perseguimento
-   degli obiettivi di *upskilling* e *reskilling* dei dipendenti
-   pubblici previsti nell'ambito della Missione 1, Componente 1,
-   sub-investimento 2.3.1 del PNRR. La Direttiva introduce, infatti, una
-   serie puntuale di *milestone* e *target* per tutte le amministrazioni
-   al fine di assicurare, entro il 2025, il completamento della
-   formazione sulle competenze digitali messa a disposizione a titolo
-   gratuito sulla piattaforma Syllabus, da parte di un numero
-   progressivamente crescente di dipendenti pubblici;
+-  l'iniziativa "Syllabus per la formazione digitale", che mira a consentire a
+   tutti i dipendenti delle amministrazioni aderenti l'accesso, attraverso la
+   piattaforma *online* del Dipartimento della Funzione Pubblica `Syllabus
+   <http://www.syllabus.gov.it/>`__, a percorsi formativi sulle competenze
+   digitali erogati in e-learning e personalizzati a partire da una rilevazione
+   *online*, strutturata ed omogenea dei fabbisogni individuali di formazione.
+   Il rafforzamento delle competenze digitali attraverso la piattaforma Syllabus
+   rientra tra le priorità strategiche introdotte dalla Direttiva del Ministro
+   della PA del 23 marzo 2024 sulla formazione. La Direttiva rimarca la
+   responsabilità collettiva di tutte le PA al perseguimento degli obiettivi di
+   *upskilling* e *reskilling* dei dipendenti pubblici previsti nell'ambito
+   della Missione 1, Componente 1, sub-investimento 2.3.1 del PNRR. La Direttiva
+   introduce, infatti, una serie puntuale di *milestone* e *target* per tutte le
+   amministrazioni al fine di assicurare, entro il 2025, il completamento della
+   formazione sulle competenze digitali messa a disposizione a titolo gratuito
+   sulla piattaforma Syllabus, da parte di un numero progressivamente crescente
+   di dipendenti pubblici;
 
--  le proposte formative della Scuola Nazionale dell'Amministrazione,
-   che nel 2024 vedranno l'attivazione di corsi sia in modalità
+-  le proposte formative della Scuola Nazionale dell'Amministrazione (SNA),
+   che nel 2024 hanno visto l'attivazione di corsi sia in modalità
    *e-learning* che *blended* e in presenza, su tematiche quali la
    cybersicurezza e i sistemi in *cloud*, le tecnologie abilitanti per
    l'organizzazione, la digitalizzazione nel PNRR, la progettazione
@@ -98,17 +100,27 @@ fabbisogno sono:
    ruolo di intelligenza artificiale (IA) e dati nei sistemi decisionali
    di supporto alla PA.;
 
--  a livello territoriale, nell'ambito dell'accordo stipulato tra ANCI e
-   il Dipartimento per la Trasformazione Digitale, è stata costituita
-   l'*Academy* ANCI, specificamente dedicata alla formazione di
-   funzionari e dirigenti comunali. L'*Academy* realizzerà iniziative
-   volte ad accrescere le competenze degli operatori comunali a fornire
-   un'informazione costante, attraverso incontri *online* e in presenza,
-   mirati sia all'attuazione degli Avvisi emanati dal Dipartimento
-   nell'ambito della Misura 1 Componente 1 del PNRR, sia - di più ampio
-   respiro - alle priorità legate al processo di digitalizzazione della
-   PA (tali iniziative, nel 2023 hanno registrato circa 5.000
-   partecipanti).
+-  a livello territoriale, nell'ambito dell'accordo stipulato tra ANCI e il
+   Dipartimento per la Trasformazione Digitale, è stata costituita l'Accademia
+   dei Comuni Digitali, un luogo di formazione gratuita aperto a tutto il
+   personale dei Comuni, nato per accrescere le competenze e di project
+   management legate al percorso di transizione digitale. L'Accademia sta
+   realizzando iniziative volte ad accrescere le competenze degli operatori
+   comunali a fornire un'informazione costante, attraverso un'offerta formativa
+   che prevedrà incontri *online* e in presenza, mirati sia all'attuazione degli
+   Avvisi emanati dal Dipartimento nell'ambito della Misura 1 Componente 1 del
+   PNRR, sia - di più ampio respiro - alle priorità legate al processo di
+   digitalizzazione della PA (tali iniziative informative, nel 2023 hanno
+   registrato circa 5.000 partecipanti).
+
+-  nell'ambito dell'iniziativa FSE 2.0 (vedi capitolo 4 - Piattaforme) sono
+   state rese disponibili alle Regioni, attraverso il D.M. 8 agosto 2022, circa
+   311 milioni di euro per l'incremento delle competenze digitali dei
+   professionisti del Sistema Sanitario Nazionale. Le Regioni e le Province
+   Autonome sono impegnate nella pianificazione ed implementazione di iniziative
+   destinate ai propri medici e altri professionisti del settore per garantire
+   per promuovere l'alimentazione del Fascicolo Sanitario Elettronico e
+   l'utilizzo dello stesso per le finalità previste.
 
 La Strategia nazionale per le competenze digitali prevede inoltre lo
 sviluppo di competenze specialistiche ICT per fronteggiare le sfide
@@ -175,7 +187,7 @@ non sono concorrenziali rispetto al mercato.
 
 Inoltre, nell'ambito del PNRR, e in particolare dell'investimento 2.3
 M1C1, è prevista l'attivazione di almeno 20 "comunità di competenze"
-(*community of Practice*), trasversali alle amministrazioni, tra le
+(*community of practice*), trasversali alle amministrazioni, tra le
 quali si annoverano anche quelle dedicate alla *digital transformation*:
 l'intervento, a titolarità della Scuola Nazionale dell'Amministrazione,
 è destinato a sviluppare e contaminare *best practice* all'interno della
@@ -205,24 +217,31 @@ Riferimenti normativi europei:
    Europeo delle Competenze 2023 COM (2022) 526 final
    2022/0326 <https://ec.europa.eu/social/BlobServlet?docId=26148&langId=en>`__
 
-Obiettivo 1.2 - Diffusione competenze digitali nel Paese e nella PA 
---------------------------------------------------------------------
+Riferimenti normativi italiani:
 
-RA1.2.1 - Diffusione competenze digitali di base per cittadini e imprese 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-  `Direttiva del Ministro per la Pubblica Amministrazione del 23 marzo 2023
+   "Pianificazione della formazione e sviluppo delle competenze funzionali alla
+   transizione digitale, ecologica e amministrativa promosse dal Piano Nazionale
+   di Ripresa e Resilienza" <https://www.funzionepubblica.gov.it/articolo/dipartimento/29-01-2024/direttiva-sulla-formazione>`__
+
+Obiettivo 1.2 - Diffusione competenze digitali nel Paese e nella PA
+-------------------------------------------------------------------
+
+RA1.2.1 - Diffusione competenze digitali di base per cittadini e imprese
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  **Target 2024** - 48% popolazione 16-74 anni con competenze digitali
-   almeno di base (rilevazione Istat-Eurostat 2023)
+   almeno di base (rilevazione Istat-Eurostat 2024)
 
 -  **Target 2025** - 2 milioni di cittadini che hanno fruito dei servizi
    di facilitazione e formativi dei progetti PNRR "Competenze digitali
    di base" misura 1.7
 
 -  **Target 2026** - 57% popolazione 16-74 anni con competenze digitali
-   almeno di base (rilevazione Istat-Eurostat 2025)
+   almeno di base (prossima rilevazione Istat-Eurostat 2026)
 
-RA1.2.2 - Diffusione competenze digitali di base nella PA 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RA1.2.2 - Diffusione competenze digitali di base nella PA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  **Target 2024** - Partecipazione di almeno 136.000 dipendenti
    pubblici a iniziative di miglioramento del livello di competenze e di
@@ -236,8 +255,8 @@ RA1.2.2 - Diffusione competenze digitali di base nella PA
    pubblici a iniziative di miglioramento del livello di competenze e di
    riqualificazione in ambito digitale
 
-RA1.2.3 - Diffusione delle competenze specialistiche ICT 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RA1.2.3 - Diffusione delle competenze specialistiche ICT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  **Target 2024** - 4% quota di specialisti ICT sul totale occupati
    (rilevazione 2023 Istat-Eurostat)
@@ -255,11 +274,7 @@ Linee di azione Istituzionali
 RA1.2.1
 ^^^^^^^
 
--  **Gennaio 2024** - Pubblicazione dell'Avviso PNRR per la terza
-   annualità del Servizio Civile Digitale - (Dipartimento per la
-   Trasformazione Digitale) - CAP1.12
-
--  **Ottobre 2024** - Terzo aggiornamento del Piano operativo della
+-  **Dicembre 2024 \*** - Terzo aggiornamento del Piano operativo della
    Strategia nazionale per le competenze digitali, sulla base del
    rapporto di monitoraggio sull'attuazione e dei dati rilevati sul
    2023-2024, a cura del Comitato tecnico guida di Repubblica Digitale -
@@ -278,22 +293,18 @@ RA1.2.1
 RA1.2.2
 ^^^^^^^
 
--  **Gennaio 2024** - Ampliamento del catalogo formativo nell'ambito
-   dell'iniziativa "Syllabus per la formazione digitale" su tematiche
-   specifiche connesse alla transizione digitale - (Dipartimento della
-   Funzione Pubblica) - CAP1.16
-
--  **Giugno 2024** - Attivazione del 100% dei corsi SNA inclusi nella
-   programmazione didattica dell'area Innovazione e Trasformazione
-   Digitale della PA - (Scuola Nazionale dell'Amministrazione) - CAP1.17
-
 -  **Dicembre 2024** - Erogazione di almeno 10 *webinar* su Intelligenza
    Artificiale per cittadini, imprese e PA - (AGID) - CAP1.18
+
+-  **Dicembre 2024** - Pubblicazione sulla piattaforma Syllabus del programma
+   formativo rivolto a tutti i dipendenti della PA che affronta aspetti chiave
+   di natura gestionale, tecnologica e giuridica connessi all'adozione dell'IA
+   nella Pubblica Amministrazione (DFP) - CAP 1.32
 
 RA1.2.3
 ^^^^^^^
 
--  **Febbraio 2024** - Pubblicazione di un *position paper* della
+-  **Dicembre 2024 \*** - Pubblicazione di un *position paper* della
    Coalizione Nazionale Repubblica Digitale sul quadro di interventi per
    l'incremento delle competenze specialistiche ICT - (Dipartimento per
    la Trasformazione Digitale) - CAP1.19
@@ -324,8 +335,8 @@ un'offerta formativa per dipendenti pubblici su temi specialistici quali
 accessibilità, dati, intelligenza artificiale, sicurezza informatica,
 ecc.
 
-Linee di azione per le PA 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Linee di azione per le PA
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Linee di azione vigenti**
 
@@ -337,7 +348,7 @@ Linee di azione per le PA
 
 -  Le PA aderiscono all'iniziativa "Syllabus per la formazione digitale"
    e promuovono la partecipazione alle iniziative formative sulle
-   competenze di base da parte dei dipendenti pubblici, concorrendo al
+   competenze digitali di base da parte dei dipendenti pubblici, concorrendo al
    conseguimento dei target del PNRR in tema di sviluppo del capitale
    umano della PA e in linea con il Piano strategico nazionale per le
    competenze digitali - CAP1.PA.08

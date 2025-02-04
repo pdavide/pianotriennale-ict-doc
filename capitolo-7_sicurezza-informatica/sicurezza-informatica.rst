@@ -52,13 +52,12 @@ riferimento è alla necessità di:
    (obiettivi 7.2, 7.3, 7.4);
 
 -  promuovere attività legate al miglioramento della cultura *cyber*
-   delle Amministrazioni (obiettivo 7.5).
+   delle amministrazioni (obiettivo 7.5).
 
-All'interno di questo contesto, AGID metterà a disposizione della
-Pubblica Amministrazione una serie di piattaforme e di servizi, che
-verranno erogati tramite il proprio CERT, finalizzati alla conoscenza e
-al contrasto dei rischi *cyber* legati al patrimonio ICT della PA
-(obiettivo 7.6)
+All'interno di questo contesto, anche AGID collaborerà mettendo a disposizione
+della Pubblica Amministrazione una serie di piattaforme e di servizi, che
+verranno erogati tramite il proprio CERT, finalizzati alla conoscenza e al
+contrasto dei rischi *cyber* legati al patrimonio ICT della PA (obiettivo 7.6)
 
 Contesto normativo e strategico
 -------------------------------
@@ -168,33 +167,17 @@ RA7.1.1 - Identificazione di un modello, con ruoli e responsabilità, di gestion
 -  **Target 2025** - Approvare e rendere noti ruoli e responsabilità
    relativi alla gestione della cybersicurezza
 
--  **Target 2026** - n.d.
+-  **Target 2026** - n.a.
 
 RA7.1.2 - Definizione del framework documentale a supporto della gestione cyber
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.d.
+-  **Target 2024** - n.a.
 
 -  **Target 2025** - Approvare e rendere noti i processi e le procedure
    inerenti alla gestione interna della cybersicurezza
 
--  **Target 2026** - n.d.
-
-Linee d'azione istituzionali
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-RA7.1.1
-^^^^^^^
-
--  **Giugno 2024** - L'Agenzia fornisce le Linee guida per
-   l'identificazione di ruoli, competenze e organizzazione per la
-   definizione di un modello di *governance* della cybersicurezza nella
-   PA, comprensive delle linee di implementazione da parte delle PA -
-   (ACN) - CAP7.01
-
--  **Settembre 2024** - L'Agenzia promuove la creazione di un ruolo di
-   Responsabile della Cybersicurezza della PA e i suoi compiti e
-   responsabilità - (ACN) - CAP7.02
+-  **Target 2026** - n.a.
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -239,7 +222,7 @@ RA7.2.1 - Definizione del framework documentale a supporto del processo di appro
 RA7.2.2 - Definizione delle modalità di monitoraggio del processo di approvvigionamento IT
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.d.
+-  **Target 2024** - n.a.
 
 -  **Target 2025** - Definire e formalizzare le modalità e il piano di
    *audit* e verifiche per la valutazione dei fornitori e delle terze
@@ -301,14 +284,14 @@ RA7.3.1 - Definizione del framework per la gestione del rischio cyber
    servizi, identificando Piani e strumenti per garantirne la continuità
    operativa dei servizi offerti
 
--  **Target 2026** - n.d.
+-  **Target 2026** - n.a.
 
 RA7.3.2 - Definizione delle modalità di monitoraggio del rischio cyber
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.d.
+-  **Target 2024** - n.a.
 
--  **Target 2025** - n.d.
+-  **Target 2025** - n.a.
 
 -  **Target 2026** - Integrare attività di monitoraggio e mitigazione
    del rischio *cyber* nei normali processi di progettazione e gestione
@@ -369,14 +352,14 @@ RA7.4.1 - Definizione del framework documentale relativo alla gestione degli inc
    -  Formalizzare i processi e le procedure relative alla gestione
       degli incidenti
 
--  **Target 2025** - n.d.
+-  **Target 2025** - n.a.
 
--  **Target 2026** - n.d.
+-  **Target 2026** - n.a.
 
 RA7.4.2 - Definizione delle modalità di verifica e aggiornamento dei piani di risposta agli incidenti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.d.
+-  **Target 2024** - n.a.
 
 -  **Target 2025** - Definire le modalità di verifica dei piani di
    risposta e ripristino a seguito di incidenti informatici
@@ -390,7 +373,7 @@ Linee d'azione istituzionali
 RA7.4.1
 ^^^^^^^
 
--  **Giugno 2024** - L'Agenzia fornisce le Linee guida per la
+-  **Dicembre 2024** - L'Agenzia fornisce le Linee guida per la
    definizione dei processi e delle procedure per la gestione degli
    incidenti di sicurezza - (ACN) - CAP7.06
 
@@ -430,26 +413,17 @@ RA7.5.1 - Definizione dei piani di formazione in ambito cyber
 -  **Target 2025** - Definire piani di formazione diversificati per
    ruoli e posizioni organizzative
 
--  **Target 2026** - n.d.
+-  **Target 2026** - n.a.
 
 RA7.5.2 - Adozione di strumenti atti alla formazione in ambito cyber
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.d.
+-  **Target 2024** - n.a.
 
--  **Target 2025** - n.d.
+-  **Target 2025** - n.a.
 
 -  **Target 2026** - Acquisire strumenti informatici a supporto dei
    programmi formativi
-
-Linee di azione istituzionali
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-RA7.5.1
-^^^^^^^
-
--  **Giugno 2024** - L'Agenzia realizza contributi a supporto dello
-   sviluppo della consapevolezza *cyber* nella PA - (ACN) - CAP7.07
 
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -472,17 +446,20 @@ RA7.5.2
 -  **Da dicembre 2025** - Le PA realizzano iniziative per verificare e
    migliorare la consapevolezza del proprio personale - CAP7.PA.19
 
-Obiettivo 7.6 - Contrastare il rischio cyber attraverso attività di supporto proattivo alla PA 
------------------------------------------------------------------------------------------------
+Obiettivo 7.6 - Contrastare il rischio cyber attraverso attività di supporto proattivo alla PA
+----------------------------------------------------------------------------------------------
 
 RA7.6.1 - Distribuzione di Indicatori di Compromissione alle PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Distribuzione degli IoC al 30% delle PA
+-  **Target 2024** - Ammissione all'accreditamento ed avvio del flusso di
+   distribuzione degli IoC al 30% delle PA richiedenti
 
--  **Target 2025** - Distribuzione degli IoC al 60% delle PA
+-  **Target 2025** - Ammissione all'accreditamento ed avvio del flusso di
+   distribuzione degli IoC al 60% delle PA richiedenti
 
--  **Target 2026** - Distribuzione degli IoC al 100% delle PA
+-  **Target 2026** - Ammissione all'accreditamento ed avvio del flusso di
+   distribuzione degli IoC al 100% delle PA richiedenti
 
 RA7.6.2 - Fornitura di strumenti funzionali all'esecuzione dei piani di autovalutazione dei sistemi esposti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -491,7 +468,7 @@ RA7.6.2 - Fornitura di strumenti funzionali all'esecuzione dei piani di autovalu
    servizi per l'autovalutazione messi a disposizione sul Portale del
    CERT-AGID.
 
--  **Target 2025 -** Ameno il 60% delle PA fruiscono degli strumenti o
+-  **Target 2025** - Almeno il 60% delle PA fruiscono degli strumenti o
    servizi per l'autovalutazione messi a disposizione sul Portale del
    CERT-AGID.
 
@@ -516,28 +493,16 @@ RA7.6.3 - Supporto formativo e informativo rivolto alle PA e in particolare agli
 Linee di azione istituzionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-RA7.6.1
-^^^^^^^
-
--  **Gennaio 2024** - Monitoraggio proattivo delle minacce *cyber* nel
-   dominio della PA, mediante la diffusione di Indicatori di
-   Compromissione e informazioni utili all'innalzamento del livello di
-   difesa - (AGID) - CAP7.08
-
 RA7.6.2
 ^^^^^^^
 
--  **Settembre 2024** - Messa a disposizione dei RTD di strumenti e
+-  **Dicembre  2024 \*** - Messa a disposizione dei RTD di strumenti e
    supporto per le autovalutazioni dei sistemi esposti e per
    l'individuazione, l'analisi e la gestione dei rischi *cyber* - (AGID)
    - CAP7.09
 
 RA7.6.3
 ^^^^^^^
-
--  **Gennaio 2024** - Diffusione di notizie, dati statistici e tecnici
-   sulle campagne malevole attive sul territorio nazionale attraverso il
-   portale del CERT-AGID - (AGID) - CAP7.10
 
 -  **Marzo 2025** - Erogazione di un corso di formazione base sulla
    sicurezza nella PA - (AGID) - CAP7.11
@@ -552,16 +517,18 @@ RA7.6.3
 Linee di azione per le PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-RA7.6.1 
-^^^^^^^^
+RA7.6.1
+^^^^^^^
 
--  **Da febbraio 2024** - Le PA dovranno dotarsi degli strumenti idonei
-   all'acquisizione degli IoC ed accreditarsi al CERT-AGID - CAP7.PA.20
+-  **Da dicembre 2024 \*** - Le PA, di cui all'all'art. 2 comma 2 del CAD,
+   dovranno accreditarsi al CERT-AGID ed aderire al flusso di Indicatori di
+   compromissione (Feed IoC) del CERT-AGID per la protezione della propria
+   Amministrazione da minacce Malware e Phishing - CAP7.PA.20
 
 RA7.6.2
 ^^^^^^^
 
--  **Da ottobre 2024** - Le PA dovranno usufruire degli strumenti per la
+-  **Da dicembre 2024 \*** - Le PA dovranno usufruire degli strumenti per la
    gestione dei rischi *cyber* messi a disposizione dal CERT-AGID -
    CAP7.PA.21
 

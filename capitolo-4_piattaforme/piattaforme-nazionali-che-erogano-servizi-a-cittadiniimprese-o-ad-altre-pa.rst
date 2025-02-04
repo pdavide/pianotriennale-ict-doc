@@ -1,5 +1,5 @@
-Piattaforme nazionali che erogano servizi a cittadini/imprese o ad altre PA 
-============================================================================
+Piattaforme nazionali che erogano servizi a cittadini/imprese o ad altre PA
+===========================================================================
 
 Scenario
 --------
@@ -31,7 +31,7 @@ Amministrazione, attraverso un'applicazione semplice e intuitiva
 disponibile direttamente sul proprio *smartphone*. In particolare, l'app
 IO rende concreto l'articolo 64 bis del Codice dell'Amministrazione
 Digitale, che istituisce un unico punto di accesso per tutti i servizi
-digitali, erogato dalla Presidenza del Consiglio dei Ministri.
+digitali, erogato dalla Presidenza del Consiglio dei ministri.
 
 SEND
 ~~~~
@@ -57,32 +57,30 @@ sicurezza, abilita ad accedere ai servizi, ai quali fornisce dati
 identificativi certificati.
 
 SPID è costituito come insieme aperto di soggetti pubblici e privati
-che, previo accreditamento da parte dell'Agenzia per l'Italia Digitale,
+che, previo accreditamento da parte dell'Agenzia per l'Italia digitale,
 gestiscono i servizi di registrazione e di messa a disposizione delle
 credenziali e degli strumenti di accesso in rete nei riguardi di
 cittadini e imprese.
 
-A dicembre 2023 sono state rilasciate ai cittadini oltre 36 milioni e
-mezzo di identità digitali SPID, che hanno permesso nel 2023 di
-totalizzare oltre 1.000.000.000 di autenticazioni a servizi *online* di
-pubbliche amministrazioni e privati. Attualmente la federazione SPID è
-composta da più di 15.000 fornitori di servizi pubblici e 177 fornitori
-di servizi privati.
+A giugno 2024 sono state rilasciate ai cittadini oltre 38 milioni di identità
+digitali SPID, che hanno permesso nella prima metà del 2024 di totalizzare oltre
+630.000.000 di autenticazioni a servizi online di pubbliche amministrazioni e
+privati. Attualmente la Federazione SPID è composta da circa 19.000 fornitori di
+servizi pubblici e 200 fornitori di servizi privati.
 
-Nell'ambito del PNRR il sub-investimento M1C1 1.4.4 "Rafforzamento
-dell'adozione delle piattaforme nazionali di identità digitale (SPID,
-CIE) e dell'Anagrafe nazionale della popolazione residente (ANPR)", di
-cui è soggetto titolare il Dipartimento per la Trasformazione Digitale
-della Presidenza del Consiglio dei Ministri, include fra le sue finalità
-che i gestori delle identità SPID assicurino l'innalzamento del livello
-dei servizi, della qualità, sicurezza e di interoperabilità degli stessi
-stabiliti dalle Linee guida AGID, come previsto dall'art. 18 bis del
-D.L. 24/02/2023 n. 13, convertito dalla L. 21/04/2023 n. 41.
+Nell'ambito del PNRR, il sub-investimento M1C1 1.4.4 "Rafforzamento
+dell'adozione delle piattaforme nazionali di identità digitale (SPID, CIE) e
+dell'Anagrafe nazionale della popolazione residente (ANPR)", di cui è soggetto
+titolare il Dipartimento per la Trasformazione Digitale, ha tra le proprie
+finalità quella di assicurare l'innalzamento del livello dei servizi, della
+qualità, sicurezza e di interoperabilità degli stessi da parte dei gestori delle
+identità SPID, come previsto dall'art. 18 bis del D.L. 24/02/2023 n. 13,
+convertito dalla L. 21/04/2023 n. 41.
 
 A tal fine, è necessario che il Sistema SPID evolva in base alle
 seguenti indicazioni:
 
--  attuazione delle "Linee guida OpenID Connect in SPID" (Determinazione
+-  attuazione delle "Linee guida OpenID Connect (OIDC) in SPID" (Determinazione
    del Direttore Generale di AGID n. 616/2021) comprensive dell'Avviso
    SPID n. 41 del 23/3/2023 versione 2.0 e il "Regolamento - *SPID
    OpenID Connect Federation* 1.0" (Determinazione del Direttore
@@ -96,33 +94,32 @@ seguenti indicazioni:
    di attributi qualificati" (Determinazione del Direttore Generale di
    AGID n. 215/2022);
 
--  promozione dell'utilizzo dello SPID dedicato all'uso professionale
-   per l'accesso ai servizi *online* rivolti a professionisti e imprese.
+-  promozione dell'utilizzo dello SPID dedicato all'uso professionale per
+   l'accesso ai servizi online rivolti a professionisti e imprese.
 
 CIE
 ~~~
 
-L'identità digitale CIE (CIEId), sviluppata e gestita dall'Istituto
-Poligrafico e Zecca dello Stato, consente la rappresentazione
-informatica della corrispondenza tra un utente e i suoi attributi
-identificativi, ai sensi del CAD, verificata attraverso l'insieme dei
-dati raccolti e registrati in forma digitale al momento del rilascio
-della CIE. La CIEId è comprovata dal cittadino attraverso l'uso della
-CIE o delle credenziali rilasciate dal Ministero.
+L'identità digitale CIE, sviluppata e gestita dall'Istituto Poligrafico e Zecca
+dello Stato, consente la rappresentazione informatica della corrispondenza tra
+un utente e i suoi attributi identificativi, ai sensi del CAD, verificata
+attraverso l'insieme dei dati raccolti e registrati in forma digitale al momento
+del rilascio della CIE. L'app CieID permette di accedere ai servizi e ai portali
+della pubblica amministrazione italiana attraverso l'uso della CIE o delle
+credenziali rilasciate dal Ministero dell'Interno.
 
-Alla data di metà dicembre 2023 sono state rilasciate ai cittadini oltre
-40 milioni di Carte di Identità Elettroniche, che hanno permesso nel
-2023 di totalizzare circa 32.000.000 di autenticazioni a servizi
-*online* di pubbliche amministrazioni e privati. Attualmente la
-federazione CIE è composta da più di 10.000 fornitori di servizi
-pubblici e circa 100 fornitori di servizi privati.
+A settembre 2024 sono state rilasciate ai cittadini più di 47 milioni di Carte
+di Identità Elettroniche, che hanno permesso nel 2024 di totalizzare oltre 48
+milioni di autenticazioni a servizi online di pubbliche amministrazioni e
+privati. Attualmente la federazione CIE è composta da più di 10.000 fornitori di
+servizi pubblici e circa 100 fornitori di servizi privati.
 
 Come sancito dal Decreto 8 settembre 2022 "Modalità di impiego della
 carta di identità elettronica", sono previste le seguenti evolutive sul
-servizio CIEId:
+servizio CieID:
 
-1. Ampliamento del set di attributi forniti tramite autenticazione con
-   CIEId, come previsto dall'art. 6;
+1. ampliamento del set di attributi forniti tramite autenticazione con
+   CieID, come previsto dall'art. 6;
 
 2. ampliamento delle funzionalità del portale del cittadino, come
    previsto dall'art. 14, tra cui la possibilità di visualizzare,
@@ -137,7 +134,7 @@ servizio CIEId:
 
 5. implementazione dell'integrazione con il sistema ANPR, al fine di
    ricevere giornalmente i dati afferenti ai soggetti deceduti e
-   procedere al blocco tempestivo della CIEId;
+   procedere al blocco tempestivo della CieID;
 
 6. sviluppo di un meccanismo di controllo genitoriale per consentire un
    accesso controllato ai servizi online offerti ai minori.
@@ -157,21 +154,51 @@ pubbliche amministrazioni servite.
 Fascicolo Sanitario Elettronico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Il Fascicolo Sanitario Elettronico (FSE 2.0) è un ecosistema di dati di salute
+realizzato per garantire a tutti i cittadini condizioni di salute e sicurezza.
+
 Il Fascicolo Sanitario Elettronico (FSE 2.0) ha l'obiettivo di garantire
 la diffusione e l'accessibilità dei servizi di sanità digitale in modo
 omogeneo e capillare su tutto il territorio nazionale a favore dei
 cittadini e degli operatori sanitari delle strutture pubbliche, private
 accreditate e private.
 
-La verifica formale e semantica della corretta implementazione e
-strutturazione dei documenti secondo gli standard ha lo scopo di
-assicurare omogeneità a livello nazionale per i servizi del FSE 2.0
-disponibili ai cittadini e ai professionisti della Sanità.
+In particolare, il FSE 2.0 consentirà di offrire in tempo reale i dati clinici
+dell'assistito al medico curante - medici di medicina generale, pediatri di
+libera scelta e medici specialisti - per la continuità assistenziale; nonché di
+offrire al cittadino la conservazione e l'aggiornamento della propria intera
+storia clinica integrata anche da dati autoprodotti e conservati nel taccuino
+dell'assistito inserito nel FSE.
 
-Attraverso interventi sistematici di formazione, si intende superare le
-criticità legate alle competenze digitali dei professionisti del sistema
-sanitario, innalzandone significativamente il livello per un utilizzo
+La verifica formale e semantica della corretta implementazione e strutturazione
+dei documenti, secondo gli standard stabiliti, ha lo scopo di assicurare
+omogeneità a livello nazionale per i servizi del FSE 2.0, nonché una base dati
+per lo sviluppo di servizi tecnologici di intelligenza artificiale grazie
+all'utilizzo, nell'ambito di un sistema architetturale federato, di piattaforme
+regionali integrate con il sistema centrale.
+
+Attraverso interventi sistematici di formazione e comunicazione, si intende
+superare le criticità legate alle competenze digitali dei professionisti del
+sistema sanitario, incrementandone significativamente il livello per un utilizzo
 pieno ed efficace del FSE 2.0.
+
+Nel corso del 2024 è stato ridisegnato l'Ecosistema dei Dati Sanitari (EDS) in
+una logica federata, nella prospettiva dell'attuazione del nuovo regolamento per
+la realizzazione dello spazio europeo dei dati sanitari.
+
+La nuova architettura del Fascicolo ha l'obiettivo di garantire una gestione
+uniforme ed interoperabile dei dati clinici a livello nazionale, pur mantenendo
+l'autonomia e indipendenza di ciascun sistema regionale.
+
+L'EDS completa l'architettura del FSE, consentendo di gestire i dati
+strutturati, non limitandosi ai soli documenti elettronici.
+
+Esso è infatti alimentato dai dati estratti dai documenti del FSE e svolge un
+ruolo fondamentale nella validazione, raccolta, organizzazione, conservazione,
+protezione e consultazione dei dati, che possono essere identificativi,
+pseudonimizzati o anonimizzati, che vengono messi a disposizione dei diversi
+attori aventi diritto in funzione delle specifiche finalità: cura, prevenzione,
+ricerca scientifica, governo e programmazione sanitaria.
 
 SUAP e SUE
 ~~~~~~~~~~
@@ -195,43 +222,125 @@ procedimenti amministrativi diventano così il mezzo con cui costruire un
 futuro in cui le opportunità digitali diventino accessibili a tutti.
 
 Nell'ambito delle iniziative previste dal Piano Nazionale di Ripresa e
-Resilienza (PNRR), è stato avviato il percorso di trasformazione
-incentrato sulla digitalizzazione e la semplificazione dei sistemi
-informatici, partendo dalla redazione delle Specifiche tecniche,
-elaborate attraverso il lavoro congiunto del Gruppo tecnico (istituito
-dal Ministero delle Imprese e del *Made in Italy* e dal Dipartimento
-della Funzione Pubblica e coordinato dall'Agenzia per l'Italia
-Digitale), le quali delineano l'insieme delle regole e delle modalità
-tecnologiche che i Sistemi Informatici degli Sportelli Unici (SSU)
-devono adottare, per la gestione ottimale dei procedimenti
-amministrativi riguardanti le attività produttive, conformemente alle
-disposizioni del DPR 160/2010 e ss.mm.ii.
+Resilienza (PNRR), è stato avviato il percorso di trasformazione incentrato
+sulla digitalizzazione e la semplificazione dei sistemi informatici, partendo
+dalla redazione delle Specifiche tecniche, elaborate attraverso il lavoro
+congiunto del Gruppo tecnico (istituito dal Ministero delle Imprese e del *Made
+in Italy* e dal Dipartimento della Funzione Pubblica e coordinato dall'Agenzia
+per l'Italia digitale), le quali delineano l'insieme delle regole e delle
+modalità tecnologiche che i Sistemi informatici degli Sportelli Unici (SSU)
+devono adottare, per la gestione ottimale dei procedimenti amministrativi
+riguardanti le attività produttive, conformemente alle disposizioni del DPR
+160/2010 e ss.mm.ii. I *target* di seguito indicati riguardano gli obiettivi
+fissati dal PNRR. Questi *target* vengono raggiunti attraverso diverse azioni di
+semplificazione e/o digitalizzazione nel cui ambito si inseriscono le procedure
+relative agli Sportelli Unici. In questo Piano vengono appunto riportate le
+Linee di azione che coinvolgono gli Sportelli Unici.
 
-La fase operativa di questo percorso è stata condotta partendo da
-un'attenta analisi della situazione esistente, rafforzata,
-successivamente, dalla somministrazione di un questionario di
-valutazione, volto ad identificare la maturità tecnologica iniziale
-degli sportelli unici, grazie alla diretta collaborazione delle
-amministrazioni coinvolte. Attualmente, è terminata la raccolta delle
-informazioni, perfezionata con altre attività di indagine, come la
-consulta dei fornitori dei servizi IT relativi alle piattaforme, i
-tavoli tematici regionali e il coinvolgimento di altri *stakeholder* e
-si sta procedendo con la definizione dei piani di intervento, da
-realizzarsi attraverso risorse finanziarie messe a disposizione dal
-Dipartimento della Funzione Pubblica, tramite la pubblicazione di
-bandi/stipula di accordi per l'adeguamento delle piattaforme.
+La fase operativa del percorso complessivo di semplificazione che coinvolge
+anche gli Sportelli Unici viene condotta partendo da un'attenta analisi della
+situazione esistente, rafforzata, successivamente, dalla somministrazione di un
+questionario di valutazione, volto a identificare la maturità tecnologica
+iniziale degli sportelli unici, grazie alla diretta collaborazione delle
+amministrazioni coinvolte. Attualmente, per gli Sportelli Unici, è terminata la
+raccolta delle informazioni, perfezionata con altre attività di indagine, come
+la consulta dei fornitori dei servizi IT relativi alle piattaforme, i tavoli
+tematici regionali e il coinvolgimento di altri *stakeholder* e si sta procedendo
+con la definizione dei piani di intervento, da realizzarsi attraverso risorse
+finanziarie messe a disposizione dal Dipartimento della Funzione Pubblica,
+tramite la pubblicazione di bandi/stipula di accordi per l'adeguamento delle
+piattaforme.
 
 In tale percorso di trasformazione, che vedrà impegnate le pubbliche
-amministrazioni nel prossimo triennio, per garantire il raggiungimento
-delle *milestone* definite nell'ambito del PNRR, deve essere assicurato
-il supporto tecnico necessario all'adeguamento delle soluzioni
-informatiche alle Specifiche tecniche, attraverso la condivisione delle
-conoscenze e dell'esperienza maturata nel campo, utili a fornire una
-corretta interpretazione delle stesse durante la fase di realizzazione
-degli interventi.
+amministrazioni nel prossimo triennio, per garantire il raggiungimento delle
+milestone definite nell'ambito del PNRR, deve essere assicurato il supporto
+tecnico necessario all'adeguamento delle soluzioni informatiche alle specifiche
+tecniche, attraverso la condivisione delle conoscenze e dell'esperienza maturata
+nel campo, utili a fornire una corretta interpretazione delle stesse durante la
+fase di realizzazione degli interventi.
 
-Contesto normativo e strategico 
---------------------------------
+SIOPE+
+~~~~~~
+
+L'art. 1, comma 533, della Legge n. 232 del 2016 (Legge di bilancio 2017), al
+fine di favorire il monitoraggio del ciclo completo delle entrate e delle spese,
+ha previsto l'obbligo per tutte le Amministrazioni pubbliche di:
+
+-  ordinare gli incassi e i pagamenti al proprio tesoriere o cassiere
+   esclusivamente attraverso ordinativi informatici emessi secondo lo standard
+   OPI emanato dall'Agenzia per l'Italia digitale (AGID);
+
+-  trasmettere gli ordinativi al proprio tesoriere/cassiere per il tramite
+   dell'infrastruttura SIOPE+ gestita dalla Banca d'Italia.
+
+L'attuazione del sistema SIOPE+ si è realizzata attraverso successivi decreti
+del Ministero dell'Economia e delle Finanze che, gradualmente, hanno esteso i
+nuovi adempimenti alle amministrazioni pubbliche e, in particolare, agli Enti
+Locali che hanno adottato SIOPE+ nel corso del 2018. Grazie al Decreto del
+Ministero dell'Economia e delle Finanze del 8 agosto 2019, con la quale si
+consentiva alle PA in contabilità finanziaria di poter aderire volontariamente
+al SIOPE+, fino al dicembre 2023 hanno aderito circa 650 istituzioni scolastiche
+statali.
+
+In tale ambito è stato definito il "Progetto di digitalizzazione completa dei
+pagamenti degli enti locali in SIOPE+ e la corretta alimentazione e allineamento
+della PCC".
+
+Il Progetto nasce dalla condivisione degli obiettivi, delle metodologie e degli
+strumenti definiti negli anni dai vari portatori di interesse del progetto
+SIOPE+ (MEF, AGID, Banca d'Italia, ABI, Poste, ANCI, IFEL e UPI). La gestione
+del progetto è caratterizzata dal metodo della condivisione, attraverso la
+costituzione di un comitato di coordinamento che svolge le funzioni di
+indirizzo, controllo e supporto alle attività del Progetto.
+
+L'iniziativa progettuale ha come finalità due obiettivi:
+
+-  ridurre, fino ad una progressiva eliminazione, l'utilizzo, da parte degli
+   enti locali, di documenti esterni ai mandati informatici (cd. OPI) per il
+   pagamento delle spese di personale;
+
+-  ridurre lo scostamento fra l'ammontare del debito commerciale degli enti
+   locali rilevato dalla Piattaforma dei Crediti Commerciali e l'importo
+   risultante dalle evidenze contabili delle amministrazioni locali.
+
+Tale finalità comporterà la realizzazione delle procedure contabili e
+informatiche che consentono di pagare le spese di personale senza l'utilizzo di
+documenti esterni e di compilare correttamente gli OPI per l'alimentazione della
+PCC.
+
+IT-Wallet
+~~~~~~~~~
+
+Il Sistema di Portafoglio digitale italiano (Sistema *IT-Wallet*) è l'ecosistema
+di soluzioni pubbliche e private che permettono a tutti i cittadini di disporre
+e gestire in maniera efficace della propria identità digitale e dei propri
+documenti e attestazioni, attraverso applicazioni mobile. Ha l'obiettivo di
+rendere più semplice, accessibile, sicuro e trasparente il processo di
+presentazione dei propri dati e l'accesso ai servizi erogati da pubbliche
+amministrazioni e soggetti privati, sia nel mondo fisico che in quello digitale,
+mettendo al centro il cittadino secondo i principi di *self-sovereignity*,
+*once-only* e *data minimization*.
+
+Il Sistema *IT-Wallet* si colloca nel più ampio contesto europeo dell'*European
+Digital Identity Framework*, un insieme di regole contenute all'interno del
+Regolamento (UE) n. 2024/1183 (c.d. "eIDAS 2") che modifica il già in essere
+Reg. (UE) n. 910/2014 (c.d. "eIDAS").
+
+Le citate regole puntano, soprattutto, a superare la frammentazione di identità
+digitali presenti negli Stati Membri, e richiedono che ogni Stato Membro
+notifichi alla Commissione entro il 2026 almeno un Wallet nazionale da
+qualificare quale "*EUDI Wallet*". Quest'ultimo dovrà anzitutto disporre delle
+funzionalità, dei livelli di sicurezza e certificazione minimi prescritte dal
+regolamento. L'obiettivo di eIDAS 2 è quello di fornire ai cittadini europei
+strumenti interoperabili che consentano di accedere a vari tipi di servizi,
+anche a livello transfrontaliero.
+
+Di seguito viene presentato anche il contesto normativo e strategico riferito al
+Sistema *IT-Wallet*, tuttavia i relativi risultati attesi e le relative linee di
+azione saranno definiti nella prossima edizione del Piano triennale.
+
+Contesto normativo e strategico
+-------------------------------
 
 In materia di Piattaforme esistono una serie di riferimenti, normativi o
 di indirizzo, cui le Amministrazioni devono attenersi. Di seguito si
@@ -295,7 +404,7 @@ Riferimenti normativi italiani:
    procedure", art.
    42 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77!vig=2021-06-01>`__
 
--  `Linee guida AGID per l'accesso telematico ai servizi della Pubblica
+-  `Linee Guida AGID per l'accesso telematico ai servizi della Pubblica
    Amministrazione
    (2021) <https://www.agid.gov.it/sites/default/files/repository_files/lg_punto_accesso_telematico_servizi_pa_3112021.pdf>`__
 
@@ -354,11 +463,11 @@ Riferimenti normativi italiani:
    pubblico
    (2019) <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_rao_pubblico_v.1.0_3_1.pdf>`__
 
--  `Linee guida per il rilascio dell'identità digitale per uso
+-  `Linee Guida per il rilascio dell'identità digitale per uso
    professionale
    (2020) <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_identita_digitale_per_uso_professionale_v.1.0_0.pdf>`__
 
--  `Linee guida AGID recanti Regole Tecniche per la sottoscrizione
+-  `Linee Guida AGID recanti Regole Tecniche per la sottoscrizione
    elettronica di documenti ai sensi dell'art. 20 del CAD
    (2020) <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_per_la_sottoscrizione_elettronica_di_documenti_ai_sensi_dellart.20_del_cad.pdf>`__
 
@@ -366,15 +475,16 @@ Riferimenti normativi italiani:
    SPID" <https://www.agid.gov.it/sites/default/files/repository_files/616_dt_dg_n._616_-_2_dic_2021_-_linee_guida_openid_connect.pdf>`__
    (2021)
 
--  `Linee guida AGID per la fruizione dei servizi SPID da parte dei
+-  `Linee Guida AGID per la fruizione dei servizi SPID da parte dei
    minori
    (2022) <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_operative_fruizione_spid_minori_-_11_maggio_2022.pdf>`__
 
--  `Linee guida AGID recanti le regole tecniche dei gestori di attributi
+-  `Linee Guida AGID recanti le regole tecniche dei gestori di attributi
    qualificati
    (2022) <https://www.agid.gov.it/sites/default/files/repository_files/llgg_attribute_authorities_0.pdf>`__
 
-*CIE*
+CIE
+~~~
 
 Riferimenti normativi italiani:
 
@@ -512,8 +622,104 @@ Riferimenti normativi italiani:
       l'analisi dei dati e la simulazione
       (FSE)" <https://www.pnrr.salute.gov.it/portale/pnrrsalute/dettaglioContenutiPNRRSalute.jsp?lingua=italiano&id=5809&area=PNRR-Salute&menu=investimenti>`__
 
-Obiettivo 4.1 - Migliorare i servizi erogati da piattaforme nazionali a cittadini/imprese o ad altre PA 
---------------------------------------------------------------------------------------------------------
+SUAP e SUE
+~~~~~~~~~~
+
+Riferimenti normativi italiani:
+
+-  `Decreto del Presidente della Repubblica 7 settembre 2010, n. 160 Regolamento
+   per la semplificazione ed il riordino della disciplina sullo sportello unico
+   per le attività produttive, ai sensi dell'articolo 38, comma 3, del
+   decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla
+   legge 6 agosto 2008, n. 133
+   <https://www.gazzettaufficiale.it/eli/id/2010/09/30/010G0183/sg>`__
+
+-  `Decreto 26 settembre 2023 Modifiche dell'allegato tecnico del decreto del
+   Presidente della Repubblica 7 settembre 2010, n. 160, in materia di
+   specifiche tecniche e di riordino della disciplina sullo sportello unico
+   delle attività produttive (SUAP)
+   <http://www.gazzettaufficiale.it/eli/id/2023/11/25/23A06468/sg>`__
+
+SIOPE+
+~~~~~~
+
+Riferimenti normativi italiani:
+
+-  `Legge 11 dicembre 2016, n. 232 Bilancio di previsione dello Stato per l'anno
+   finanziario 2017 e bilancio pluriennale per il triennio 2017-2019
+   <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232>`__
+
+-  `Legge 30 dicembre 2020, n. 178 Bilancio di previsione dello Stato per l'anno
+   finanziario 2021 e bilancio pluriennale per il triennio 2021-2023
+   <https://www.gazzettaufficiale.it/eli/id/2021/01/18/21A00174/sg>`__
+
+-  `Legge 31 dicembre 2009, n. 196 Legge di contabilità e finanza pubblica
+   <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art14>`__
+
+-  `Delibera numero 114, del 23 Dicembre 2015 Programma complementare di azione
+   e coesione per la governance dei sistemi di gestione e controllo 2014-2020
+   <https://ricerca-delibere.programmazioneeconomica.gov.it/114-23-dicembre-2015/>`__
+
+-  `Decreto legislativo 7 marzo 2005, n. 82 Codice dell'amministrazione digitale
+   art. 7
+   <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__
+
+-  `Legge 27 dicembre 2013, n. 147 Disposizioni per la formazione del bilancio
+   annuale e pluriennale dello Stato (Legge di stabilità 2014)
+   <https://www.gazzettaufficiale.it/eli/id/2013/12/27/13G00191/sg>`__
+
+-  `Decreto del Ministro dell'economia e delle finanze del 8 agosto 2019,
+   concernente la codifica gestionale delle Autorità amministrative
+   indipendenti, con decorrenza 1° gennaio 2020, inserite nell'elenco delle
+   amministrazioni pubbliche di cui all'articolo 1, comma 3, della legge 31
+   dicembre 2009, n.196 e successive modificazioni, escluse la Commissione di
+   garanzia dell'attuazione della legge sullo sciopero nei servizi pubblici
+   essenziali (CGSSE) e l'Agenzia nazionale di valutazione del sistema
+   universitario e della ricerca (ANVUR)
+   <https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/SIOPE/SIOPE/riferimenti_normativi/DM-08-08-2019-Esercizio-2020.pdf>`__
+
+-  `Decreto del Ministro dell'economia e delle finanze del 23 luglio 2019,
+   concernente la codifica gestionale delle Fondazioni lirico-sinfoniche, con
+   decorrenza 1° gennaio 2020, di cui al decreto legislativo 29 giugno 1996, n.
+   367, e successive modificazioni, e di cui alla legge 11 novembre 2003, n. 310
+   <https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/SIOPE/SIOPE/riferimenti_normativi/DM-23-07-2019-Esercizio-2020.pdf>`__
+
+-  `Decreto del Ministro dell'economia e delle finanze del 30 maggio 2018
+   concernente l'estensione di SIOPE+ agli enti soggetti alla rilevazione SIOPE
+   <https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/SIOPE/SIOPE/riferimenti_normativi/DM-30-05-2018.pdf>`__
+
+-  `Decreto Mef 29 maggio 2018 concernente la codifica gestionale delle Autorità
+   di sistema portuali
+   <https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/SIOPE/SIOPE/riferimenti_normativi/DM-29-05-2018.pdf>`__
+
+-  `Decreto MEF del 26 febbraio 2018 concernente l'anticipo dell'avvio a regime
+   di SIOPE+ per singoli enti
+   <https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/SIOPE/SIOPE/riferimenti_normativi/DM_26-2-18.pdf>`__
+
+-  `Decreto MEF del 14 giugno 2017
+   <https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/SIOPE/SIOPE/riferimenti_normativi/DM-14-06-2017.pdf>`__
+
+IT-Wallet
+~~~~~~~~~
+
+Riferimenti normativi italiani:
+
+-  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
+   digitale" (CAD), art. 64-quater, come introdotto dal decreto-legge 2 marzo
+   2024, n. 19, convertito con modificazioni dalla Legge 29 aprile 2024, n. 56,
+   art. 20, comma 1, lettera e), "Ulteriori disposizioni urgenti per
+   l'attuazione del Piano nazionale di ripresa e resilienza (PNRR)"
+   <https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2005-05-16&atto.codiceRedazionale=005G0104&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&qId=4dcaa98e-af90-4070-b61a-d67f23aed359&tabID=0.7928254958224217&title=lbl.dettaglioAtto>`__
+
+Riferimenti normativi europei:
+
+-  `Regolamento (UE) 2024/1183 del Parlamento europeo e del Consiglio, dell'11
+   aprile 2024, che modifica il regolamento (UE) n. 910/2014 per quanto riguarda
+   l'istituzione del quadro europeo relativo a un'identità digitale
+   <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024R1183>`__
+
+Obiettivo 4.1 - Migliorare i servizi erogati da piattaforme nazionali a cittadini/imprese o ad altre PA
+-------------------------------------------------------------------------------------------------------
 
 RA4.1.1 - Incremento dei servizi sulla piattaforma pagoPA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -593,26 +799,62 @@ RA4.1.5 - Promuovere l'adesione ai servizi della piattaforma NoiPA per supportar
 RA4.1.6 - Incremento del livello di alimentazione e digitalizzazione del Fascicolo Sanitario Elettronico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Tutti i documenti del Fascicolo Sanitario
-   Elettronico devono essere digitalmente nativi e in formato standard
+-  **Target 2024** - n.a.
 
--  **Target 2025** - L'85% dei medici di famiglia alimentano il
-   Fascicolo Sanitario Elettronico
+-  **Target 2025**
+
+   -  Tutti i documenti del Fascicolo Sanitario Elettronico devono essere
+      digitalmente nativi e in formato standard
+   -  L'85% dei medici di famiglia alimentano il Fascicolo Sanitario Elettronico
 
 -  **Target 2026** - Tutte le Regioni e Province Autonome adottano e
    utilizzano il Fascicolo Sanitario Elettronico
 
-RA4.1.7 - Semplificazione e creazione di un catalogo di tutte le procedure SUAP e SUE e relativi regimi amministrativi applicati su tutto il territorio nazionale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RA4.1.7 - Semplificazione e digitalizzazione di tutte le procedure SUAP e SUE, e relativi regimi amministrativi applicati su tutto il territorio nazionale
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - 200 procedure critiche di interesse per cittadini
-   ed imprese semplificate e digitalizzate
+-  **Target 2024** - 200 procedure critiche di interesse per cittadini ed
+   imprese semplificate e digitalizzate (*target* complessivo di semplificazione
+   PNRR) ivi incluse alcune procedure SUAP e SUE
 
--  **Target 2025** - 50 ulteriori procedure critiche di interesse per
-   cittadini ed imprese semplificate e digitalizzate
+-  **Target 2025** - 50 ulteriori procedure critiche di interesse per cittadini
+   ed imprese semplificate e digitalizzate (*target* complessivo di
+   semplificazione PNRR) ivi incluse alcune procedure SUAP e SUE
 
--  **Target 2026** - 350 ulteriori procedure critiche di interesse per
-   cittadini ed imprese semplificate e digitalizzate
+-  **Target 2026** - 350 ulteriori procedure critiche di interesse per cittadini
+   ed imprese semplificate e digitalizzate (*target* complessivo di
+   semplificazione PNRR) ivi incluse alcune procedure SUAP e SUE
+
+RA4.1.8 - Miglioramento del processo di digitalizzazione del sistema pubblico dei pagamenti avviato nel 2017 con la realizzazione di SIOPE+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  **Target 2024** - 15 enti migliorano il processo di digitalizzazione
+   attraverso l'eliminazione dei documenti esterni per il pagamento delle spese
+   del personale e garantendo la corretta alimentazione della Piattaforma dei
+   crediti commerciali (PCC)
+
+-  **Target 2025** - 20 enti migliorano il processo di digitalizzazione
+   attraverso l'eliminazione dei documenti esterni per il pagamento delle spese
+   del personale e garantendo la corretta alimentazione della Piattaforma dei
+   crediti commerciali (PCC)
+
+-  **Target 2026** - 33 enti migliorano il processo di digitalizzazione
+   attraverso l'eliminazione dei documenti esterni per il pagamento delle spese
+   del personale e garantendo la corretta alimentazione della Piattaforma dei
+   crediti commerciali (PCC)
+
+RA4.1.9 - Incremento delle Pubbliche amministrazioni che rendono disponibili attestazioni elettroniche nel Sistema IT-Wallet
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  **Target 2024** - n.a.
+
+-  **Target 2025** - 5 amministrazioni, che hanno già pubblicato i servizi per
+   il Single Digital Gateway, rendono disponibili attestazioni elettroniche per
+   il Sistema IT-Wallet
+
+-  **Target 2026** - 10 amministrazioni, che hanno già pubblicato i servizi per
+   il Single Digital Gateway, rendono disponibili attestazioni elettroniche per
+   il Sistema IT-Wallet
 
 Linee di azione istituzionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -620,16 +862,11 @@ Linee di azione istituzionali
 RA4.1.1
 ^^^^^^^
 
--  **Settembre 2024** - Introduzione di nuove funzionalità a
-   disposizione degli Enti Creditori per gestire le opzioni di pagamento
-   (es. piani rateali, maggiorazioni o riduzioni dell'importo) - (PagoPA
-   S.p.A.) - CAP4.01
-
 -  **Dicembre 2024** - Introduzione di un modello per la gestione di
    pagamenti *corporate* massivi - (PagoPA S.p.A.) - CAP4.02
 
 -  **Dicembre 2024** - Implementazione di azioni incentivanti di
-   *quality Improvement* verso Enti Creditori e PSP volti a migliorare
+   *quality improvement* verso Enti Creditori e PSP volti a migliorare
    la qualità dei pagamenti pagoPA - (PagoPA S.p.A.) - CAP4.03
 
 -  **Settembre 2025** - Introduzione di processi organizzativi e
@@ -656,13 +893,13 @@ RA4.1.2
 
 -  **Dicembre 2026 -** Sviluppo di nuove funzionalità atte a facilitare
    l'erogazione di servizi da parte dei soggetti di cui all'articolo 2,
-   comma 2, del decreto legislativo 7 marzo 2005, n. 82, nonchè la
+   comma 2, del decreto legislativo 7 marzo 2005, n. 82, nonché la
    comunicazione elettronica con i cittadini, anche finalizzata al
    perfezionamento di istanze, richieste e/o procedimenti amministrativi
    - (PagoPA S.p.A.) - CAP4.08
 
-RA4.1.3 
-^^^^^^^^
+RA4.1.3
+^^^^^^^
 
 -  **Dicembre 2024 -** Implementazione di funzionalità a supporto
    dell'attivazione degli Enti target per l'*onboarding* di servizi
@@ -677,21 +914,7 @@ RA4.1.3
 RA4.1.4
 ^^^^^^^
 
--  **Marzo 2024** - Individuazione delle amministrazioni che offrono
-   servizi - utilizzabili da minori - che prevedano l'adozione e
-   l'utilizzo di SPID da parte dei minori stessi - (AGID) - CAP4.11
-
--  **Marzo 2024** - Individuazione delle amministrazioni che offrono
-   servizi - utilizzabili da professionisti e imprese - che prevedano
-   l'adozione e l'utilizzo di SPID per uso professionale - (AGID) -
-   CAP4.12
-
--  **Luglio 2024** - Chiusura degli avvisi PNRR sull'investimento 1.4.4a
-   relativi all'adozione di SPID e CIE da parte di Comuni e altre
-   amministrazioni ad esclusione delle scuole - (Dipartimento per la
-   Trasformazione Digitale) - CAP4.13
-
--  **Gennaio 2025** - Completamento della federazione SPID OIDC ed
+-  **Gennaio 2025** - Completamento della Federazione SPID OIDC ed
    attuazione completa del Regolamento SPID *OIDC Federation* - (AGID) -
    CAP4.14
 
@@ -703,7 +926,7 @@ RA4.1.4
    minori - (IPZS) - CAP4.16
 
 -  **Luglio 2025** - Ampliamento del set di attributi forniti tramite
-   autenticazione con CIEId, come previsto dall'art. 6 del DPCM 8
+   autenticazione con CieID, come previsto dall'art. 6 del DPCM 8
    settembre 2022 - (IPZS) - CAP4.17
 
 RA4.1.5
@@ -718,17 +941,6 @@ RA4.1.5
 RA4.1.6
 ^^^^^^^
 
--  **Aprile 2024** - Messa a disposizione la piattaforma per il
-   monitoraggio degli indicatori mensili e trimestrali, secondo quanto
-   previsto dalle Linee Guida per l'attuazione del Fascicolo Sanitario
-   Elettronico - (Ministero della Salute, Dipartimento per la
-   Trasformazione Digitale, Agenas) - CAP4.20
-
--  **Luglio 2024** - Verifica degli indicatori previsti per il
-   raggiungimento degli obiettivi PNRR M6C2 1.3 al 30 giugno -
-   (Ministero della Salute, Dipartimento per la Trasformazione Digitale,
-   Agenas) - CAP4.21
-
 -  **Luglio 2025** - Verifica degli indicatori previsti per il
    raggiungimento degli obiettivi PNRR al 30 giugno - (Ministero della
    Salute, Dipartimento per la Trasformazione Digitale, Agenas) -
@@ -742,23 +954,6 @@ RA4.1.6
 RA4.1.7
 ^^^^^^^
 
--  **Luglio 2024** - Avvio verifiche tecniche di conformità dei sistemi
-   informatici dalle PA interessate nei procedimenti SUAP alle
-   specifiche tecniche di cui al DPR 160/2010 - (Ministero delle Imprese
-   e del *Made in Italy*) - CAP4.24
-
--  **Dicembre 2024** - Definizione della tassonomia dei procedimenti
-   amministrativi che devono essere digitalizzati nell'ecosistema SSU,
-   in ambito SUAP/SUE - 200 procedure - (Dipartimento della Funzione
-   Pubblica, Conferenza dei Presidenti delle Regioni, ANCI, UPI) -
-   CAP4.25
-
--  **Dicembre 2024** - Semplificazione e standardizzazione nazionale dei
-   moduli e dei procedimenti amministrativi nell'ecosistema SSU, in
-   ambito SUAP/SUE - 200 procedure - (Dipartimento della Funzione
-   Pubblica, Conferenza dei Presidenti delle Regioni, ANCI, UPI) -
-   CAP4.26
-
 -  **Giugno 2026** - Definizione della tassonomia dei procedimenti
    amministrativi che devono essere digitalizzati nell'ecosistema SSU,
    in ambito SUAP/SUE - 400 procedure - (Dipartimento della Funzione
@@ -771,8 +966,25 @@ RA4.1.7
    Pubblica, Conferenza dei Presidenti delle Regioni, ANCI, UPI) -
    CAP4.28
 
-Linee di azione per le PA 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+RA4.1.8
+^^^^^^^
+
+-  **Febbraio 2025** - Sulla base della sperimentazione effettuata nel 2024 il
+   comitato di attuazione del progetto di digitalizzazione completa dei
+   pagamenti, costituito da RGS, Banca d'Italia, AGID, ANCI, UPI e IFEL,
+   definirà eventualmente una seconda fase ai fini dell'estensione della
+   completa digitalizzazione ad altre PA che attuano SIOPE+ non incluse nella
+   prima fase - (RGS, Banca d'Italia, AGID, ANCI, UPI e IFEL) - CAP4.41
+
+-  **Dicembre 2026** - Sulla base della sperimentazione effettuata eventualmente
+   nella seconda fase il comitato di attuazione del progetto di digitalizzazione
+   completa dei pagamenti, costituito da RGS, Banca d'Italia, AGID, ANCI, UPI e
+   IFEL, definirà eventualmente le modalità e i tempi di una eventuale
+   estensione a tutte le PA che attuano SIOPE+ - (RGS, Banca d'Italia, AGID,
+   ANCI, UPI e IFEL) - CAP4.42
+
+Linee di azione per le PA
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RA4.1.1
 ^^^^^^^
@@ -785,7 +997,7 @@ RA4.1.1
 RA4.1.2
 ^^^^^^^
 
--  **Dicembre** **2026** - Le PA aderenti a App IO assicurano
+-  **Dicembre** **2026** - Le PA aderenti ad App IO assicurano
    l'attivazione di nuovi servizi in linea con i target sopra descritti
    e secondo le modalità attuative definite nell'ambito del Piano
    Nazionale di Ripresa e Resilienza (PNRR) - CAP4.PA.02
@@ -798,8 +1010,8 @@ RA4.1.3
    Nazionale di Ripresa e Resilienza (PNRR), si integreranno a SEND -
    CAP4.PA.03
 
-RA4.1.4 
-^^^^^^^^
+RA4.1.4
+^^^^^^^
 
 **Linee d'azione vigenti**
 
@@ -837,51 +1049,65 @@ RA4.1.5
 RA4.1.6
 ^^^^^^^
 
--  **Dicembre 2024** - Le Regioni e le Province Autonome rispettano le
-   scadenze delle attività previste nel proprio Piano di adeguamento
-   tecnologico, in coerenza con i decreti attuativi che definiscono i
-   contenuti del FSE e la standardizzazione da parte di HL7Italia -
-   CAP4.PA.09
+-  **Dicembre 2024** - Le Regioni e le Province Autonome rispettano le scadenze
+   delle attività previste nel proprio Piano di adeguamento tecnologico, in
+   coerenza con i decreti attuativi che definiscono i contenuti del FSE e la
+   standardizzazione - CAP4.PA.09
 
--  **Dicembre 2025** - Le Regioni e le Province Autonome rispettano le
-   scadenze delle attività previste nel proprio Piano di adeguamento
-   tecnologico, in coerenza con i decreti attuativi che definiscono i
-   contenuti del FSE e la standardizzazione da parte di HL7Italia -
-   CAP4.PA.10
+-  **Dicembre 2025** - Le Regioni e le Province Autonome rispettano le scadenze
+   delle attività previste nel proprio Piano di adeguamento tecnologico, in
+   coerenza con i decreti attuativi che definiscono i contenuti del FSE e la
+   standardizzazione - CAP4.PA.10
 
--  **Giugno 2026** - Le Regioni e le Province Autonome rispettano le
-   scadenze delle attività previste dal proprio Piano di adeguamento
-   tecnologico, in coerenza con i decreti attuativi che definiscono i
-   contenuti del FSE e la standardizzazione da parte di HL7Italia -
-   CAP4.PA.11
+-  **Giugno 2026** - Le Regioni e le Province Autonome rispettano le scadenze
+   delle attività previste dal proprio Piano di adeguamento tecnologico, in
+   coerenza con i decreti attuativi che definiscono i contenuti del FSE e la
+   standardizzazione - CAP4.PA.11
 
 RA4.1.7
 ^^^^^^^
 
--  **Gennaio 2024** - Realizzazione e prima alimentazione del Catalogo
-   Unico dei procedimenti del SUAP - (PAC/PAL-Comuni, Regioni, Enti
-   Terzi, Unioncamere) - CAP4.PA.12
+-  **Dicembre 2024 \*** - UnionCamere realizza il Catalogo Unico dei
+   procedimenti del SUAP e gli Enti interessati (PAC/PAL-Comuni, Regioni, Enti
+   Terzi, Unioncamere) avviano la prima alimentazione del Catalogo - CAP4.PA.12
 
--  **Marzo 2024** - Identificazione della migliore soluzione da adottare
-   dalle PA interessate nei procedimenti SUAP/SUE, in funzione del loro
-   contesto, sulla base delle possibili soluzioni messe a disposizione
-   dalle specifiche tecniche - (PAC/PAL-Comuni, Regioni, Enti Terzi) -
-   CAP4.PA.13
+-  **Dicembre 2024** - Regioni, Consorzi, Unioncamere mettono a disposizione di
+   soluzioni alternative all'adeguamento alle specifiche tecniche dei propri
+   sistemi informatici SSU, in ambito SUAP, quali, ad esempio: Impresa in un
+   giorno per i comuni e Soluzione Sussidiaria per gli enti terzi - CAP4.PA.15
 
--  **Dicembre 2024** - Adeguamento alle specifiche tecniche delle
-   infrastrutture delle PA interessate nei procedimenti SUAP/SUE -
-   (PAC/PAL-Comuni, Regioni, Enti Terzi) - CAP4.PA.14
+-  **Agosto 2025 \*** - PAC/PAL-Comuni, Regioni, Enti Terzi e Unioncamere devono
+   adeguare le proprie componenti informatiche interessate nei procedimenti SUAP
+   alle specifiche tecniche di cui al Decreto interministeriale 26/09/2023 -
+   CAP4.PA.14
 
--  **Dicembre 2024** - Messa a disposizione di soluzioni alternative
-   all'adeguamento alle specifiche tecniche dei propri sistemi
-   informatici SSU, in ambito SUAP/SUE, quali, ad esempio: Impresa in un
-   giorno per i comuni e Soluzione Sussidiaria per gli enti terzi -
-   (Regioni, Consorzi, Unioncamere) - CAP4.PA.15
-
--  **Dicembre 2024** - Aggiornamento del Catalogo Unico dei procedimenti
-   del SUAP - (PAC/PAL-Comuni, Regioni, Enti Terzi, Unioncamere) -
+-  **Settembre 2025 \*** - Gli Enti interessati (PAC/PAL-Comuni, Regioni, Enti
+   Terzi, Unioncamere) aggiornano il Catalogo Unico dei procedimenti del SUAP -
    CAP4.PA.16
 
--  **Giugno 2026** - Aggiornamento costante del Catalogo Unico dei
-   procedimenti del SUAP - (PAC/PAL-Comuni, Regioni, Enti Terzi,
-   Unioncamere) - CAP4.PA.17
+-  **Giugno 2026** - Gli Enti interessati (PAC/PAL-Comuni, Regioni, Enti Terzi,
+   Unioncamere) aggiornano costantemente il Catalogo Unico dei procedimenti del
+   SUAP - CAP4.PA.17
+
+RA4.1.8
+^^^^^^^
+
+-  **Dicembre 2024** - I 33 Enti Locali selezionati tramite avviso di progetto
+   sperimentano il modello operativo relativo al "progetto di digitalizzazione
+   completa dei pagamenti degli enti locali in SIOPE+ e la corretta
+   alimentazione e allineamento della PCC" - CAP4.PA.25
+
+-  **Febbraio 2025** - Gli enti inclusi nella prima fase della sperimentazione
+   del "progetto di digitalizzazione completa dei pagamenti degli enti locali in
+   SIOPE+ e la corretta alimentazione e allineamento della PCC" dovranno
+   effettuare le disposizioni di pagamento relative alle spese del personale,
+   attraverso mandati mono beneficiario a favore del singolo dipendente e non
+   attraverso l'uso di liste esterne - CAP4.PA.26
+
+-  **Giugno 2025** - Gli enti inclusi nella prima fase della sperimentazione del
+   "progetto di digitalizzazione completa dei pagamenti degli enti locali in
+   SIOPE+ e la corretta alimentazione e allineamento della PCC" avranno inviato
+   le informazioni relative ai pagamenti di di giugno/dicembre 2024 alla PCC
+   esclusivamente attraverso l'utilizzo esclusivo di SIOPE+ e senza il ricorso a
+   procedure manuali, puntuali o massive - CAP4.PA.27
+

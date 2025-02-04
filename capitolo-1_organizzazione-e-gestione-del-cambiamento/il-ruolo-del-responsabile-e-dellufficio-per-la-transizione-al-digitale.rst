@@ -1,27 +1,27 @@
-Il ruolo del Responsabile e dell'Ufficio per la transizione al digitale
-=======================================================================
+Il ruolo del Responsabile e dell'Ufficio per la transizione digitale
+====================================================================
 
-Scenario 
----------
+Scenario
+--------
 
 In questo quadro, occorre consolidare e potenziare i Responsabili e gli
-Uffici per la transizione al digitale, tenendo conto dei nuovi profili
+Uffici per la transizione digitale, tenendo conto dei nuovi profili
 professionali necessari e, in particolare, del fabbisogno urgente nelle
 PA di specialisti ICT dedicati a sicurezza e trasformazione digitale.
 
-A novembre 2023, analizzando i dati disponibili sull'Indice dei domicili
-digitali della Pubblica Amministrazione e dei Gestori di Pubblici
-Servizi, risultano ancora da nominare circa 2.400 RTD nelle pubbliche
-amministrazioni e negli enti pubblici con tale obbligo di nomina.
+Al 31 agosto 2024, analizzando i dati disponibili sull'Indice dei domicili
+digitali della Pubblica Amministrazione e dei Gestori di Pubblici Servizi,
+20.029 Amministrazioni ed enti risultano aver provveduto alla nomina del RTD su
+23.497 enti accreditati.
 
-Circa la metà risultano essere amministrazioni comunali, in particolare
-di piccole dimensioni, o loro aggregazioni; ma il *trend* di nomina
-degli RTD presso tali tipologie di PA risulta essere in costante aumento
-e si rileva che alcune PA locali, sulla base delle proprie esigenze,
-hanno colto l'opportunità di procedere alla nomina del RTD e alla
-costituzione dell'Ufficio per la transizione digitale in forma
-associata, in aderenza a quanto previsto dal comma 1-septies dell'art.
-17 del CAD.
+Circa un terzo delle mancate nomine si riscontra in Comuni, in particolare di
+piccole dimensioni, Unioni di Comuni, Comunità Montane o loro consorzi e
+associazioni; ma il *trend* di nomina degli RTD presso tali tipologie di PA
+risulta essere in costante aumento e si rileva che alcune PA locali, sulla base
+delle proprie esigenze, hanno colto l'opportunità di procedere alla nomina del
+RTD e alla costituzione dell'Ufficio per la transizione digitale in forma
+associata, in aderenza a quanto previsto dal comma 1-septies dell'art. 17 del
+CAD.
 
 La collaborazione tra amministrazioni è infatti una delle leve a
 disposizione degli Enti per mettere a fattor comune risorse e competenze
@@ -42,7 +42,7 @@ sottolinea che:
    utili ad una generalità indistinta di enti destinatari, ad es. il
    calcolo dell'ISEE, la verifica di dati in ANPR o nel Registro
    imprese, ecc.) oppure possono essere processi digitali collettivi
-   quando coinvolgono più enti.
+   quando coinvolgono più enti;
 
 2. è compito dell'Ufficio del RTD curare sia gli aspetti di
    interoperabilità tecnica che quelli di interoperabilità
@@ -62,7 +62,7 @@ disponibilità di modelli attuativi da sperimentare e adattare alla
 singola realtà territoriale o tematica.
 
 La costituzione di un UTD in forma associata, prevista per le PA diverse
-da quelle centrali dall'art. 17 comma 1-septies, è diversa dalla
+da quelle centrali dall'art. 17 comma 1-septies del CAD, è diversa dalla
 gestione associata della funzione ICT che spesso caratterizza le Unioni
 di Comuni. Come chiarito dalla Circolare 3 del 2018 del Ministro per la
 Pubblica Amministrazione, può "avvenire in forza di convenzioni o, per i
@@ -74,8 +74,8 @@ Si possono quindi individuare alcune azioni utili per tutte le pubbliche
 amministrazioni:
 
 1. occorre istituire, ove non sia stato già fatto, l'Ufficio per la
-   transizione al digitale, in forma singola o associata, con
-   conseguente nomina del Responsabile per la transizione al digitale
+   transizione digitale, in forma singola o associata, con
+   conseguente nomina del Responsabile per la transizione digitale
    (RTD). Nell'ottica del suddetto ecosistema, la struttura
    organizzativa va potenziata. Ove ciò non sia sostenibile a livello di
    singolo ente, per le PA diverse da quelle centrali è possibile
@@ -102,11 +102,21 @@ amministrazioni:
    come, ad esempio, il Catalogo dei procedimenti dell'ente e il
    Catalogo dei servizi erogati dall'ente;
 
-4. all'interno del PIAO - Piano Integrato di Attività e Organizzazione,
-   previsto dall'articolo 6 del decreto-legge n. 80 del 9 giugno 2021,
-   occorre ricomprendere gli obiettivi specifici di digitalizzazione,
-   semplificazione e reingegnerizzazione, a partire dalla mappatura di
-   cui sopra e dalle priorità del singolo ente.
+4. all'interno del PIAO - Piano Integrato di Attività e Organizzazione, previsto
+   dall'articolo 6 del decreto-legge n. 80 del 9 giugno 2021, occorre
+   ricomprendere gli obiettivi specifici di digitalizzazione, semplificazione e
+   reingegnerizzazione, a partire dalla mappatura di cui sopra e dalle priorità
+   del singolo ente. In relazione a questo tema, nella Parte III - Strumenti - è
+   presente una scheda (Strumento 10 - Le strategie di trasformazione digitale
+   nei PIAO) che descrive il progetto "UPIAO", nato dall'iniziativa "Province &
+   Comuni - Le Province e il sistema dei servizi a supporto dei Comuni",
+   finanziata nell'ambito del PON Governance e Capacità Istituzionale 2014-
+   2020. Il progetto "UPIAO" tratteggia il ruolo che la Provincia dovrebbe
+   assumere al fine di governare la creazione del cosiddetto Valore Pubblico
+   Territoriale, ovvero del benessere complessivo e multidimensionale (sia
+   sociale, sia economico, sia ambientale, ecc.) del territorio provinciale e
+   traccia Linee guida ad hoc per le Province italiane delle Regioni a Statuto
+   ordinario.
 
 A sostegno del rafforzamento dei RTD e degli UTD continua, inoltre, ad
 essere strategica la disponibilità di strumenti utili ed iniziative per
@@ -114,7 +124,32 @@ favorire l'aggiornamento sulle materie di competenza e per condividere
 soluzioni e pratiche, nonché di occasioni di incontro e tavoli di
 confronto interistituzionali.
 
-È in quest'ottica che AGID mette a disposizione la `piattaforma di
+È in quest'ottica che AGID ha pubblicato a giugno 2024 il "Vademecum per la
+nomina del RTD e la costituzione dell'UTD in forma associata", che rappresenta
+uno dei nuovi strumenti proposti in questo aggiornamento del Piano triennale e
+la cui scheda descrittiva è riportata di seguito, nella Parte terza - Strumenti.
+
+Il Vademecum vuole fornire indicazioni e strumenti funzionali alle
+amministrazioni che intendono valutare l'opzione della nomina associata di RTD e
+UTD. Nello stesso momento, propone esempi e modelli che possono fornire spunti
+funzionali anche a soluzioni di nomina in forma associata di RTD e/o UTD già
+adottate. Il documento si propone come strumento operativo per favorire la
+nomina del Responsabile per la transizione digitale e del relativo Ufficio nel
+quadro più ampio dell'associazionismo tra enti in materia di trasformazione
+digitale, illustrandone i vantaggi, i requisiti, nonché le modalità per
+costituire o aderire a un Ufficio in forma associata, o per rendere maggiormente
+integrate realtà collaborative già esistenti; in quest'ottica il Vademecum può
+rappresentare un percorso che agevola la concreta attuazione del principio della
+sostenibilità digitale. Dopo aver introdotto i diversi modelli di collaborazione
+tra enti e il relativo contributo alla digitalizzazione, sono evidenziate le
+determinanti per una cooperazione di successo e per una gestione integrata della
+trasformazione digitale. Il documento contiene anche un quadro descrittivo sullo
+stato dell'arte delle nomine dei RTD e della gestione associata della funzione
+ICT e dell'UTD nelle Unioni di Comuni. Inoltre, fornisce un format di
+convenzione tra enti per la nomina associata del RTD che ciascuna
+amministrazione potrà utilizzare e adattare al proprio contesto.
+
+Inoltre, AGID continua a rendere disponibili la `piattaforma di
 community ReTeDigitale <http://www.retedigitale.gov.it/>`__ dedicata ai
 RTD e al personale degli UTD, le comunità digitali tematiche/
 territoriali al suo interno e le iniziative laboratoriali con
@@ -158,8 +193,8 @@ Riferimenti normativi italiani:
 Obiettivo 1.1 - Migliorare i processi di trasformazione digitale della PA
 -------------------------------------------------------------------------
 
-RA1.1.1 - Rafforzare la collaborazione e lo scambio di pratiche e soluzioni tra Amministrazioni 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RA1.1.1 - Rafforzare la collaborazione e lo scambio di pratiche e soluzioni tra Amministrazioni
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  **Target 2024** - 18 comunità digitali tematiche/territoriali su
    retedigitale.gov.it gestite da AGID, PA o Enti locali
@@ -194,10 +229,6 @@ Linee di azione istituzionali
 RA1.1.1
 ^^^^^^^
 
--  **Giugno 2024** - Predisposizione del kit per richiesta, gestione e
-   monitoraggio di una comunità digitale tematica/territoriale su
-   retedigitale.gov.it da parte di PA ed Enti locali - (AGID) - CAP1.01
-
 -  **Gennaio 2025** - Primo report di monitoraggio sulle comunità
    digitali su retedigitale.gov.it - (AGID) - CAP1.02
 
@@ -212,11 +243,6 @@ RA1.1.1
 
 RA1.1.2
 ^^^^^^^
-
--  **Marzo 2024** - Rilascio della prima versione del Vademecum sulla
-   nomina del Responsabile per la transizione al digitale e sulla
-   costituzione dell'Ufficio per la transizione al digitale in forma
-   associata - (AGID) - CAP1.06
 
 -  **Aprile 2024** - Avvio dei lavori del Laboratorio Modelli
    organizzativi/operativi degli UTD - (AGID) - CAP1.07
@@ -258,13 +284,13 @@ RA1.1.2
 
 -  **Da marzo 2024** - Le PA partecipanti alle iniziative laboratoriali
    forniscono contributi e proposte di modifica e integrazione al
-   Vademecum sulla nomina del Responsabile per la transizione al
-   digitale e sulla costituzione dell'Ufficio per la transizione al
+   Vademecum sulla nomina del Responsabile per la transizione
+   digitale e sulla costituzione dell'Ufficio per la transizione
    digitale in forma associata - CAP1.PA.03
 
 -  **Da marzo 2024** - Le PA partecipanti alle iniziative laboratoriali
    e che hanno adottato modelli organizzativi/operativi per l'Ufficio
-   per la transizione al digitale condividono le esperienze, gli
+   per la transizione digitale condividono le esperienze, gli
    strumenti sviluppati e i processi implementati - CAP1.PA.04
 
 -  **Da luglio 2024** - Le PA partecipanti alle iniziative laboratoriali

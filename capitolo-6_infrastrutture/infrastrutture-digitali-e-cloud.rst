@@ -65,7 +65,7 @@ erogati.
    adeguamento rispetto ai requisiti del Regolamento AGID e relativi
    atti successivi dell'Agenzia per la Cybersicurezza Nazionale;
 
--  Incrementare la postura di sicurezza delle infrastrutture pubbliche
+-  incrementare la postura di sicurezza delle infrastrutture pubbliche
    per proteggerci dai rischi *cyber*.
 
 In tal modo, le infrastrutture digitali saranno più affidabili e sicure
@@ -74,16 +74,16 @@ agli attacchi informatici, garantendo continuità e qualità nella
 fruizione di dati e servizi.
 
 Nell'ambito dell'attuazione normativa della Strategia *Cloud* Italia e
-dell'articolo 33-septies del Decreto-Legge n.179/2021 è stata realizzato
+dell'articolo 33-septies del Decreto-Legge n. 179/2012 è stato realizzato
 il Polo Strategico Nazionale (PSN), l'infrastruttura promossa dal
 Dipartimento per la Trasformazione Digitale che, insieme alle altre
 infrastrutture digitali qualificate e sicure, consente di fornire alle
 amministrazioni tutte le soluzioni tecnologiche adeguate e gli strumenti
 per realizzare il percorso di migrazione.
 
-Il Regolamento attuativo dell'articolo 33-septies del Decreto-Legge
-n.179/2021 ha fissato al 28 febbraio 2023 il termine per la trasmissione
-dei piani di migrazione da parte delle amministrazioni.
+Il Regolamento attuativo dell'articolo 33-septies del Decreto-Legge n. 179/2012,
+nella sua prima edizione, ha fissato al 28 febbraio 2023 il termine per la
+trasmissione dei piani di migrazione da parte delle amministrazioni.
 
 Dopo la presentazione dei Piani di migrazione, le amministrazioni devono
 gestire al meglio il trasferimento in *cloud* di dati, servizi e
@@ -162,7 +162,7 @@ rendendo difficile la concreta integrazione tra i *software* dell'ente,
 l'effettiva possibilità di interoperabilità verso altri enti, la
 corretta gestione dei dati, ecc. Questo richiede all'Ufficio RTD, in
 forma singola o associata, l'evoluzione verso nuove architetture a
-"micro-servizi".
+"microservizi".
 
 Lo stesso concetto di "Sistema Pubblico di Connettività" (SPC), ancora
 presente nel CAD all'art.73, dovrà trovare una sua evoluzione basato
@@ -187,15 +187,12 @@ disgiunto dall'obiettivo di garantire contestualmente un elevato livello
 di sicurezza delle reti e dei sistemi informativi utilizzati dalla
 Pubblica Amministrazione.
 
-Tuttavia, come già rilevato a suo tempo da AGID attraverso il Censimento
-del Patrimonio ICT della PA, molte infrastrutture della PA risultano
-prive dei requisiti di sicurezza e di affidabilità necessari e, inoltre,
-sono carenti sotto il profilo strutturale e organizzativo. Ciò espone il
-Paese a numerosi rischi, tra cui quello di interruzione o
-indisponibilità dei servizi e quello di attacchi *cyber,* con
-conseguente accesso illegittimo da parte di terzi a dati (o flussi di
-dati) particolarmente sensibili o perdita e alterazione degli stessi
-dati.
+Tuttavia, molte infrastrutture della PA risultano ancora prive dei requisiti di
+sicurezza e di affidabilità necessari e, inoltre, sono carenti sotto il profilo
+strutturale e organizzativo. Ciò espone il Paese a numerosi rischi, tra cui
+quello di interruzione o indisponibilità dei servizi e quello di attacchi
+*cyber,* con conseguente accesso illegittimo da parte di terzi a dati (o flussi
+di dati) particolarmente sensibili o perdita e alterazione degli stessi dati.
 
 Lo scenario delineato pone l'esigenza immediata di attuare un percorso
 di razionalizzazione delle infrastrutture per garantire la sicurezza dei
@@ -220,7 +217,7 @@ ribadisce che:
    qualità, la sicurezza, la scalabilità, l'efficienza energetica, la
    sostenibilità economica e la continuità operativa dei sistemi e dei
    servizi digitali, il Dipartimento per la Trasformazione Digitale
-   della Presidenza del Consiglio dei Ministri promuove lo sviluppo di
+   della Presidenza del Consiglio dei ministri promuove lo sviluppo di
    un'infrastruttura ad alta affidabilità localizzata sul territorio
    nazionale, anche detta Polo Strategico Nazionale (PSN), per la
    razionalizzazione e il consolidamento dei Centri per l'elaborazione
@@ -240,8 +237,7 @@ ribadisce che:
    fissati dalla Circolare AGID 1/2019 e, successivamente, dal
    Regolamento *cloud* e infrastrutture. Le amministrazioni centrali, in
    alternativa, possono migrare i propri servizi verso soluzioni *cloud*
-   qualificate, nel rispetto di quanto previsto dalle Circolari AGID n.
-   2 e n. 3 del 2018 e, successivamente, dal Regolamento *cloud* e
+   qualificate, nel rispetto di quanto previsto dal Regolamento *cloud* e
    infrastrutture;
 
 -  le amministrazioni locali individuate ai sensi dell'articolo 1, comma
@@ -255,8 +251,7 @@ ribadisce che:
    fissati dallo stesso Regolamento *cloud* e infrastrutture. Le
    amministrazioni locali, in alternativa, possono migrare i propri
    servizi verso soluzioni *cloud* qualificate nel rispetto di quanto
-   previsto dalle Circolari AGID n. 2 e n. 3 del 2018 e,
-   successivamente, dal Regolamento *cloud* e infrastrutture;
+   previsto dal Regolamento *cloud* e infrastrutture;
 
 -  le amministrazioni non possono investire nella costruzione di nuovi
    *data center* per ridurre la frammentazione delle risorse e la
@@ -296,57 +291,54 @@ Per maggiori informazioni sui servizi offerti da PSN si rimanda alla
 `convenzione pubblicata sul sito della Presidenza del Consiglio dei
 Ministri <https://presidenza.governo.it/AmministrazioneTrasparente/BandiContratti/AccordiTraAmministrazioni/allegati/Convenzione%20DTD_Polo%20Strategico%20Nazionale.pdf>`__.
 
-Nel 2023 sono stati pubblicati e conclusi tre avvisi per la migrazione
-verso il PSN a valere sulla misura 1.1 del PNRR che hanno visto
-l'adesione di oltre 300 tra amministrazioni centrali e aziende sanitarie
-locali e ospedaliere. Per quanto riguarda le ASL/AO, in particolare, è
-stata offerta l'opportunità di decidere la destinazione dei propri
-servizi tra PSN, Infrastrutture della PA adeguate e soluzioni *cloud*
-qualificate coerentemente con quanto disposto dall'articolo 33-septies
-del Decreto-legge 179/2012. 130 Aziende sanitarie hanno scelto di
-portare almeno parte dei propri servizi presso il PSN.
+Al 30 giugno 2024 risultano 257 tra PA Centrali, relative articolazioni
+organizzative di primo livello e Prefetture, Aziende Sanitarie Locali e Aziende
+Ospedaliere che hanno sottoscritto il contratto d'utenza per la migrazione verso
+il PSN a valere sulla misura 1.1 del PNRR.
 
-Con riferimento ai punti ii) qualificazione e iii) classificazione a
-dicembre 2021 sono stati pubblicati il Regolamento *cloud* e
-infrastrutture e a gennaio 2022 i relativi atti successivi. A febbraio e
-a luglio sono stati pubblicati ulteriori Decreti ACN ed è prevista la
-pubblicazione da parte di ACN di un nuovo Regolamento.
+Con riferimento ai punti ii) qualificazione e iii) classificazione a dicembre
+2021 è stata pubblicata la prima edizione del Regolamento cloud e infrastrutture
+e a gennaio 2022 i relativi atti successivi modificati successivamente. A giugno
+2024 è entrato in vigore il nuovo Regolamento *Cloud* ACN. In particolare, il
+nuovo Regolamento, adottato da ACN con Decreto Direttoriale n. 21007/24 del 27
+giugno 2024 e applicabile dal 1° agosto 2024, aggiorna i livelli minimi e le
+caratteristiche al mutato scenario di rischio e i termini legati al procedimento
+di rilascio delle qualifiche. Il Regolamento norma anche l'utilizzo delle
+**infrastrutture di housing** e i **servizi di prossimità** (cosiddetti *edge*),
+sempre più diffusi in ragione dell'esigenza di ridurre i tempi di latenza per
+gli utenti finali. Le nuove qualifiche saranno valide per 36 mesi e soggette ad
+attività di monitoraggio grazie alla quale ACN potrà verificare nel tempo il
+rispetto dei requisiti necessari al trattamento dei dati e dei servizi in linea
+con il livello di classificazione. Le informazioni sul Regolamento possono
+essere reperite sul sito istituzionale dell'Agenzia per la Cybersicurezza
+Nazionale.
 
-Con riferimento alla misura 1.2 del PNRR a marzo 2023 sono stati
-raccolti e ammessi a finanziamento più dei 12.464 piani di migrazione
-richiesti dal target è stato raggiunto e superato il target italiano
-previsto per settembre 2023 con la migrazione di oltre 1.100 enti locali
-che hanno migrato i loro servizi verso soluzioni *cloud* qualificate.
+Con riferimento al tema del *cloud* federato, si premette che la definizione
+tecnica coerentemente con la ISO/IEC 22123-1:2023 è la seguente: "modello di
+erogazione di servizi *cloud* forniti da 2 o più *cloud service provider* che si
+uniscono mediante un accordo che preveda un insieme concordato di procedure,
+processi e regole comuni finalizzato all'erogazione di servizi *cloud*". Le
+amministrazioni con infrastrutture classificate "A" che hanno deciso di
+investire sui propri *data center* per valorizzare i propri *asset* ai fini
+della razionalizzazione dei centri elaborazione dati, adeguandoli secondo le
+modalità e i termini previsti ai requisiti di cui al Regolamento adottato ai
+sensi del comma 4 dell'articolo 33-septies del Decreto-legge 179/2012, hanno la
+facoltà di valutare la possibilità di stringere accordi in tal senso per
+raggiungere maggiori livelli di affidabilità, sicurezza ed elasticità, purché
+siano rispettati i princìpi di efficacia ed efficienza dell'azione
+amministrativa e la normativa applicabile. Le amministrazioni che dovessero
+stipulare tali accordi realizzerebbero così le infrastrutture *cloud* federate
+della PA che si affiancano all'infrastruttura Polo Strategico Nazionale nel
+rispetto dell'articolo 33-septies del decreto-legge 18 ottobre 2012, n. 179.
 
-Con riferimento al tema del *cloud* federato, si premette che la
-definizione tecnica coerentemente con la ISO/IEC 22123-1:2023 è la
-seguente: "modello di erogazione di servizi *cloud* forniti da 2 o più
-*cloud service provider* che si uniscono mediante un accordo che preveda
-un insieme concordato di procedure, processi e regole comuni finalizzato
-all'erogazione di servizi *cloud*". Le amministrazioni con
-infrastrutture classificate "A" che hanno deciso di investire sui propri
-*data center* per valorizzare i propri *asset* ai fini della
-razionalizzazione dei centri elaborazione dati, adeguandoli secondo le
-modalità e i termini previsti ai requisiti di cui al Regolamento
-adottato ai sensi del comma 4 dell'articolo 33-septies del Decreto-legge
-179/2012 e agli atti successivi di ACN, hanno la facoltà di valutare la
-possibilità di stringere accordi in tal senso per raggiungere maggiori
-livelli di affidabilità, sicurezza ed elasticità, purché siano
-rispettati i princìpi di efficacia ed efficienza dell'azione
-amministrativa e della normativa applicabile. Le amministrazioni che
-dovessero stipulare tali accordi realizzerebbero così le infrastrutture
-*cloud* federate della PA che si affiancano all'infrastruttura Polo
-Strategico Nazionale nel rispetto dell'articolo 33-septies del
-decreto-legge 18 ottobre 2012, n. 179.
-
-Per "infrastrutture di prossimità" (o *edge computing*) si intendono i
-nodi periferici (*edge nodes*), misurati come numero di nodi di calcolo
-con latenze inferiori a 20 millisecondi; si può trattare di un singolo
-*server* o di un altro insieme di risorse di calcolo connesse, operati
-nell'ambito di un'infrastruttura di *edge computing*, generalmente
-situati all'interno di un *edge data center* che opera all'estremità
-dell'infrastruttura, e quindi fisicamente più vicini agli utenti
-destinatari rispetto a un nodo cloud in un data center centralizzato".
+Per "infrastrutture di prossimità" (o *edge computing*) si intendono i nodi
+periferici (*edge nodes*), misurati come numero di nodi di calcolo come definiti
+dal nuovo Regolamento Cloud ACN 2024; si può trattare di un singolo *server* o
+di un altro insieme di risorse di calcolo connesse, operati nell'ambito di
+un'infrastruttura di *edge computing*, generalmente situati all'interno di un
+*edge data center* che opera all'estremità dell'infrastruttura, e quindi
+fisicamente più vicini agli utenti destinatari rispetto a un nodo cloud in un
+data center centralizzato".
 
 Le amministrazioni che intendono realizzare e/o utilizzare
 infrastrutture di prossimità verificano la conformità di queste ai
@@ -363,7 +355,7 @@ verificare gli impatti della migrazione sui propri capitoli di bilancio
 relativamente sia ai costi correnti (OPEX) sia agli investimenti in
 conto capitale (CAPEX).
 
-2) La gestione dei servizi in *cloud* deve essere presidiata dall'ente
+1) La gestione dei servizi in *cloud* deve essere presidiata dall'ente
 in tutto il ciclo di vita degli stessi e quindi è necessaria la
 disponibilità di competenze specialistiche all'interno dell'Ufficio RTD,
 in forma singola o associata.
@@ -377,7 +369,7 @@ progettando opportuni interventi di *rearchitect, replatform* o
 *repurchase* per poter sfruttare le possibilità offerte oggi dalle
 moderne piattaforme computazionali e dagli algoritmi di intelligenza
 artificiale. In tal senso, occorre muovere verso architetture a
-"micro-servizi" le cui caratteristiche sono, in sintesi, le seguenti:
+"microservizi" le cui caratteristiche sono, in sintesi, le seguenti:
 
 -  ogni servizio non ha dipendenze esterne da altri servizi e gestisce
    autonomamente i propri dati (*self-contained*)
@@ -400,7 +392,7 @@ artificiale. In tal senso, occorre muovere verso architetture a
 della migrazione/abilitazione al cloud che l'allineamento dello stesso
 con l'implementazione delle relative opportunità di riorganizzazione
 dell'ente offerte dall'abilitazione al *cloud* e dalle nuove
-architetture a micro-servizi.
+architetture a microservizi.
 
 3) La gestione del ciclo di vita dei servizi in *cloud*
 dell'amministrazione richiede la strutturazione di opportuni presidi
@@ -420,7 +412,6 @@ Riferimenti normativi nazionali:
    dell'amministrazione
    digitale" articoli. 8-bis e 73;
    <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`__,
-   
 
 -  `Decreto-legge 18 ottobre 2012, n. 179, convertito, con
    modificazioni, dalla legge 17 dicembre 2012, n. 221, "Ulteriori
@@ -461,8 +452,8 @@ Riferimenti normativi nazionali:
 -  `Decreto-legge 14 giugno 2021, n. 82, convertito con modificazioni
    dalla Legge 4 agosto 2021, n. 109 "Disposizioni urgenti in materia di
    cybersicurezza, definizione dell'architettura nazionale di
-   cybersicurezza e istituzione dell'Agenzia per la cybersicurezza
-   nazionale" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-06-14;82>`__
+   cybersicurezza e istituzione dell'Agenzia per la Cybersicurezza
+   Nazionale" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-06-14;82>`__
 
 -  `Circolare AGID n. 1/2019 del 14 giugno 2019 - Censimento del patrimonio ICT
    delle Pubbliche Amministrazioni e classificazione delle infrastrutture idonee
@@ -475,16 +466,17 @@ Riferimenti normativi nazionali:
 -  `Strategia Cloud Italia
    (2021); <https://assets.innovazione.gov.it/1634299755-strategiacloudit.pdf>`__
 
--  `Regolamento AGID, di cui all'articolo 33-septies, comma 4, del
-   decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni,
-   dalla legge 17 dicembre 2012, n. 221, recante i livelli minimi di
-   sicurezza, capacità elaborativa, risparmio energetico e affidabilità
-   delle infrastrutture digitali per la Pubblica Amministrazione e le
-   caratteristiche di qualità, sicurezza, performance e scalabilità,
-   portabilità dei servizi cloud per la Pubblica Amministrazione, le
-   modalità di migrazione nonché le modalità di qualificazione dei
-   servizi cloud per la Pubblica Amministrazione
-   (2021) <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/213481843250O__ORegolamento+servizi+cloud.pdf>`__;
+-  `Regolamento AGID, di cui all'articolo 33-septies, comma 4, del decreto-legge
+   18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17
+   dicembre 2012, n. 221, recante i livelli minimi di sicurezza, capacità
+   elaborativa, risparmio energetico e affidabilità delle infrastrutture
+   digitali per la Pubblica Amministrazione e le caratteristiche di qualità,
+   sicurezza, performance e scalabilità, portabilità dei servizi cloud per la
+   Pubblica Amministrazione, le modalità di migrazione nonché le modalità di
+   qualificazione dei servizi cloud per la Pubblica Amministrazione (2021 prima
+   edizione, successivamente abrogata ai sensi dell'articolo 26 del Decreto
+   Direttoriale ACN n.21007/24)
+   <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/213481843250O__ORegolamento+servizi+cloud.pdf>`__;
 
 -  Determinazioni ACN in attuazione al precedente Regolamento n.
    `306/2022 <https://assets.innovazione.gov.it/1642693979-det_306_cloud_modclass_20220118.pdf>`__
@@ -495,12 +487,14 @@ Riferimenti normativi nazionali:
    (con
    `allegato <https://assets.innovazione.gov.it/1642754054-all1det307acn.pdf>`__)
 
--  Decreti direttoriali ACN prot. `N. 29 del 2 gennaio
-   2023 <http://DecretodirettorialeQualificazioneServiziCloud2genn23DEFsigned>`__,
-   `n. 5489 dell'8 febbraio
-   2023 <https://www.acn.gov.it/documents/DeterminazioneCloud__20230208_def_signed.pdf>`__
-   e n. `20610 del 28 luglio
-   2023 <https://www.acn.gov.it/documents/trasparenza/atti-generali/Decreto%2020610_2023.pdf>`__;
+-  Decreti direttoriali ACN prot. `N. 29 del 2 gennaio 2023
+   <http://DecretodirettorialeQualificazioneServiziCloud2genn23DEFsigned>`__,
+   `n. 5489 dell'8 febbraio 2023
+   <https://www.acn.gov.it/documents/DeterminazioneCloud__20230208_def_signed.pdf>`__
+   e `n. 20610 del 28 luglio 2023
+   <https://www.acn.gov.it/documents/trasparenza/atti-generali/Decreto%2020610_2023.pdf>`__
+   successivamente abrogati ai sensi dell'articolo 26 del Decreto Direttoriale
+   ACN n.21007/24;
 
 -  Piano Nazionale di Ripresa e Resilienza:
 
@@ -519,7 +513,6 @@ Riferimenti europei:
 -  `Strategia europea sui
    dati Commissione Europea 19.2.2020 COM (2020) 66 final;
    <https://ec.europa.eu/info/sites/info/files/communication-european-strategy-data-19feb2020_en.pdf>`__,
-   
 
 -  `Data Governance and data policy at the European Commission, July
    2020; <https://ec.europa.eu/info/publications/data-governance-and-data-policies-european-commission_en>`__
@@ -528,7 +521,7 @@ Riferimenti europei:
    European data governance (Data Governance Act)
    (2020) <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0767>`__
 
-OB.6.1 - Migliorare la qualità e la sicurezza dei servizi digitali erogati dalle amministrazioni attuando la strategia "Cloud Italia" e migrando verso infrastrutture e servizi *cloud* qualificati (incluso PSN)
+OB.6.1 - Migliorare la qualità e la sicurezza dei servizi digitali erogati dalle amministrazioni attuando la strategia "Cloud Italia" e migrando verso infrastrutture e servizi *Cloud* qualificati (incluso PSN)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 RA6.1.1 - Numero di amministrazioni migrate
@@ -553,30 +546,22 @@ Linee di azione istituzionali
 RA6.1.1
 ^^^^^^^
 
--  **Gennaio 2024** - Adozione del nuovo Regolamento di cui al comma 4
-   dell'articolo 33-septies del DL 179/2012 - (ACN) - CAP6.01
-
--  **Giugno 2024** - Definizione delle modalità e i termini per la
+-  **Giugno 2025 \*** - Definizione delle modalità e i termini per la
    realizzazione del censimento dei Centri per l'elaborazione delle
    informazioni (CED) della Pubblica Amministrazione di cui al comma
    1-ter dell'articolo 33-septies del DL 179/2012 - (AGID) - CAP6.02
 
--  **Giugno 2024** - Definizione da parte di AGID e trasmissione a DTD e
+-  **Giugno 2025 \*** - Definizione da parte di AGID e trasmissione a DTD e
    ACN di un piano di azione per l'avvio degli accertamenti di cui
    all'articolo 33-septies comma 4-quinquies del DL 179/2012 - (AGID,
    Dipartimento per la Trasformazione Digitale e ACN) - CAP6.03
-
--  **Settembre 2024** - Predisposizione del documento riepilogativo dei
-   risultati dei progetti di migrazione conclusi dalle amministrazioni
-   in attuazione del PNRR - (Dipartimento per la Trasformazione
-   Digitale) - CAP6.04
 
 -  **Giugno 2026** - Predisposizione del documento riepilogativo dei
    risultati dei progetti di migrazione conclusi dalle amministrazioni
    in attuazione del PNRR - (Dipartimento per la Trasformazione
    Digitale) - CAP6.05
 
-Linee di azione per le PA
+Linee di azione per la PA
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RA6.1.1
@@ -591,16 +576,17 @@ RA6.1.1
    i tempi strettamente necessari a completare il percorso di migrazione
    previsti nei propri piani di migrazione - CAP6.PA.01
 
--  Le PA proprietarie di *data center* classificati da AGID nel gruppo A
-   continuano a gestire e manutenere tali *data center* in coerenza con
-   quanto previsto dalla Strategia *Cloud* Italia e dal Regolamento
-   *cloud* - CAP6.PA.02
+-  Le PA proprietarie di *data center* classificati da AGID nel gruppo A e
+   adeguati ai requisiti ACN continuano a gestire e manutenere tali *data
+   center* in coerenza con quanto previsto dalla Strategia *Cloud* Italia e dal
+   Regolamento *cloud* - CAP6.PA.02
 
 -  Le PA avviano il percorso di migrazione verso il *cloud* in coerenza
    con quanto previsto dalla Strategia *Cloud* Italia - CAP6.PA.03
 
--  Le PA continuano ad applicare il principio *cloud first* e ad
-   acquisire servizi *cloud* solo se qualificati - CAP6.PA.04
+-  Le PA continuano ad applicare il principio *cloud first* e ad acquisire
+   servizi *cloud* solo se qualificati o adeguati ai sensi del Regolamento cloud
+   - CAP6.PA.04
 
 -  Le PA aggiornano l'elenco e la classificazione dei dati e dei servizi
    digitali in presenza di dati e servizi ulteriori rispetto a quelli
@@ -610,27 +596,16 @@ RA6.1.1
 
 **Linee di azione 2024-2026**
 
--  **Da gennaio 2024** - Le PA, ove richiesto dal Dipartimento per la
+-  **Da settembre 2024 \*** - Le PA, ove richiesto dal Dipartimento per la
    Trasformazione Digitale o da AGID, trasmettono le informazioni
    relative allo stato di avanzamento dell'implementazione dei piani di
    migrazione - CAP6.PA.06
 
--  **Da gennaio 2024** - Le amministrazioni che intendono realizzare e/o
+-  **Da settembre 2024 \*** - Le amministrazioni che intendono realizzare e/o
    utilizzare infrastrutture di prossimità verificano la conformità di
    queste ai requisiti del Regolamento di cui al comma 4 dell'articolo
    33-septies del Decreto-legge 179/2012 e ne danno apposita
    comunicazione ad ACN - CAP6.PA.07
-
--  **Gennaio 2024** - Le PA con *data center* di tipo "A" che hanno
-   avviato gli adeguamenti sui propri data center ai requisiti di cui al
-   Regolamento cloud e relativi atti successivi, trasmettono ad ACN la
-   dichiarazione di cui al medesimo Regolamento - CAP6.PA.08
-
--  **Settembre 2024** - 4.083 amministrazioni concludono la migrazione
-   in coerenza con il piano di migrazione e, ove richiesto dal
-   Dipartimento per la Trasformazione Digitale o da AGID, trasmettono le
-   informazioni necessarie per verificare il completamento della
-   migrazione - CAP6.PA.09
 
 -  **Giugno 2026** - Le amministrazioni concludono la migrazione in
    coerenza con il piano di migrazione trasmesso ai sensi del

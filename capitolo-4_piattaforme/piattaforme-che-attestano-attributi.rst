@@ -4,38 +4,36 @@ Piattaforme che attestano attributi
 Scenario
 --------
 
-Negli ultimi anni le iniziative intraprese dai vari attori coinvolti
-nell'ambito del Piano, hanno favorito una importante accelerazione nella
-diffusione di alcune delle principali piattaforme abilitanti, in termini
-di adozione da parte delle PA e di fruizione da parte degli utenti. Il
-Piano descrive lo sviluppo di nuove piattaforme e il consolidamento di
-quelle già in essere attraverso l'aggiunta di nuove funzionalità. Tali
-piattaforme rendono disponibili i dati di settore ai cittadini e PA,
-consentono di razionalizzare i servizi per le amministrazioni e di
-semplificare tramite l'utilizzo delle tecnologie digitali l'interazione
-tra cittadini e PA (per la Piattaforma Digitale Nazionale Dati - PDND).
+Negli ultimi anni le iniziative intraprese dai vari attori coinvolti nell'ambito
+del Piano hanno favorito una importante accelerazione nella diffusione di alcune
+delle principali piattaforme abilitanti, in termini di adozione da parte delle
+PA e di fruizione da parte degli utenti. Il Piano descrive lo sviluppo di nuove
+piattaforme e il consolidamento di quelle già in essere, attraverso l'aggiunta
+di nuove funzionalità. Tali piattaforme rendono disponibili i dati di settore a
+cittadini e PA, consentono di razionalizzare i servizi per le amministrazioni e
+di semplificare, tramite l'utilizzo delle tecnologie digitali, l'interazione tra
+cittadini e PA (vedi Piattaforma Digitale Nazionale Dati - PDND).
 
-Ad esempio, nel luglio 2023 la Piattaforma INAD è andata in esercizio,
-in consultazione, sia tramite il `sito
-web <https://domiciliodigitale.gov.it/dgit/home/public/#!/home>`__ sia
-tramite le API esposte su PDND, attualmente in esercizio. La piattaforma
-è quindi a disposizione per entrambe le modalità di fruizione, da parte
-delle pubbliche amministrazioni. Si invitano pertanto le PA a fruire dei
-relativi servizi, compatibilmente con il loro dimensionamento.
+Ad esempio, dal luglio 2023 la Piattaforma INAD è andata in esercizio, in
+consultazione, sia tramite il `sito web
+<https://domiciliodigitale.gov.it/dgit/home/public/#!/home>`__ sia tramite le
+API esposte su PDND, attualmente in esercizio. La piattaforma è quindi a
+disposizione delle pubbliche amministrazioni per entrambe le modalità di
+fruizione, da parte delle pubbliche amministrazioni. Si invitano pertanto le PA
+a fruire dei relativi servizi, compatibilmente con il loro dimensionamento.
 
-In questo ambito vengono attuate le seguenti Piattaforme che hanno la
-caratteristica di attestare attributi anagrafici e di settore.
+Le seguenti Piattaforme hanno la caratteristica di attestare attributi
+anagrafici e di settore.
 
-**ANPR:** è l'Anagrafe Nazionale che raccoglie tutti i dati anagrafici
-dei cittadini residenti in Italia e dei cittadini italiani residenti
-all'estero, aggiornata con continuità dagli oltre 7900 comuni italiani,
-consentendo di avere un set di dati anagrafici dei cittadini certo,
-accessibile, affidabile e sicuro su cui sviluppare servizi integrati ed
-evoluti per semplificare e velocizzare le procedure tra Pubbliche
-amministrazioni e con il cittadino.
+**ANPR:** è l'Anagrafe Nazionale che raccoglie tutti i dati anagrafici dei
+cittadini residenti in Italia e dei cittadini italiani residenti all'estero,
+aggiornata con continuità dai comuni italiani. Consente di avere un *set* di
+dati anagrafici dei cittadini certo, accessibile, affidabile e sicuro su cui
+sviluppare servizi integrati ed evoluti per semplificare e velocizzare le
+procedure tra pubbliche amministrazioni e con i cittadini.
 
 Sul portale ANPR, nell'area riservata del cittadino, sono attualmente
-disponibili i servizi che consentono al cittadino di:
+disponibili i servizi che consentono di:
 
 -  visualizzare i propri dati anagrafici;
 
@@ -52,17 +50,32 @@ disponibili i servizi che consentono al cittadino di:
 -  visualizzare il proprio domicilio digitale, costantemente allineato
    con l'Indice Nazionale dei Domicili Digitali (INAD);
 
--  comunicare un punto di contatto (mail o telefono).
+-  comunicare un punto di contatto (*mail* o telefono).
 
-A dicembre 2022 sono stati resi disponibili i servizi per consentire, da
-parte dei Comuni, l'invio dei dati elettorali dei cittadini in ANPR.
-Attualmente oltre il 97% dei comuni italiani hanno aderito ai servizi,
-inviando i dati elettorali dei cittadini.
+A dicembre 2022 sono stati resi disponibili i servizi per consentire, da parte
+dei Comuni, l'invio e il continuo aggiornamento dei dati elettorali dei
+cittadini in ANPR e a settembre 2024 è stata completata l'adesione ai servizi da
+parte dei comuni italiani, che hanno inviato i dati elettorali dei cittadini. La
+presenza dei dati elettorali in ANPR ha consentito di mettere a disposizione dei
+cittadini, nell'area riservata del portale, i seguenti servizi:
 
-La presenza dei dati elettorali in ANPR consentirà ai cittadini di
-visualizzare nell'area riservata i dati relativi alla propria posizione
-elettorale e richiedere certificati di godimento dei diritti politici e
-di iscrizione nelle liste elettorali.
+-  visualizzazione dei dati relativi alla propria posizione elettorale e al
+   seggio di esercizio del voto;
+
+-  servizio di richiesta e rilascio dei certificati di godimento dei diritti
+   politici e di iscrizione nelle liste elettorali;
+
+-  servizio di richiesta di iscrizione nelle liste elettorali comunali da parte
+   dei cittadini comunitari residenti in Italia.
+
+La presenza dei dati elettorali in ANPR, inoltre, ha consentito il rilascio di
+servizi su PDND che consentono di verificare in tempo reale la posizione
+elettorale di un cittadino da parte di altre Amministrazioni che ne abbiano
+necessità per fini istituzionali. Una prima applicazione si è avuta con
+l'integrazione di questi servizi con la Piattaforma Referendum, piattaforma
+online attivata a luglio 2024 per consentire la sottoscrizione di proposte
+referendarie e di iniziativa popolare, verificando in tempo reale la posizione
+elettorale del cittadino sottoscrittore.
 
 Inoltre, consentirà di verificare in tempo reale la posizione elettorale
 di un cittadino da parte di altre Amministrazioni che ne abbiano
@@ -74,46 +87,45 @@ posizione elettorale del cittadino sottoscrittore.
 
 Al fine di agevolare lo sviluppo di sistemi integrati ed evoluti, che
 semplifichino e velocizzino le procedure tra le Pubbliche
-Amministrazioni, ANPR ha reso disponibili 28 *e-service* sulla
-Piattaforma Nazionale Digitale Dati (PDND) - Interoperabilità,
+Amministrazioni, ANPR ha rilasciato 28 *e-service* sulla
+Piattaforma Nazionale Digitale Dati (PDND - Interoperabilità),
 consentendo la consultazione dei dati ANPR da parte di altri Enti aventi
 diritto, nel rispetto dei principi del Regolamento *Privacy*.
 
-In aggiunta, l'integrazione dell'ANPR con i servizi dello Stato civile
-digitale ha un rilievo centrale e strategico nel processo di
-digitalizzazione della Pubblica Amministrazione e costituisce un
-significativo strumento di semplificazione per i Comuni e per i
-cittadini. Si prevede, infatti, la completa digitalizzazione dei
-registri dello Stato civile tenuti dai Comuni (nascita, matrimonio,
-unione civile, cittadinanza e morte), con conseguente eliminazione dei
-registri cartacei, e la conservazione dei relativi atti digitali in un
-unico archivio nazionale del Ministero dell'Interno, permettendone la
-consultazione a livello nazionale e offrendo la possibilità di produrre
-estratti o certificati tramite il sistema centrale, senza doverli
-richiedere necessariamente al Comune che li ha generati. Alcuni Comuni
-pilota ad ottobre 2023 hanno iniziato ad utilizzare i servizi resi
-disponibili da ANPR, formando atti digitali di stato civile con effetti
-giuridici.
+Un ulteriore significativo strumento di semplificazione per i Comuni e per i
+cittadini sarà costituito dall'integrazione di ANPR con i servizi dello Stato
+civile digitale. Si prevede, infatti, la completa digitalizzazione dei registri
+dello Stato civile tenuti dai Comuni (nascita, matrimonio, unione civile,
+cittadinanza e morte), con conseguente eliminazione dei registri cartacei, e la
+conservazione dei relativi atti digitali in un unico archivio nazionale del
+Ministero dell'Interno, permettendone la consultazione a livello nazionale e
+offrendo la possibilità di produrre estratti o certificati tramite il sistema
+centrale, senza doverli richiedere necessariamente al Comune che li ha generati.
+
+A partire da ottobre 2023 alcuni Comuni pilota hanno iniziato ad utilizzare i
+servizi resi disponibili da ANPR per lo stato civile e, ad oggi, 14 comuni
+utilizzano i servizi, formando atti digitali di stato civile con effetti
+giuridici conservati nella piattaforma centrale.
 
 ANPR si sta integrando con le anagrafi settoriali del lavoro, della
 pensione e del *welfare* e ogni nuova anagrafe che abbia come
 riferimento la popolazione residente sarà logicamente integrata con
 ANPR.
 
-In questo contesto, per rafforzare gli interventi nei settori di
-istruzione, università e ricerca, accelerare il processo di automazione
-amministrativa e migliorare i servizi per i cittadini e le pubbliche
+Tra le piattaforme che attestano attributi, per rafforzare gli interventi nei
+settori di istruzione, università e ricerca, accelerare il processo di
+automazione amministrativa e migliorare i servizi per i cittadini e le pubbliche
 amministrazioni, sono istituite due Anagrafi:
 
--  **ANIST:** l'Anagrafe nazionale dell'istruzione, a cura del Ministero
+-  **ANIST:** Anagrafe nazionale dell'istruzione, a cura del Ministero
    dell'Istruzione e del Merito
 
--  **ANIS:** l'Anagrafe nazionale dell'istruzione superiore, a cura del
+-  **ANIS:** Anagrafe nazionale dell'istruzione superiore, a cura del
    Ministero dell'Università e della Ricerca.
 
 Le due Anagrafi mirano ad assicurare:
 
--  La centralizzazione dei dati attualmente distribuiti su tutto il
+-  la centralizzazione dei dati attualmente distribuiti su tutto il
    territorio italiano in oltre 10.000 scuole (ANIST) e 500 istituti di
    formazione superiore (ANIS);
 
@@ -136,13 +148,55 @@ Le due Anagrafi mirano ad assicurare:
    gestione dei dati anagrafici degli studenti, eliminando duplicazioni
    e rischi di disallineamento);
 
--  il riconoscimento nell'UE e extra-EU dei titoli di studio.
+-  il riconoscimento nell'UE ed extra-EU dei titoli di studio.
 
-Per l'avvio progettuale di ANIST si attende la conclusione del relativo
-iter normativo.
+L'iter normativo di ANIS è stato concluso il 18 gennaio 2023 e a settembre dello
+stesso anno è stato rilasciato il portale nazionale ANIS
+(https://anis.mur.gov.it/) con l'attivazione dei seguenti servizi online verso i
+cittadini:
+
+- consultazione dei propri titoli di studio;
+
+- possibilità di presentare una richiesta di rettifica degli stessi, ove
+  necessario;
+
+- possibilità di ottenere attestazioni dei propri titoli di studio, firmate
+  digitalmente dal MUR, da utilizzare nei rapporti con soggetti privati.
+
+Sono stati rilasciati, inoltre, i servizi sulla PDND, per consentire la verifica
+e il recupero dei dati relativi ai titoli di studio e alle iscrizioni da parte
+degli Enti aventi diritto.
+
+Il Regolamento sulle modalità di attuazione e funzionamento dell'Anagrafe
+nazionale dell'istruzione (ANIST) è entrato in vigore il 23 marzo 2024 e si
+prevede l'attivazione del portale entro il 2024, consentendo ai cittadini di
+consultare online i dati relativi alle frequenze e ai titoli di studio,
+richiedere una eventuale rettifica degli stessi, nonché ottenere il rilascio di
+certificazioni spendibili nei rapporti con i privati.
 
 Contesto normativo e strategico
 -------------------------------
+
+*INAD*
+
+Riferimenti normativi italiani:
+
+-  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
+   digitale" (CAD),
+   <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis>`__
+   art. 3-bis e 6-quater
+
+-  `Decreto-legge 6 novembre 2021, n. 152, convertito con modificazioni
+   dalla Legge 29 dicembre 2021, n. 233 "Disposizioni urgenti per
+   l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e per
+   la prevenzione delle infiltrazioni
+   mafiose" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-11-06;152>`__
+
+-  `Linee Guida AGID sull'Indice nazionale dei domicili digitali delle
+   persone fisiche, dei professionisti e degli altri enti di diritto
+   privato non tenuti all'iscrizione in albi, elenchi o registri
+   professionali o nel registro delle imprese
+   (2023) <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/221871119160O__OLinee+guida+inad+ex+art.+6quater+cad.pdf>`__
 
 *ANPR*
 
@@ -164,7 +218,7 @@ Riferimenti normativi italiani:
    dell'articolo 62 del decreto legislativo 7 marzo 2005, n.
    82 <https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-08-23;109>`__
 
--  `Decreto del Ministero dell'interno del 3 novermbre 2021 Modalità di
+-  `Decreto del Ministero dell'Interno del 3 novermbre 2021 Modalità di
    erogazione da parte dell'Anagrafe nazionale della popolazione
    residente dei servizi telematici per il rilascio di certificazioni
    anagrafiche on-line e per la presentazione on-line delle
@@ -177,14 +231,14 @@ Riferimenti normativi italiani:
    Presidente della Repubblica 20 marzo 1967, n.
    223 <https://www.gazzettaufficiale.it/eli/id/2022/11/15/22A06434/sg>`__
 
--  `Decreto del MInistero dell'interno del 18 ottobre 2022,
+-  `Decreto del Ministero dell'Interno del 18 ottobre 2022,
    Aggiornamento della piattaforma di funzionamento dell'Anagrafe
    nazionale della popolazione residente per l'erogazione dei servizi
    resi disponibili ai comuni per l'utilizzo dell'Archivio nazionale
    informatizzato dei registri dello stato
    civile <https://www.gazzettaufficiale.it/eli/id/2022/11/17/22A06473/sg>`__
 
--  `Decreto del Ministero dell'interno del 3 marzo 2023 - Modalità di
+-  `Decreto del Ministero dell'Interno del 3 marzo 2023 - Modalità di
    attribuzione, da parte dell'Anagrafe nazionale della popolazione
    residente, di un codice identificativo univoco per garantire la
    circolarità dei dati anagrafici e l'interoperabilità con le altre
@@ -224,32 +278,16 @@ Riferimenti normativi italiani:
 Riferimenti normativi italiani:
 
 -  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
-   digitale" (CAD), art.
-   62-quater <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis>`__
+   digitale" (CAD), art. 62-quater
+   <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis>`__
 
-*INAD*
+-  `Decreto del Ministero dell'Istruzione e del Merito del 7 dicembre 2023, n.
+   234, "Regolamento sulle modalità di attuazione e funzionamento dell'Anagrafe
+   nazionale dell'istruzione"
+   <https://www.gazzettaufficiale.it/eli/id/2024/03/08/24G00037/sg>`__
 
-Riferimenti normativi italiani:
-
--  `Decreto legislativo 7 marzo 2005, n. 82 "Codice dell'amministrazione
-   digitale"
-   (CAD), <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art64bis>`__
-   art. 3-bis e 6-quater
-
--  `Decreto-legge 6 novembre 2021, n. 152, convertito con modificazioni
-   dalla Legge 29 dicembre 2021, n. 233 "Disposizioni urgenti per
-   l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e per
-   la prevenzione delle infiltrazioni
-   mafiose" <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-11-06;152>`__
-
--  `Linee guida AGID sull'Indice nazionale dei domicili digitali delle
-   persone fisiche, dei professionisti e degli altri enti di diritto
-   privato non tenuti all'iscrizione in albi, elenchi o registri
-   professionali o nel registro delle imprese
-   (2023) <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/221871119160O__OLinee+guida+inad+ex+art.+6quater+cad.pdf>`__
-
-Obiettivo 4.2 - Ottenere la piena interoperabilità tra le piattaforme 
-----------------------------------------------------------------------
+Obiettivo 4.2 - Ottenere la piena interoperabilità tra le piattaforme
+---------------------------------------------------------------------
 
 RA4.2.1 - Adesione ai nuovi servizi offerti da ANPR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -263,12 +301,12 @@ RA4.2.1 - Adesione ai nuovi servizi offerti da ANPR
 -  **Target 2026** - Piena interoperabilità con le altre basi dati di
    interesse nazionale (come definite nel CAD art. 60, comma 3-bis)
 
-RA4.2.2 - Disponibilità dei dati su iscrizioni e titoli di studio su ANIS 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RA4.2.2 - Disponibilità dei dati su iscrizioni e titoli di studio su ANIS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - n.d.
+-  **Target 2024** - n.a.
 
--  **Target 2025** - n.d.
+-  **Target 2025** - n.a.
 
 -  **Target 2026** - 100% dei dati su iscrizioni e titoli di studio
    disponibili e fruibili su ANIS
@@ -276,11 +314,13 @@ RA4.2.2 - Disponibilità dei dati su iscrizioni e titoli di studio su ANIS
 RA4.2.3 - Realizzazione della piattaforma ANIST
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Target 2024** - Rilascio della piattaforma ANIST
+-  **Target 2024** - n.a. (Target rimodulato in attesa della
+   definizione delle specifiche tecniche dei servizi resi dall'ANIST ritenute
+   necessarie per l'avvio dell'operatività (art 11 DM 7 dicembre 2023, n. 234).
 
--  **Target 2025** - n.d.
+-  **Target 2025** - n.a.
 
--  **Target 2026** - n.d.
+-  **Target 2026** - Completamento della piattaforma ANIST
 
 Linee di azione istituzionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -288,43 +328,25 @@ Linee di azione istituzionali
 RA4.2.1
 ^^^^^^^
 
--  **Giugno 2024** - Organizzazione di *webinar* e corsi di formazione
-   per gli Ufficiali d'Anagrafe, per gli Ufficiali Elettorali e per gli
-   Ufficiali di Stato Civile - (Dipartimento per la Trasformazione
-   Digitale) - CAP4.29
-
--  **Dicembre 2025** - Supporto ai comuni tramite contributi per
-   l'adesione ai servizi elettorali e allo stato civile disponibili da
-   web app ANPR - (Dipartimento per la Trasformazione Digitale) -
+-  **Dicembre 2025** - Supporto ai comuni tramite contributi per l'adesione ai
+   servizi dello Stato Civile - (Dipartimento per la Trasformazione Digitale) -
    CAP4.30
 
 RA4.2.2
 ^^^^^^^
 
--  **Gennaio 2024** - Messa a disposizione sul portale ANIS nell'area
-   tecnica una guida per gli IFS che identifica le modalità di
-   interlocuzione, approfondendo dati contenuti, modalità di
-   alimentazione e di consultazione di ANIS - (Dipartimento per la
-   Trasformazione Digitale) - CAP4.31
-
--  **Gennaio 2024** - Pubblicazione di bandi pubblici su `PA Digitale
-   2026 <https://padigitale2026.gov.it/>`__ per il finanziamento delle
-   attività atte all'integrazione e all'erogazione di *e-service* su
-   PDND - (Dipartimento per la Trasformazione Digitale) - CAP4.32
-
--  **Febbraio 2024** - Rilascio *web application* per il caricamento
-   massivo dei dati - (Dipartimento per la Trasformazione Digitale) -
-   CAP4.33
+-  **Marzo 2025 \*** - Rilascio *web application* ANIS per il caricamento
+   massivo dei dati - (MUR) - CAP4.33
 
 RA4.2.3
 ^^^^^^^
 
--  **Giugno 2024** - Messa a disposizione di un portale dedicato ad
+-  **Giugno 2025 \*** - Messa a disposizione di un portale dedicato ad
    ANIST comprensivo di un'area tecnica dove sarà pubblicata la
    documentazione di interesse per le scuole - (Dipartimento per la
    Trasformazione Digitale) - CAP4.34
 
--  **Dicembre 2024** - Rilascio della piattaforma ANIST - (Dipartimento
+-  **Giugno 2026 \*** - Completamento  della piattaforma ANIST - (Dipartimento
    per la Trasformazione Digitale) - CAP4.35
 
 Linee di azione per le PA
@@ -333,29 +355,26 @@ Linee di azione per le PA
 RA4.2.1
 ^^^^^^^
 
--  **Da febbraio 2024** - Dalla "fine dell'adozione controllata" i
-   Comuni potranno richiedere l'adesione servizi di Stato civile su ANPR
-   - CAP4.PA.18
+-  **Da febbraio 2024** - I Comuni potranno richiedere l'adesione servizi di
+   Stato civile su ANPR - CAP4.PA.18
 
 RA4.2.2
 ^^^^^^^
 
--  **Da gennaio 2024** - Le Università e gli AFAM statali possono
-   trasmettere i propri dati per l'integrazione su ANIS attraverso
-   servizi resi fruibili dalla PDND secondo quanto descritto nell'area
-   tecnica del sito
-   https://www.anis.mur.gov.it/area-tecnica/documentazione - CAP4.PA.19
+-  **Da gennaio 2024** - Le PA possono consultare i dati dell'ANIS attraverso
+   servizi resi fruibili dalla PDND secondo quanto descritto nell'area tecnica
+   del sito https://www.anis.mur.gov.it/area-tecnica/documentazione - CAP4.PA.19
 
--  **Da aprile 2024** - Le Università possono trasmettere i propri dati
+-  **Da aprile 2025 \*** - Le Università possono trasmettere i propri dati
    per l'integrazione su ANIS attraverso l'uso di una *web application*
    - CAP4.PA.20
 
 RA4.2.3
 ^^^^^^^
 
--  **Da luglio 2024** - Le istituzioni scolastiche possono prendere
+-  **Da luglio 205 \*** - Le istituzioni scolastiche possono prendere
    visione delle informazioni di interesse nell'area tecnica del portale
-   messo a disposizione - CAP4.PA.21
+   messo a disposizione da ANIST - CAP4.PA.21
 
--  **Da gennaio 2025** - Le istituzioni scolastiche accedono alle
-   funzionalità della piattaforma - CAP4.PA.22
+-  **Da luglio 2025 \*** - Le istituzioni scolastiche accedono alle
+   funzionalità della piattaforma ANIST - CAP4.PA.22

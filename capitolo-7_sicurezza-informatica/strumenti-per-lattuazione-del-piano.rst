@@ -1,7 +1,5 @@
-.. _strumenti-per-lattuazione-del-piano-6:
-
-Strumenti per l'attuazione del Piano 
-=====================================
+Strumenti per l'attuazione del Piano
+====================================
 
 -  Servizi *Cyber* nazionali già attivati e in fase di attivazione da
    parte di ACN. In particolare, si evidenziano i seguenti servizi:

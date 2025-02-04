@@ -1,7 +1,7 @@
 Percorso di elaborazione del Piano triennale
 ============================================
 
-Il Piano triennale 2024-26 è il risultato di un'attività di scambio e
+Il Piano triennale 2024-2026 è il risultato di un'attività di scambio e
 concertazione tra amministrazioni e soggetti istituzionali che hanno
 contribuito anche alla redazione delle precedenti edizioni. Nel mese di
 settembre 2023 è stato istituito un Tavolo di concertazione, con

@@ -11,8 +11,8 @@ INTRODUZIONE
 
     introduzione.rst
 
-PARTE PRIMA - Componenti strategiche per la trasformazione digitale
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+PARTE PRIMA - Componenti strategiche
+::::::::::::::::::::::::::::::::::::
 
 .. toctree::
     :maxdepth: 2
@@ -37,7 +37,8 @@ PARTE SECONDA - Componenti tecnologiche
 
     credits.rst
     ringraziamenti.rst
-    appendice-glossario.rst
+    appendice-1_glossario.rst
+    appendice-2_risultati_output_la_istituzionali_2024_completate.rst
 
 PARTE TERZA - Strumenti
 :::::::::::::::::::::::
@@ -45,8 +46,4 @@ PARTE TERZA - Strumenti
 .. toctree::
     :maxdepth: 2
 
-    strumenti/strumento-1_approvigionamento-ict.rst
-    strumenti/strumento-2_gestione-associata-ict.rst
-    strumenti/strumento-3_servizi-prioritari-secondo-egovernment-benchmark.rst
-    strumenti/strumento-4_smart-area-servizi-digitali-territoriali-avanzati.rst
-    strumenti/strumento-5_intelligenza-artificiale-nella-pubblica-amministrazione.rst
+    strumenti.rst

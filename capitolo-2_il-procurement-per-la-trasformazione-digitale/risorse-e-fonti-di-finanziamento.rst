@@ -1,7 +1,4 @@
-.. _risorse-e-fonti-di-finanziamento-1:
-
 Risorse e fonti di finanziamento
 ================================
 
-`Portale informativo Consip Gare
-Strategiche <https://www.consip.it/attivit/gare-strategiche>`__
+`Portale informativo Consip dedicato alle Gare Strategiche <https://www.consip.it/attività/gare-strategiche>`__

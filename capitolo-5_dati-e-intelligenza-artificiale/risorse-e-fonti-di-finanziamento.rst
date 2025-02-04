@@ -1,5 +1,3 @@
-.. _risorse-e-fonti-di-finanziamento-4:
-
 Risorse e fonti di finanziamento
 ================================
 

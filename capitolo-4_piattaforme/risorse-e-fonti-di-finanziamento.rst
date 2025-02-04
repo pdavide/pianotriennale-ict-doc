@@ -1,5 +1,3 @@
-.. _risorse-e-fonti-di-finanziamento-3:
-
 Risorse e fonti di finanziamento
 ================================
 
@@ -36,7 +34,7 @@ OB4.1
 
    -  Avvisi pubblici - finalizzati all'integrazione con la piattaforma
       SEND dei processi di notificazione degli atti a valore legale
-      attualmente in uso presso le Pubbliche Amministrazione - emanati
+      attualmente in uso presso le pubbliche amministrazioni - emanati
       dal Dipartimento della Trasformazione Digitale (DTD), nell'ambito
       della componente M1.C1 - Digitalizzazione, innovazione e sicurezza
       PA del Piano PNRR, e in particolare, la Misura 1.4.4 "Estensione

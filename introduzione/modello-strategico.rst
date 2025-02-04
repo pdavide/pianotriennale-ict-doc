@@ -1,7 +1,7 @@
 Modello strategico
 ==================
 
-Il modello strategico del Piano triennale 2024-26 definisce una
+Il modello strategico del Piano triennale 2024-2026 definisce una
 architettura organizzativa e tecnologica che ha l'obiettivo di
 supportare la collaborazione tra i livelli istituzionali, nel rispetto
 dell'autonomia degli stessi enti, come previsto anche dall'art. 14 del
@@ -10,7 +10,7 @@ Regioni e autonomie locali.
 
 Art. 14 - Rapporti tra Stato, Regioni e autonomie locali
 
-*1.* In attuazione del disposto dell'articolo 117, secondo comma,
+1. In attuazione del disposto dell'articolo 117, secondo comma,
 lettera r), della Costituzione, lo Stato disciplina il coordinamento
 informatico dei dati dell'amministrazione statale, regionale e locale,
 dettando anche le regole tecniche necessarie per garantire la sicurezza
@@ -25,7 +25,7 @@ nazionale e realizzare un processo di digitalizzazione dell'azione
 amministrativa coordinato e condiviso e per l'individuazione delle Linee
 guida.
 
-La Presidenza del Consiglio dei Ministri, anche avvalendosi dell'AGID,
+La Presidenza del Consiglio dei ministri, anche avvalendosi dell'AGID,
 assicura il coordinamento informatico dell'amministrazione statale,
 regionale e locale, con la finalità di progettare e monitorare
 l'evoluzione strategica del sistema informativo della Pubblica
@@ -43,13 +43,13 @@ dell'informazione e della comunicazione per garantire servizi migliori
 ai cittadini e alle imprese, secondo le modalità di cui al comma 2.
 
 In una logica di miglioramento continuo, il modello strategico del Piano
-triennale 2024-26 propone una architettura organizzativa e tecnologica
+triennale 2024-2026 propone una architettura organizzativa e tecnologica
 che ha l'obiettivo di fornire una visione complessiva della Pubblica
 Amministrazione digitale che parte dal "sistema informativo" del singolo
 ente per arrivare a definire le relazioni con i servizi, le piattaforme
 e le infrastrutture nazionali erogate a livello centrale.
 
-Il modello strategico del Piano triennale 2024-26 classifica le sfide
+Il modello strategico del Piano triennale 2024-2026 classifica le sfide
 organizzative e tecnologiche che le amministrazioni devono affrontare in
 tre macroaree:
 
@@ -77,7 +77,7 @@ architettura policentrica e federata.
          artificiale. La macroarea tecnologie è costituita dai livelli
          infrastrutture digitali e sicurezza informatica.
 
-   Modello strategico del Piano triennale 2024-26
+   Modello strategico del Piano triennale 2024-2026
 
 Per ogni livello dell'architettura è necessario tracciare, a partire dal
 Piano triennale, strumenti, regole tecniche e traiettorie evolutive

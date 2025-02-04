@@ -4,13 +4,13 @@ E-Service in interoperabilità tramite PDND
 Scenario
 --------
 
-L'interoperabilità facilita l'interazione digitale tra Pubbliche
-Amministrazioni, cittadini e imprese, recependo le indicazioni
+L'interoperabilità facilita l'interazione digitale tra pubbliche
+amministrazioni, cittadini e imprese, recependo le indicazioni
 dell'*European Interoperability Framework* e, favorendo l'attuazione
 del principio *once only* secondo il quale la PA non deve chiedere a
 cittadini e imprese dati che già possiede.
 
-A fine di raggiungere la completa interoperabilità dei *dataset* e dei
+Al fine di raggiungere la completa interoperabilità dei *dataset* e dei
 servizi chiave tra le PA centrali e locali e di valorizzare il capitale
 informativo delle pubbliche amministrazioni, nell'ambito del
 Sub-Investimento M1C1_1.3.1 "Piattaforma nazionale digitale dei dati"
@@ -27,7 +27,7 @@ interoperabilità PDND siglando un accordo di adesione, attraverso le
 funzionalità messe a disposizione dell'infrastruttura.
 
 La PDND permette alle amministrazioni di pubblicare *e-service*, ovvero
-servizi digitali conformi alle Linee Guida realizzati ed erogati
+servizi digitali conformi alle Linee guida realizzati ed erogati
 attraverso l'implementazione di API (*Application Programming
 Interface*) REST o SOAP (per retrocompatibilità) cui vengono associati
 degli attributi minimi necessari alla fruizione. Le API esposte vengono
@@ -71,7 +71,7 @@ varie amministrazioni e nel triennio a venire dovrà anche:
 Al fine di sviluppare servizi integrati sempre più efficienti ed
 efficaci e di fornire a cittadini e imprese servizi rispondenti alle
 rispettive esigenze, il Dipartimento per la Trasformazione Digitale
-supporta le PA nell'adozione del Modello di interoperabilità,
+supporta le PA nell'adozione del nuovo Modello di interoperabilità,
 pianificando e coordinando iniziative di condivisione, anche attraverso
 protocolli d'intesa e accordi finalizzati a:
 
@@ -208,8 +208,8 @@ RA3.1.2 - Aumento del numero di Richieste di Fruizione Autorizzate su PDND
 
 -  Target 2026 - 7.000 A Richieste di Fruizione Autorizzate su PDND
 
-RA3.1.3 - Ampliamento del numero delle amministrazioni coinvolte nell'evoluzione delle Linee Guida sull'interoperabilità tecnica delle Pubbliche Amministrazioni 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RA3.1.3 - Ampliamento del numero delle amministrazioni coinvolte nell'evoluzione delle Linee guida sull'interoperabilità tecnica delle Pubbliche Amministrazioni
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  **Target 2024** - Costruzione *baseline* con identificazione del
    numero delle PA che evidenziano nuove esigenze applicative e
@@ -226,16 +226,12 @@ Linee di azione istituzionali
 RA3.1.1
 ^^^^^^^
 
--  **Marzo 2024** - Aggiornamento delle Linee Guida di Interoperabilità
-   per includere il nuovo pattern di sicurezza relativo agli scambi
-   massivi - (AGID) - CAP3.01
-
--  **Luglio 2024** - Aggiornamento delle Linee guida PDND per includere
+-  **Dicembre 2024 \*** - Aggiornamento delle Linee guida PDND per includere
    funzionalità di gestione di variazione del dato, scambi asincroni,
    erogazione inversa e intermediari - (AGID, Dipartimento per la
    Trasformazione Digitale) - CAP3.02
 
--  **Settembre 2024** - Attivazione della PDND per la gestione dei
+-  **Dicembre 2024 \*** - Attivazione della PDND per la gestione dei
    processi di notifica di variazione del dato - (PagoPA S.p.A,
    Dipartimento per la Trasformazione Digitale) - CAP3.03
 
@@ -249,31 +245,15 @@ RA3.1.1
    funzionalità di intermediazione - (PagoPA S.p.A, Dipartimento per la
    Trasformazione Digitale) - CAP3.05
 
-RA3.1.2 
-^^^^^^^^
+RA3.1.2
+^^^^^^^
 
--  **Luglio 2024 -** Aggiornamento delle Linee guida PDND per includere
-   funzionalità di gestione di variazione del dato, scambi asincroni,
-   erogazione inversa e intermediari - (AGID, Dipartimento per la
-   Trasformazione Digitale) - CAP3.06
-
--  **Dicembre 2024** - Attivazione della PDND per la gestione dei
+-  **Luglio 2025 \*** - Attivazione della PDND per la gestione dei
    processi di erogazione dei servizi da parte dei privati - (PagoPA
    S.p.A, Dipartimento per la Trasformazione Digitale) - CAP3.07
 
-RA3.1.3 
-^^^^^^^^
-
--  **Maggio 2024** - Revisione delle "Linee guida sull'interoperabilità
-   tecnica delle Pubbliche Amministrazioni" aggiungendo nuovi *pattern*
-   e/o profili ai relativi documenti operativi sulla base delle esigenze
-   espresse dalle PA entro gennaio 2024 - (AGID) - CAP3.08
-
--  **Novembre 2024** - Aggiornamento delle "Linee guida
-   sull'interoperabilità tecnica delle Pubbliche Amministrazioni"
-   aggiungendo nuovi *pattern* e/o profili ai relativi documenti
-   operativi sulla base delle esigenze espresse dalle PA - (AGID) -
-   CAP3.09
+RA3.1.3
+^^^^^^^
 
 -  **Maggio 2025** - Aggiornamento delle "Linee guida
    sull'interoperabilità tecnica delle Pubbliche Amministrazioni"
@@ -281,22 +261,22 @@ RA3.1.3
    operativi sulla base delle esigenze espresse dalle PA - (AGID) -
    CAP3.10
 
--  **Novembre 2025** - Revisione delle "Linee guida
+-  **Novembre 2025** - Aggiornamento delle "Linee guida
    sull'interoperabilità tecnica delle Pubbliche Amministrazioni"
    aggiungendo nuovi *pattern* e/o profili ai relativi documenti
    operativi sulla base delle esigenze espresse dalle PA - (AGID) -
    CAP3.11
 
-Linee di azione per le PA 
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Linee di azione per le PA
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RA3.1.1
 ^^^^^^^
 
 -  **Da gennaio 2024** - Le PA cessano di utilizzare modalità di
-   interoperabilità diverse da PDND - CAP3.PA.01
+   interoperabilità diverse da PDND per le nuove implementazioni - CAP3.PA.01
 
--  **Da gennaio 2024** - Le Amministrazioni iniziano la migrazione dei
+-  **Da gennaio 2024** - Le Amministrazioni possono iniziare la migrazione dei
    servizi erogati in interoperabilità dalle attuali modalità alla PDND
    - CAP3.PA.02
 
@@ -311,8 +291,8 @@ RA3.1.1
 -  **Da gennaio 2024** - Le PA centrali siglano accordi per l'erogazione
    di API su PDND - CAP3.PA.05
 
-RA3.1.2 
-^^^^^^^^
+RA3.1.2
+^^^^^^^
 
 -  **Da gennaio 2024** - Le PA utilizzano le API presenti sul Catalogo -
    CAP3.PA.06
